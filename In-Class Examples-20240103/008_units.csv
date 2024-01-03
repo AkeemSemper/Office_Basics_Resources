@@ -1,0 +1,3871 @@
+WARD,NEIGHBOURHOOD_NUMBER,STRUCTURE_TYPE,OCCUPIED,UNOCCUPIED,NO_LONGER_IN_USE,NO_RESPONSE
+Ward 1,3140,Single Detached House,776,37,5,0
+Ward 1,3140,Duplex/Fourplex,0,4,0,0
+Ward 1,3140,Row House,13,1,0,0
+Ward 1,3140,Apartment (5+ stories),0,0,0,0
+Ward 1,3140,Apartment (1-4 stories),109,1,4,0
+Ward 1,3140,Manufactured/Mobile Home,0,0,0,0
+Ward 1,3140,Institution/Collective Residence,1,1,0,0
+Ward 1,3140,Hotel/Motel,0,0,0,0
+Ward 1,3140,RV/Tent/Other,1,0,0,0
+Ward 1,3140,No Response,0,0,0,0
+Ward 1,3330,Single Detached House,1275,43,3,0
+Ward 1,3330,Duplex/Fourplex,0,0,0,0
+Ward 1,3330,Row House,10,2,0,0
+Ward 1,3330,Apartment (5+ stories),0,0,0,0
+Ward 1,3330,Apartment (1-4 stories),0,0,0,0
+Ward 1,3330,Manufactured/Mobile Home,0,0,0,0
+Ward 1,3330,Institution/Collective Residence,0,0,0,0
+Ward 1,3330,Hotel/Motel,0,0,0,0
+Ward 1,3330,RV/Tent/Other,0,0,0,0
+Ward 1,3330,No Response,0,0,0,0
+Ward 1,3380,Single Detached House,0,0,0,0
+Ward 1,3380,Duplex/Fourplex,0,0,0,0
+Ward 1,3380,Row House,0,0,0,0
+Ward 1,3380,Apartment (5+ stories),0,0,0,0
+Ward 1,3380,Apartment (1-4 stories),0,0,0,0
+Ward 1,3380,Manufactured/Mobile Home,0,0,0,0
+Ward 1,3380,Institution/Collective Residence,0,0,0,0
+Ward 1,3380,Hotel/Motel,0,0,0,0
+Ward 1,3380,RV/Tent/Other,0,0,0,0
+Ward 1,3380,No Response,0,0,0,0
+Ward 1,4010,Single Detached House,0,0,0,0
+Ward 1,4010,Duplex/Fourplex,0,0,0,0
+Ward 1,4010,Row House,0,0,0,0
+Ward 1,4010,Apartment (5+ stories),0,0,0,0
+Ward 1,4010,Apartment (1-4 stories),0,0,0,0
+Ward 1,4010,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4010,Institution/Collective Residence,0,0,0,0
+Ward 1,4010,Hotel/Motel,0,0,0,0
+Ward 1,4010,RV/Tent/Other,0,0,0,0
+Ward 1,4010,No Response,0,0,0,0
+Ward 1,4011,Single Detached House,0,0,0,0
+Ward 1,4011,Duplex/Fourplex,0,0,0,0
+Ward 1,4011,Row House,0,0,0,0
+Ward 1,4011,Apartment (5+ stories),0,0,0,0
+Ward 1,4011,Apartment (1-4 stories),0,0,0,0
+Ward 1,4011,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4011,Institution/Collective Residence,0,0,0,0
+Ward 1,4011,Hotel/Motel,0,0,0,0
+Ward 1,4011,RV/Tent/Other,0,0,0,0
+Ward 1,4011,No Response,0,0,0,0
+Ward 1,4018,Single Detached House,0,0,0,0
+Ward 1,4018,Duplex/Fourplex,0,0,0,0
+Ward 1,4018,Row House,0,0,0,0
+Ward 1,4018,Apartment (5+ stories),0,0,0,0
+Ward 1,4018,Apartment (1-4 stories),0,0,0,0
+Ward 1,4018,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4018,Institution/Collective Residence,0,0,0,0
+Ward 1,4018,Hotel/Motel,0,0,0,0
+Ward 1,4018,RV/Tent/Other,0,0,0,0
+Ward 1,4018,No Response,0,0,0,0
+Ward 1,4020,Single Detached House,1097,10,1,0
+Ward 1,4020,Duplex/Fourplex,0,0,0,0
+Ward 1,4020,Row House,381,16,1,0
+Ward 1,4020,Apartment (5+ stories),0,0,0,0
+Ward 1,4020,Apartment (1-4 stories),457,16,3,0
+Ward 1,4020,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4020,Institution/Collective Residence,0,0,0,0
+Ward 1,4020,Hotel/Motel,0,0,0,0
+Ward 1,4020,RV/Tent/Other,0,0,0,0
+Ward 1,4020,No Response,0,0,0,0
+Ward 1,4030,Single Detached House,0,0,0,0
+Ward 1,4030,Duplex/Fourplex,0,0,0,0
+Ward 1,4030,Row House,0,0,0,0
+Ward 1,4030,Apartment (5+ stories),0,0,0,0
+Ward 1,4030,Apartment (1-4 stories),13,0,0,0
+Ward 1,4030,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4030,Institution/Collective Residence,2,0,0,0
+Ward 1,4030,Hotel/Motel,0,1,0,0
+Ward 1,4030,RV/Tent/Other,0,0,0,0
+Ward 1,4030,No Response,0,0,0,0
+Ward 1,4040,Single Detached House,805,13,0,0
+Ward 1,4040,Duplex/Fourplex,43,2,1,0
+Ward 1,4040,Row House,634,5,31,0
+Ward 1,4040,Apartment (5+ stories),0,0,0,0
+Ward 1,4040,Apartment (1-4 stories),163,3,1,0
+Ward 1,4040,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4040,Institution/Collective Residence,0,0,0,0
+Ward 1,4040,Hotel/Motel,1,0,0,0
+Ward 1,4040,RV/Tent/Other,7,1,0,0
+Ward 1,4040,No Response,0,0,0,0
+Ward 1,4060,Single Detached House,885,32,36,0
+Ward 1,4060,Duplex/Fourplex,127,16,12,0
+Ward 1,4060,Row House,161,3,0,0
+Ward 1,4060,Apartment (5+ stories),0,0,0,0
+Ward 1,4060,Apartment (1-4 stories),1127,24,0,0
+Ward 1,4060,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4060,Institution/Collective Residence,4,0,0,0
+Ward 1,4060,Hotel/Motel,1,0,0,0
+Ward 1,4060,RV/Tent/Other,1,0,0,0
+Ward 1,4060,No Response,0,0,0,0
+Ward 1,4090,Single Detached House,307,30,52,0
+Ward 1,4090,Duplex/Fourplex,456,27,24,0
+Ward 1,4090,Row House,2,4,1,0
+Ward 1,4090,Apartment (5+ stories),0,0,98,0
+Ward 1,4090,Apartment (1-4 stories),758,82,8,0
+Ward 1,4090,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4090,Institution/Collective Residence,1,0,0,0
+Ward 1,4090,Hotel/Motel,1,1,0,0
+Ward 1,4090,RV/Tent/Other,0,0,0,0
+Ward 1,4090,No Response,0,0,0,0
+Ward 1,4100,Single Detached House,0,0,0,0
+Ward 1,4100,Duplex/Fourplex,0,0,0,0
+Ward 1,4100,Row House,0,0,0,0
+Ward 1,4100,Apartment (5+ stories),0,0,0,0
+Ward 1,4100,Apartment (1-4 stories),0,0,0,0
+Ward 1,4100,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4100,Institution/Collective Residence,0,0,0,0
+Ward 1,4100,Hotel/Motel,0,0,0,0
+Ward 1,4100,RV/Tent/Other,0,0,0,0
+Ward 1,4100,No Response,0,0,0,0
+Ward 1,4130,Single Detached House,0,0,0,0
+Ward 1,4130,Duplex/Fourplex,0,0,0,0
+Ward 1,4130,Row House,0,0,0,0
+Ward 1,4130,Apartment (5+ stories),0,0,0,0
+Ward 1,4130,Apartment (1-4 stories),0,0,0,0
+Ward 1,4130,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4130,Institution/Collective Residence,0,0,0,0
+Ward 1,4130,Hotel/Motel,0,0,0,0
+Ward 1,4130,RV/Tent/Other,0,0,0,0
+Ward 1,4130,No Response,0,0,0,0
+Ward 1,4180,Single Detached House,937,51,24,0
+Ward 1,4180,Duplex/Fourplex,87,3,3,0
+Ward 1,4180,Row House,31,0,1,0
+Ward 1,4180,Apartment (5+ stories),225,8,2,0
+Ward 1,4180,Apartment (1-4 stories),982,62,21,0
+Ward 1,4180,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4180,Institution/Collective Residence,6,0,2,0
+Ward 1,4180,Hotel/Motel,1,0,0,0
+Ward 1,4180,RV/Tent/Other,0,0,0,0
+Ward 1,4180,No Response,0,0,0,0
+Ward 1,4190,Single Detached House,0,0,0,0
+Ward 1,4190,Duplex/Fourplex,0,0,0,0
+Ward 1,4190,Row House,0,0,0,0
+Ward 1,4190,Apartment (5+ stories),0,0,0,0
+Ward 1,4190,Apartment (1-4 stories),0,0,0,0
+Ward 1,4190,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4190,Institution/Collective Residence,0,0,0,0
+Ward 1,4190,Hotel/Motel,0,0,0,0
+Ward 1,4190,RV/Tent/Other,0,0,0,0
+Ward 1,4190,No Response,0,0,0,0
+Ward 1,4200,Single Detached House,567,66,12,0
+Ward 1,4200,Duplex/Fourplex,23,4,2,0
+Ward 1,4200,Row House,4,0,0,0
+Ward 1,4200,Apartment (5+ stories),0,0,0,0
+Ward 1,4200,Apartment (1-4 stories),0,0,0,0
+Ward 1,4200,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4200,Institution/Collective Residence,0,0,0,0
+Ward 1,4200,Hotel/Motel,3,0,0,0
+Ward 1,4200,RV/Tent/Other,0,0,0,0
+Ward 1,4200,No Response,0,0,0,0
+Ward 1,4230,Single Detached House,465,14,36,0
+Ward 1,4230,Duplex/Fourplex,34,3,4,0
+Ward 1,4230,Row House,0,0,0,0
+Ward 1,4230,Apartment (5+ stories),0,0,0,0
+Ward 1,4230,Apartment (1-4 stories),351,30,7,0
+Ward 1,4230,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4230,Institution/Collective Residence,0,0,0,0
+Ward 1,4230,Hotel/Motel,0,0,0,0
+Ward 1,4230,RV/Tent/Other,0,0,0,0
+Ward 1,4230,No Response,0,0,0,0
+Ward 1,4240,Single Detached House,978,10,3,0
+Ward 1,4240,Duplex/Fourplex,137,7,1,0
+Ward 1,4240,Row House,425,21,0,0
+Ward 1,4240,Apartment (5+ stories),0,0,0,0
+Ward 1,4240,Apartment (1-4 stories),423,18,1,0
+Ward 1,4240,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4240,Institution/Collective Residence,1,0,0,0
+Ward 1,4240,Hotel/Motel,0,0,0,0
+Ward 1,4240,RV/Tent/Other,0,0,0,0
+Ward 1,4240,No Response,0,0,0,0
+Ward 1,4290,Single Detached House,756,24,3,0
+Ward 1,4290,Duplex/Fourplex,15,0,0,0
+Ward 1,4290,Row House,23,0,0,0
+Ward 1,4290,Apartment (5+ stories),0,0,0,0
+Ward 1,4290,Apartment (1-4 stories),64,1,0,0
+Ward 1,4290,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4290,Institution/Collective Residence,0,0,0,0
+Ward 1,4290,Hotel/Motel,0,0,0,0
+Ward 1,4290,RV/Tent/Other,0,0,0,0
+Ward 1,4290,No Response,0,0,0,0
+Ward 1,4300,Single Detached House,0,0,0,0
+Ward 1,4300,Duplex/Fourplex,0,0,0,0
+Ward 1,4300,Row House,0,0,0,0
+Ward 1,4300,Apartment (5+ stories),0,0,0,0
+Ward 1,4300,Apartment (1-4 stories),0,0,0,0
+Ward 1,4300,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4300,Institution/Collective Residence,0,0,0,0
+Ward 1,4300,Hotel/Motel,0,0,0,0
+Ward 1,4300,RV/Tent/Other,0,0,0,0
+Ward 1,4300,No Response,0,0,0,0
+Ward 1,4310,Single Detached House,898,17,10,0
+Ward 1,4310,Duplex/Fourplex,0,0,0,0
+Ward 1,4310,Row House,0,0,0,0
+Ward 1,4310,Apartment (5+ stories),0,0,0,0
+Ward 1,4310,Apartment (1-4 stories),279,4,0,0
+Ward 1,4310,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4310,Institution/Collective Residence,3,0,0,0
+Ward 1,4310,Hotel/Motel,0,0,0,0
+Ward 1,4310,RV/Tent/Other,2,0,0,0
+Ward 1,4310,No Response,0,0,0,0
+Ward 1,4340,Single Detached House,0,0,0,0
+Ward 1,4340,Duplex/Fourplex,0,0,0,0
+Ward 1,4340,Row House,0,0,0,0
+Ward 1,4340,Apartment (5+ stories),0,0,0,0
+Ward 1,4340,Apartment (1-4 stories),0,0,0,0
+Ward 1,4340,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4340,Institution/Collective Residence,0,0,0,0
+Ward 1,4340,Hotel/Motel,0,0,0,0
+Ward 1,4340,RV/Tent/Other,0,0,0,0
+Ward 1,4340,No Response,0,0,0,0
+Ward 1,4350,Single Detached House,0,0,0,0
+Ward 1,4350,Duplex/Fourplex,0,0,0,0
+Ward 1,4350,Row House,0,0,0,0
+Ward 1,4350,Apartment (5+ stories),0,0,0,0
+Ward 1,4350,Apartment (1-4 stories),0,0,0,0
+Ward 1,4350,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4350,Institution/Collective Residence,0,0,0,0
+Ward 1,4350,Hotel/Motel,0,0,0,0
+Ward 1,4350,RV/Tent/Other,0,0,0,0
+Ward 1,4350,No Response,0,0,0,0
+Ward 1,4400,Single Detached House,0,0,0,0
+Ward 1,4400,Duplex/Fourplex,0,0,0,0
+Ward 1,4400,Row House,0,0,0,0
+Ward 1,4400,Apartment (5+ stories),0,0,0,0
+Ward 1,4400,Apartment (1-4 stories),0,0,0,0
+Ward 1,4400,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4400,Institution/Collective Residence,0,0,0,0
+Ward 1,4400,Hotel/Motel,0,0,0,0
+Ward 1,4400,RV/Tent/Other,0,0,0,0
+Ward 1,4400,No Response,0,0,0,0
+Ward 1,4410,Single Detached House,0,0,0,0
+Ward 1,4410,Duplex/Fourplex,0,0,0,0
+Ward 1,4410,Row House,0,0,0,0
+Ward 1,4410,Apartment (5+ stories),0,0,0,0
+Ward 1,4410,Apartment (1-4 stories),0,0,0,0
+Ward 1,4410,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4410,Institution/Collective Residence,0,0,0,0
+Ward 1,4410,Hotel/Motel,0,0,0,0
+Ward 1,4410,RV/Tent/Other,0,0,0,0
+Ward 1,4410,No Response,0,0,0,0
+Ward 1,4470,Single Detached House,56,4,13,0
+Ward 1,4470,Duplex/Fourplex,0,0,0,0
+Ward 1,4470,Row House,0,0,0,0
+Ward 1,4470,Apartment (5+ stories),0,0,0,0
+Ward 1,4470,Apartment (1-4 stories),0,0,0,0
+Ward 1,4470,Manufactured/Mobile Home,0,1,0,0
+Ward 1,4470,Institution/Collective Residence,0,0,0,0
+Ward 1,4470,Hotel/Motel,0,0,0,0
+Ward 1,4470,RV/Tent/Other,0,0,0,0
+Ward 1,4470,No Response,0,0,0,0
+Ward 1,4471,Single Detached House,147,6,6,0
+Ward 1,4471,Duplex/Fourplex,50,0,0,0
+Ward 1,4471,Row House,14,0,0,0
+Ward 1,4471,Apartment (5+ stories),0,0,0,0
+Ward 1,4471,Apartment (1-4 stories),0,0,0,0
+Ward 1,4471,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4471,Institution/Collective Residence,0,0,0,0
+Ward 1,4471,Hotel/Motel,0,0,0,0
+Ward 1,4471,RV/Tent/Other,0,0,0,0
+Ward 1,4471,No Response,0,0,0,0
+Ward 1,4473,Single Detached House,25,2,1,0
+Ward 1,4473,Duplex/Fourplex,0,0,0,0
+Ward 1,4473,Row House,0,0,0,0
+Ward 1,4473,Apartment (5+ stories),0,0,0,0
+Ward 1,4473,Apartment (1-4 stories),0,0,0,0
+Ward 1,4473,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4473,Institution/Collective Residence,0,0,0,0
+Ward 1,4473,Hotel/Motel,0,0,0,0
+Ward 1,4473,RV/Tent/Other,0,0,0,0
+Ward 1,4473,No Response,0,0,0,0
+Ward 1,4474,Single Detached House,67,4,2,0
+Ward 1,4474,Duplex/Fourplex,6,0,0,0
+Ward 1,4474,Row House,0,0,0,0
+Ward 1,4474,Apartment (5+ stories),0,0,0,0
+Ward 1,4474,Apartment (1-4 stories),0,0,0,0
+Ward 1,4474,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4474,Institution/Collective Residence,0,0,0,0
+Ward 1,4474,Hotel/Motel,0,0,0,0
+Ward 1,4474,RV/Tent/Other,0,0,0,0
+Ward 1,4474,No Response,0,0,0,0
+Ward 1,4475,Single Detached House,42,2,4,0
+Ward 1,4475,Duplex/Fourplex,0,0,0,0
+Ward 1,4475,Row House,0,0,0,0
+Ward 1,4475,Apartment (5+ stories),0,0,0,0
+Ward 1,4475,Apartment (1-4 stories),0,0,0,0
+Ward 1,4475,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4475,Institution/Collective Residence,0,0,0,0
+Ward 1,4475,Hotel/Motel,0,0,0,0
+Ward 1,4475,RV/Tent/Other,0,0,0,0
+Ward 1,4475,No Response,0,0,0,0
+Ward 1,4485,Single Detached House,31,1,11,0
+Ward 1,4485,Duplex/Fourplex,0,0,0,0
+Ward 1,4485,Row House,0,0,0,0
+Ward 1,4485,Apartment (5+ stories),0,0,0,0
+Ward 1,4485,Apartment (1-4 stories),0,0,0,0
+Ward 1,4485,Manufactured/Mobile Home,1,0,1,0
+Ward 1,4485,Institution/Collective Residence,0,0,0,0
+Ward 1,4485,Hotel/Motel,0,0,0,0
+Ward 1,4485,RV/Tent/Other,1,1,0,0
+Ward 1,4485,No Response,0,0,0,0
+Ward 1,4486,Single Detached House,0,0,0,0
+Ward 1,4486,Duplex/Fourplex,0,0,0,0
+Ward 1,4486,Row House,0,0,0,0
+Ward 1,4486,Apartment (5+ stories),0,0,0,0
+Ward 1,4486,Apartment (1-4 stories),0,0,0,0
+Ward 1,4486,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4486,Institution/Collective Residence,0,0,0,0
+Ward 1,4486,Hotel/Motel,0,0,0,0
+Ward 1,4486,RV/Tent/Other,0,0,0,0
+Ward 1,4486,No Response,0,0,0,0
+Ward 1,4487,Single Detached House,647,23,9,0
+Ward 1,4487,Duplex/Fourplex,3,0,0,0
+Ward 1,4487,Row House,72,2,0,0
+Ward 1,4487,Apartment (5+ stories),0,0,0,0
+Ward 1,4487,Apartment (1-4 stories),0,0,0,0
+Ward 1,4487,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4487,Institution/Collective Residence,0,1,0,0
+Ward 1,4487,Hotel/Motel,0,0,0,0
+Ward 1,4487,RV/Tent/Other,0,0,0,0
+Ward 1,4487,No Response,0,0,0,0
+Ward 1,4490,Single Detached House,0,0,0,0
+Ward 1,4490,Duplex/Fourplex,0,0,0,0
+Ward 1,4490,Row House,0,0,0,0
+Ward 1,4490,Apartment (5+ stories),0,0,0,0
+Ward 1,4490,Apartment (1-4 stories),0,0,0,0
+Ward 1,4490,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4490,Institution/Collective Residence,0,0,0,0
+Ward 1,4490,Hotel/Motel,0,0,0,0
+Ward 1,4490,RV/Tent/Other,0,0,0,0
+Ward 1,4490,No Response,0,0,0,0
+Ward 1,4500,Single Detached House,350,23,7,0
+Ward 1,4500,Duplex/Fourplex,20,3,1,0
+Ward 1,4500,Row House,15,1,0,0
+Ward 1,4500,Apartment (5+ stories),0,0,0,0
+Ward 1,4500,Apartment (1-4 stories),201,12,0,0
+Ward 1,4500,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4500,Institution/Collective Residence,0,0,0,0
+Ward 1,4500,Hotel/Motel,0,0,0,0
+Ward 1,4500,RV/Tent/Other,0,0,0,0
+Ward 1,4500,No Response,0,0,0,0
+Ward 1,4510,Single Detached House,0,0,0,0
+Ward 1,4510,Duplex/Fourplex,0,0,0,0
+Ward 1,4510,Row House,0,0,0,0
+Ward 1,4510,Apartment (5+ stories),0,0,0,0
+Ward 1,4510,Apartment (1-4 stories),0,0,0,0
+Ward 1,4510,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4510,Institution/Collective Residence,0,0,0,0
+Ward 1,4510,Hotel/Motel,0,0,0,0
+Ward 1,4510,RV/Tent/Other,0,0,0,0
+Ward 1,4510,No Response,0,0,0,0
+Ward 1,4520,Single Detached House,272,5,1,0
+Ward 1,4520,Duplex/Fourplex,49,1,0,0
+Ward 1,4520,Row House,80,4,1,0
+Ward 1,4520,Apartment (5+ stories),0,0,0,0
+Ward 1,4520,Apartment (1-4 stories),442,11,1,0
+Ward 1,4520,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4520,Institution/Collective Residence,66,70,0,0
+Ward 1,4520,Hotel/Motel,0,1,0,0
+Ward 1,4520,RV/Tent/Other,0,0,0,0
+Ward 1,4520,No Response,0,0,0,0
+Ward 1,4530,Single Detached House,0,0,0,0
+Ward 1,4530,Duplex/Fourplex,0,0,0,0
+Ward 1,4530,Row House,0,0,0,0
+Ward 1,4530,Apartment (5+ stories),0,0,0,0
+Ward 1,4530,Apartment (1-4 stories),0,0,0,0
+Ward 1,4530,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4530,Institution/Collective Residence,0,0,0,0
+Ward 1,4530,Hotel/Motel,0,0,0,0
+Ward 1,4530,RV/Tent/Other,0,0,0,0
+Ward 1,4530,No Response,0,0,0,0
+Ward 1,4540,Single Detached House,1,1,3,0
+Ward 1,4540,Duplex/Fourplex,50,3,0,0
+Ward 1,4540,Row House,329,4,0,0
+Ward 1,4540,Apartment (5+ stories),87,85,0,0
+Ward 1,4540,Apartment (1-4 stories),743,38,1,0
+Ward 1,4540,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4540,Institution/Collective Residence,79,19,5,0
+Ward 1,4540,Hotel/Motel,0,0,0,0
+Ward 1,4540,RV/Tent/Other,1,0,2,0
+Ward 1,4540,No Response,0,0,0,0
+Ward 1,4580,Single Detached House,577,18,27,0
+Ward 1,4580,Duplex/Fourplex,67,1,3,0
+Ward 1,4580,Row House,0,0,0,0
+Ward 1,4580,Apartment (5+ stories),87,2,0,0
+Ward 1,4580,Apartment (1-4 stories),818,37,13,0
+Ward 1,4580,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4580,Institution/Collective Residence,0,0,1,0
+Ward 1,4580,Hotel/Motel,0,0,0,0
+Ward 1,4580,RV/Tent/Other,0,0,0,0
+Ward 1,4580,No Response,0,0,0,0
+Ward 1,4590,Single Detached House,519,9,4,0
+Ward 1,4590,Duplex/Fourplex,38,1,2,0
+Ward 1,4590,Row House,234,7,5,0
+Ward 1,4590,Apartment (5+ stories),250,11,0,0
+Ward 1,4590,Apartment (1-4 stories),396,89,0,0
+Ward 1,4590,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4590,Institution/Collective Residence,61,2,0,0
+Ward 1,4590,Hotel/Motel,0,0,0,0
+Ward 1,4590,RV/Tent/Other,0,0,0,0
+Ward 1,4590,No Response,0,0,0,0
+Ward 1,4600,Single Detached House,0,0,0,0
+Ward 1,4600,Duplex/Fourplex,0,0,0,0
+Ward 1,4600,Row House,0,0,0,0
+Ward 1,4600,Apartment (5+ stories),0,0,0,0
+Ward 1,4600,Apartment (1-4 stories),0,0,0,0
+Ward 1,4600,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4600,Institution/Collective Residence,0,0,0,0
+Ward 1,4600,Hotel/Motel,0,0,0,0
+Ward 1,4600,RV/Tent/Other,0,0,0,0
+Ward 1,4600,No Response,0,0,0,0
+Ward 1,4620,Single Detached House,1,0,0,0
+Ward 1,4620,Duplex/Fourplex,0,0,0,0
+Ward 1,4620,Row House,0,0,0,0
+Ward 1,4620,Apartment (5+ stories),0,0,0,0
+Ward 1,4620,Apartment (1-4 stories),0,0,0,0
+Ward 1,4620,Manufactured/Mobile Home,1040,26,16,0
+Ward 1,4620,Institution/Collective Residence,0,0,0,0
+Ward 1,4620,Hotel/Motel,0,0,0,0
+Ward 1,4620,RV/Tent/Other,1,0,0,0
+Ward 1,4620,No Response,0,0,0,0
+Ward 1,4630,Single Detached House,0,0,0,0
+Ward 1,4630,Duplex/Fourplex,0,0,0,0
+Ward 1,4630,Row House,0,0,0,0
+Ward 1,4630,Apartment (5+ stories),0,0,0,0
+Ward 1,4630,Apartment (1-4 stories),0,0,0,0
+Ward 1,4630,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4630,Institution/Collective Residence,0,0,0,0
+Ward 1,4630,Hotel/Motel,0,0,0,0
+Ward 1,4630,RV/Tent/Other,0,0,0,0
+Ward 1,4630,No Response,0,0,0,0
+Ward 1,4640,Single Detached House,0,0,0,0
+Ward 1,4640,Duplex/Fourplex,0,0,0,0
+Ward 1,4640,Row House,0,0,0,0
+Ward 1,4640,Apartment (5+ stories),0,0,0,0
+Ward 1,4640,Apartment (1-4 stories),0,0,0,0
+Ward 1,4640,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4640,Institution/Collective Residence,0,0,0,0
+Ward 1,4640,Hotel/Motel,0,0,0,0
+Ward 1,4640,RV/Tent/Other,0,0,0,0
+Ward 1,4640,No Response,0,0,0,0
+Ward 1,4650,Single Detached House,0,0,0,0
+Ward 1,4650,Duplex/Fourplex,0,0,0,0
+Ward 1,4650,Row House,0,0,0,0
+Ward 1,4650,Apartment (5+ stories),0,0,0,0
+Ward 1,4650,Apartment (1-4 stories),0,0,0,0
+Ward 1,4650,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4650,Institution/Collective Residence,0,0,0,0
+Ward 1,4650,Hotel/Motel,0,0,0,0
+Ward 1,4650,RV/Tent/Other,0,0,0,0
+Ward 1,4650,No Response,0,0,0,0
+Ward 1,4660,Single Detached House,0,0,0,0
+Ward 1,4660,Duplex/Fourplex,0,0,0,0
+Ward 1,4660,Row House,0,0,0,0
+Ward 1,4660,Apartment (5+ stories),0,0,0,0
+Ward 1,4660,Apartment (1-4 stories),0,0,0,0
+Ward 1,4660,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4660,Institution/Collective Residence,0,0,0,0
+Ward 1,4660,Hotel/Motel,0,0,0,0
+Ward 1,4660,RV/Tent/Other,0,0,0,0
+Ward 1,4660,No Response,0,0,0,0
+Ward 1,4670,Single Detached House,7,0,7,0
+Ward 1,4670,Duplex/Fourplex,0,0,0,0
+Ward 1,4670,Row House,0,0,0,0
+Ward 1,4670,Apartment (5+ stories),0,0,0,0
+Ward 1,4670,Apartment (1-4 stories),0,0,0,0
+Ward 1,4670,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4670,Institution/Collective Residence,10,0,0,0
+Ward 1,4670,Hotel/Motel,1,0,0,0
+Ward 1,4670,RV/Tent/Other,1,0,0,0
+Ward 1,4670,No Response,0,0,0,0
+Ward 1,4700,Single Detached House,489,4,0,0
+Ward 1,4700,Duplex/Fourplex,37,0,0,0
+Ward 1,4700,Row House,0,0,0,0
+Ward 1,4700,Apartment (5+ stories),0,0,0,0
+Ward 1,4700,Apartment (1-4 stories),232,7,0,0
+Ward 1,4700,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4700,Institution/Collective Residence,0,0,0,0
+Ward 1,4700,Hotel/Motel,0,0,0,0
+Ward 1,4700,RV/Tent/Other,0,0,0,0
+Ward 1,4700,No Response,0,0,0,0
+Ward 1,4710,Single Detached House,472,4,0,0
+Ward 1,4710,Duplex/Fourplex,93,0,0,0
+Ward 1,4710,Row House,0,0,0,0
+Ward 1,4710,Apartment (5+ stories),0,0,0,0
+Ward 1,4710,Apartment (1-4 stories),0,0,0,0
+Ward 1,4710,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4710,Institution/Collective Residence,0,0,0,0
+Ward 1,4710,Hotel/Motel,0,0,0,0
+Ward 1,4710,RV/Tent/Other,0,0,0,0
+Ward 1,4710,No Response,0,0,0,0
+Ward 1,4730,Single Detached House,784,19,0,0
+Ward 1,4730,Duplex/Fourplex,68,4,1,0
+Ward 1,4730,Row House,14,0,0,0
+Ward 1,4730,Apartment (5+ stories),0,0,0,0
+Ward 1,4730,Apartment (1-4 stories),287,24,0,0
+Ward 1,4730,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4730,Institution/Collective Residence,0,0,0,0
+Ward 1,4730,Hotel/Motel,0,0,0,0
+Ward 1,4730,RV/Tent/Other,2,0,5,0
+Ward 1,4730,No Response,0,0,0,0
+Ward 1,4740,Single Detached House,515,48,0,0
+Ward 1,4740,Duplex/Fourplex,14,2,0,0
+Ward 1,4740,Row House,0,0,0,0
+Ward 1,4740,Apartment (5+ stories),0,0,0,0
+Ward 1,4740,Apartment (1-4 stories),4,0,0,0
+Ward 1,4740,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4740,Institution/Collective Residence,1,0,0,0
+Ward 1,4740,Hotel/Motel,0,0,0,0
+Ward 1,4740,RV/Tent/Other,3,1,0,0
+Ward 1,4740,No Response,0,0,0,0
+Ward 1,4750,Single Detached House,31,1,3,0
+Ward 1,4750,Duplex/Fourplex,0,0,0,0
+Ward 1,4750,Row House,0,0,0,0
+Ward 1,4750,Apartment (5+ stories),0,0,0,0
+Ward 1,4750,Apartment (1-4 stories),0,0,0,0
+Ward 1,4750,Manufactured/Mobile Home,0,0,0,0
+Ward 1,4750,Institution/Collective Residence,0,0,0,0
+Ward 1,4750,Hotel/Motel,0,0,0,0
+Ward 1,4750,RV/Tent/Other,0,0,0,0
+Ward 1,4750,No Response,0,0,0,0
+Ward 2,1110,Single Detached House,0,0,0,0
+Ward 2,1110,Duplex/Fourplex,0,0,0,0
+Ward 2,1110,Row House,0,0,0,0
+Ward 2,1110,Apartment (5+ stories),0,0,0,0
+Ward 2,1110,Apartment (1-4 stories),0,0,0,0
+Ward 2,1110,Manufactured/Mobile Home,0,0,0,0
+Ward 2,1110,Institution/Collective Residence,0,0,0,0
+Ward 2,1110,Hotel/Motel,0,0,0,0
+Ward 2,1110,RV/Tent/Other,0,0,0,0
+Ward 2,1110,No Response,0,0,0,0
+Ward 2,1170,Single Detached House,356,33,22,0
+Ward 2,1170,Duplex/Fourplex,33,9,7,0
+Ward 2,1170,Row House,12,1,0,0
+Ward 2,1170,Apartment (5+ stories),0,0,0,0
+Ward 2,1170,Apartment (1-4 stories),227,11,13,0
+Ward 2,1170,Manufactured/Mobile Home,0,0,0,0
+Ward 2,1170,Institution/Collective Residence,14,1,0,0
+Ward 2,1170,Hotel/Motel,0,1,0,0
+Ward 2,1170,RV/Tent/Other,0,0,0,0
+Ward 2,1170,No Response,0,0,0,0
+Ward 2,1230,Single Detached House,548,58,65,0
+Ward 2,1230,Duplex/Fourplex,45,3,4,0
+Ward 2,1230,Row House,84,9,3,0
+Ward 2,1230,Apartment (5+ stories),48,0,14,0
+Ward 2,1230,Apartment (1-4 stories),105,60,9,0
+Ward 2,1230,Manufactured/Mobile Home,0,0,0,0
+Ward 2,1230,Institution/Collective Residence,56,104,2,0
+Ward 2,1230,Hotel/Motel,0,1,0,0
+Ward 2,1230,RV/Tent/Other,0,0,0,0
+Ward 2,1230,No Response,0,0,0,0
+Ward 2,1250,Single Detached House,428,54,42,0
+Ward 2,1250,Duplex/Fourplex,136,18,3,0
+Ward 2,1250,Row House,0,0,0,0
+Ward 2,1250,Apartment (5+ stories),0,0,0,0
+Ward 2,1250,Apartment (1-4 stories),1377,45,33,0
+Ward 2,1250,Manufactured/Mobile Home,0,0,0,0
+Ward 2,1250,Institution/Collective Residence,0,1,0,0
+Ward 2,1250,Hotel/Motel,0,0,0,0
+Ward 2,1250,RV/Tent/Other,0,0,0,0
+Ward 2,1250,No Response,0,0,0,0
+Ward 2,1280,Single Detached House,0,0,0,0
+Ward 2,1280,Duplex/Fourplex,0,0,0,0
+Ward 2,1280,Row House,0,0,0,0
+Ward 2,1280,Apartment (5+ stories),0,0,0,0
+Ward 2,1280,Apartment (1-4 stories),0,0,0,0
+Ward 2,1280,Manufactured/Mobile Home,0,0,0,0
+Ward 2,1280,Institution/Collective Residence,0,0,0,0
+Ward 2,1280,Hotel/Motel,0,0,0,0
+Ward 2,1280,RV/Tent/Other,0,0,0,0
+Ward 2,1280,No Response,0,0,0,0
+Ward 2,3010,Single Detached House,968,45,39,0
+Ward 2,3010,Duplex/Fourplex,22,1,6,0
+Ward 2,3010,Row House,135,8,13,0
+Ward 2,3010,Apartment (5+ stories),0,0,0,0
+Ward 2,3010,Apartment (1-4 stories),16,1,0,0
+Ward 2,3010,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3010,Institution/Collective Residence,4,1,0,0
+Ward 2,3010,Hotel/Motel,0,0,0,0
+Ward 2,3010,RV/Tent/Other,0,0,0,0
+Ward 2,3010,No Response,0,0,0,0
+Ward 2,3020,Single Detached House,5,2,0,0
+Ward 2,3020,Duplex/Fourplex,80,4,0,0
+Ward 2,3020,Row House,2,2,0,0
+Ward 2,3020,Apartment (5+ stories),0,0,0,0
+Ward 2,3020,Apartment (1-4 stories),506,22,11,0
+Ward 2,3020,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3020,Institution/Collective Residence,186,50,0,0
+Ward 2,3020,Hotel/Motel,0,0,0,0
+Ward 2,3020,RV/Tent/Other,0,0,0,0
+Ward 2,3020,No Response,0,0,0,0
+Ward 2,3050,Single Detached House,0,0,0,0
+Ward 2,3050,Duplex/Fourplex,0,0,0,0
+Ward 2,3050,Row House,0,0,0,0
+Ward 2,3050,Apartment (5+ stories),0,0,0,0
+Ward 2,3050,Apartment (1-4 stories),0,0,0,0
+Ward 2,3050,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3050,Institution/Collective Residence,0,0,0,0
+Ward 2,3050,Hotel/Motel,0,0,0,0
+Ward 2,3050,RV/Tent/Other,0,0,0,0
+Ward 2,3050,No Response,0,0,0,0
+Ward 2,3060,Single Detached House,917,9,8,0
+Ward 2,3060,Duplex/Fourplex,146,1,0,0
+Ward 2,3060,Row House,399,20,3,0
+Ward 2,3060,Apartment (5+ stories),0,0,0,0
+Ward 2,3060,Apartment (1-4 stories),104,2,4,0
+Ward 2,3060,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3060,Institution/Collective Residence,0,0,0,0
+Ward 2,3060,Hotel/Motel,0,0,0,0
+Ward 2,3060,RV/Tent/Other,1,0,0,0
+Ward 2,3060,No Response,0,0,0,0
+Ward 2,3070,Single Detached House,1126,53,124,0
+Ward 2,3070,Duplex/Fourplex,401,26,71,0
+Ward 2,3070,Row House,28,1,5,0
+Ward 2,3070,Apartment (5+ stories),0,0,0,0
+Ward 2,3070,Apartment (1-4 stories),213,14,13,0
+Ward 2,3070,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3070,Institution/Collective Residence,63,1,10,0
+Ward 2,3070,Hotel/Motel,1,0,0,0
+Ward 2,3070,RV/Tent/Other,0,0,4,0
+Ward 2,3070,No Response,0,0,0,0
+Ward 2,3090,Single Detached House,757,12,5,0
+Ward 2,3090,Duplex/Fourplex,126,7,0,0
+Ward 2,3090,Row House,356,8,8,0
+Ward 2,3090,Apartment (5+ stories),0,0,0,0
+Ward 2,3090,Apartment (1-4 stories),122,3,2,0
+Ward 2,3090,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3090,Institution/Collective Residence,0,0,0,0
+Ward 2,3090,Hotel/Motel,0,0,0,0
+Ward 2,3090,RV/Tent/Other,1,0,0,0
+Ward 2,3090,No Response,0,0,0,0
+Ward 2,3111,Single Detached House,607,75,12,0
+Ward 2,3111,Duplex/Fourplex,245,23,0,0
+Ward 2,3111,Row House,285,37,2,0
+Ward 2,3111,Apartment (5+ stories),0,0,0,0
+Ward 2,3111,Apartment (1-4 stories),144,33,1,0
+Ward 2,3470,Row House,78,28,1,0
+Ward 2,3111,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3111,Institution/Collective Residence,112,148,0,0
+Ward 2,3111,Hotel/Motel,0,0,0,0
+Ward 2,3111,RV/Tent/Other,2,0,0,0
+Ward 2,3111,No Response,0,0,0,0
+Ward 2,3150,Single Detached House,1730,5,5,0
+Ward 2,3150,Duplex/Fourplex,0,0,0,0
+Ward 2,3150,Row House,211,5,0,0
+Ward 2,3150,Apartment (5+ stories),0,0,0,0
+Ward 2,3150,Apartment (1-4 stories),211,1,2,0
+Ward 2,3150,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3150,Institution/Collective Residence,0,0,0,0
+Ward 2,3150,Hotel/Motel,0,0,0,0
+Ward 2,3150,RV/Tent/Other,0,0,0,0
+Ward 2,3150,No Response,0,0,0,0
+Ward 2,3160,Single Detached House,0,0,0,0
+Ward 2,3160,Duplex/Fourplex,0,0,0,0
+Ward 2,3160,Row House,0,0,0,0
+Ward 2,3160,Apartment (5+ stories),0,0,0,0
+Ward 2,3160,Apartment (1-4 stories),0,0,0,0
+Ward 2,3160,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3160,Institution/Collective Residence,0,0,0,0
+Ward 2,3160,Hotel/Motel,0,0,0,0
+Ward 2,3160,RV/Tent/Other,0,0,0,0
+Ward 2,3160,No Response,0,0,0,0
+Ward 2,3170,Single Detached House,753,25,28,0
+Ward 2,3170,Duplex/Fourplex,19,3,11,0
+Ward 2,3170,Row House,98,2,3,0
+Ward 2,3170,Apartment (5+ stories),0,0,0,0
+Ward 2,3170,Apartment (1-4 stories),0,0,0,0
+Ward 2,3170,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3170,Institution/Collective Residence,2,0,0,0
+Ward 2,3170,Hotel/Motel,0,0,0,0
+Ward 2,3170,RV/Tent/Other,0,0,0,0
+Ward 2,3170,No Response,0,0,0,0
+Ward 2,3220,Single Detached House,0,0,0,0
+Ward 2,3220,Duplex/Fourplex,0,0,0,0
+Ward 2,3220,Row House,0,0,0,0
+Ward 2,3220,Apartment (5+ stories),0,0,0,0
+Ward 2,3220,Apartment (1-4 stories),0,0,0,0
+Ward 2,3220,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3220,Institution/Collective Residence,0,0,0,0
+Ward 2,3220,Hotel/Motel,0,0,0,0
+Ward 2,3220,RV/Tent/Other,0,0,0,0
+Ward 2,3220,No Response,0,0,0,0
+Ward 2,3230,Single Detached House,0,0,0,0
+Ward 2,3230,Duplex/Fourplex,0,0,0,0
+Ward 2,3230,Row House,0,0,0,0
+Ward 2,3230,Apartment (5+ stories),0,0,0,0
+Ward 2,3230,Apartment (1-4 stories),0,0,0,0
+Ward 2,3230,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3230,Institution/Collective Residence,0,0,0,0
+Ward 2,3230,Hotel/Motel,0,0,0,0
+Ward 2,3230,RV/Tent/Other,0,0,0,0
+Ward 2,3230,No Response,0,0,0,0
+Ward 2,3240,Single Detached House,929,75,92,0
+Ward 2,3240,Duplex/Fourplex,227,17,24,0
+Ward 2,3240,Row House,16,3,0,0
+Ward 2,3240,Apartment (5+ stories),374,11,1,0
+Ward 2,3240,Apartment (1-4 stories),2117,238,12,0
+Ward 2,3240,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3240,Institution/Collective Residence,8,1,2,0
+Ward 2,3240,Hotel/Motel,0,0,0,0
+Ward 2,3240,RV/Tent/Other,0,0,0,0
+Ward 2,3240,No Response,0,0,0,0
+Ward 2,3250,Single Detached House,1017,30,56,0
+Ward 2,3250,Duplex/Fourplex,214,18,16,0
+Ward 2,3250,Row House,27,0,2,0
+Ward 2,3250,Apartment (5+ stories),0,0,0,0
+Ward 2,3250,Apartment (1-4 stories),406,20,18,0
+Ward 2,3250,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3250,Institution/Collective Residence,3,1,24,0
+Ward 2,3250,Hotel/Motel,0,0,0,0
+Ward 2,3250,RV/Tent/Other,0,0,1,0
+Ward 2,3250,No Response,0,0,0,0
+Ward 2,3260,Single Detached House,611,24,20,0
+Ward 2,3260,Duplex/Fourplex,213,23,36,0
+Ward 2,3260,Row House,129,7,10,0
+Ward 2,3260,Apartment (5+ stories),0,0,0,0
+Ward 2,3260,Apartment (1-4 stories),216,8,7,0
+Ward 2,3260,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3260,Institution/Collective Residence,2,0,0,0
+Ward 2,3260,Hotel/Motel,0,0,0,0
+Ward 2,3260,RV/Tent/Other,1,0,0,0
+Ward 2,3260,No Response,0,0,0,0
+Ward 2,3290,Single Detached House,0,0,0,0
+Ward 2,3290,Duplex/Fourplex,0,0,0,0
+Ward 2,3290,Row House,0,0,0,0
+Ward 2,3290,Apartment (5+ stories),0,0,0,0
+Ward 2,3290,Apartment (1-4 stories),0,0,0,0
+Ward 2,3290,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3290,Institution/Collective Residence,0,0,0,0
+Ward 2,3290,Hotel/Motel,0,0,0,0
+Ward 2,3290,RV/Tent/Other,0,0,0,0
+Ward 2,3290,No Response,0,0,0,0
+Ward 2,3320,Single Detached House,847,25,0,0
+Ward 2,3320,Duplex/Fourplex,145,9,0,0
+Ward 2,3320,Row House,37,39,0,0
+Ward 2,3320,Apartment (5+ stories),0,0,0,0
+Ward 2,3320,Apartment (1-4 stories),159,6,9,0
+Ward 2,3320,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3320,Institution/Collective Residence,0,0,0,0
+Ward 2,3320,Hotel/Motel,0,0,0,0
+Ward 2,3320,RV/Tent/Other,1,0,0,0
+Ward 2,3320,No Response,0,0,0,0
+Ward 2,3340,Single Detached House,0,0,0,0
+Ward 2,3340,Duplex/Fourplex,0,0,0,0
+Ward 2,3340,Row House,42,1,0,0
+Ward 2,3340,Apartment (5+ stories),0,0,0,0
+Ward 2,3340,Apartment (1-4 stories),240,9,0,0
+Ward 2,3340,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3340,Institution/Collective Residence,0,0,0,0
+Ward 2,3340,Hotel/Motel,0,0,0,0
+Ward 2,3340,RV/Tent/Other,0,0,7,0
+Ward 2,3340,No Response,0,0,0,0
+Ward 2,3350,Single Detached House,475,30,40,0
+Ward 2,3350,Duplex/Fourplex,116,9,6,0
+Ward 2,3350,Row House,27,0,4,0
+Ward 2,3350,Apartment (5+ stories),0,0,0,0
+Ward 2,3350,Apartment (1-4 stories),19,2,9,0
+Ward 2,3350,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3350,Institution/Collective Residence,7,0,0,0
+Ward 2,3350,Hotel/Motel,0,0,0,0
+Ward 2,3350,RV/Tent/Other,0,0,0,0
+Ward 2,3350,No Response,0,0,0,0
+Ward 2,3360,Single Detached House,0,0,0,0
+Ward 2,3360,Duplex/Fourplex,0,0,0,0
+Ward 2,3360,Row House,0,0,0,0
+Ward 2,3360,Apartment (5+ stories),0,0,0,0
+Ward 2,3360,Apartment (1-4 stories),0,0,0,0
+Ward 2,3360,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3360,Institution/Collective Residence,0,0,0,0
+Ward 2,3360,Hotel/Motel,0,0,0,0
+Ward 2,3360,RV/Tent/Other,0,0,0,0
+Ward 2,3360,No Response,0,0,0,0
+Ward 2,3390,Single Detached House,854,25,13,0
+Ward 2,3390,Duplex/Fourplex,85,5,7,0
+Ward 2,3390,Row House,69,1,0,0
+Ward 2,3390,Apartment (5+ stories),0,0,0,0
+Ward 2,3390,Apartment (1-4 stories),70,2,1,0
+Ward 2,3390,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3390,Institution/Collective Residence,222,2,2,0
+Ward 2,3390,Hotel/Motel,0,1,0,0
+Ward 2,3390,RV/Tent/Other,2,0,0,0
+Ward 2,3390,No Response,0,0,0,0
+Ward 2,3410,Single Detached House,703,44,41,0
+Ward 2,3410,Duplex/Fourplex,1,1,8,0
+Ward 2,3410,Row House,146,7,1,0
+Ward 2,3410,Apartment (5+ stories),0,0,0,0
+Ward 2,3410,Apartment (1-4 stories),166,28,1,0
+Ward 2,3410,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3410,Institution/Collective Residence,0,0,0,0
+Ward 2,3410,Hotel/Motel,0,0,0,0
+Ward 2,3410,RV/Tent/Other,2,0,0,0
+Ward 2,3410,No Response,0,0,0,0
+Ward 2,3430,Single Detached House,904,23,2,0
+Ward 2,3430,Duplex/Fourplex,25,0,0,0
+Ward 2,3430,Row House,214,5,1,0
+Ward 2,3430,Apartment (5+ stories),0,0,0,0
+Ward 2,3430,Apartment (1-4 stories),66,0,0,0
+Ward 2,3430,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3430,Institution/Collective Residence,0,0,0,0
+Ward 2,3430,Hotel/Motel,0,0,0,0
+Ward 2,3430,RV/Tent/Other,0,0,0,0
+Ward 2,3430,No Response,0,0,0,0
+Ward 2,3450,Single Detached House,558,21,35,0
+Ward 2,3450,Duplex/Fourplex,19,3,8,0
+Ward 2,3450,Row House,193,7,0,0
+Ward 2,3450,Apartment (5+ stories),374,15,5,0
+Ward 2,3450,Apartment (1-4 stories),148,19,7,0
+Ward 2,3450,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3450,Institution/Collective Residence,0,0,0,0
+Ward 2,3450,Hotel/Motel,0,0,0,0
+Ward 2,3450,RV/Tent/Other,0,0,0,0
+Ward 2,3450,No Response,0,0,0,0
+Ward 2,3460,Single Detached House,81,19,1,0
+Ward 2,3460,Duplex/Fourplex,0,0,0,0
+Ward 2,3460,Row House,55,3,1,0
+Ward 2,3460,Apartment (5+ stories),0,0,0,0
+Ward 2,3460,Apartment (1-4 stories),110,2,1,0
+Ward 2,3460,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3460,Institution/Collective Residence,0,0,0,0
+Ward 2,3460,Hotel/Motel,0,0,0,0
+Ward 2,3460,RV/Tent/Other,0,0,0,0
+Ward 2,3460,No Response,0,0,0,0
+Ward 2,3470,Single Detached House,914,39,7,0
+Ward 2,3470,Duplex/Fourplex,210,5,0,0
+Ward 2,3470,Apartment (5+ stories),0,0,0,0
+Ward 2,3470,Apartment (1-4 stories),83,341,1,0
+Ward 2,3470,Manufactured/Mobile Home,2,0,0,0
+Ward 2,3470,Institution/Collective Residence,0,0,0,0
+Ward 2,3470,Hotel/Motel,0,0,0,0
+Ward 2,3470,RV/Tent/Other,0,0,0,0
+Ward 2,3470,No Response,0,0,0,0
+Ward 2,3480,Single Detached House,388,4,1,0
+Ward 2,3480,Duplex/Fourplex,110,10,0,0
+Ward 2,3480,Row House,0,0,0,0
+Ward 2,3480,Apartment (5+ stories),0,0,0,0
+Ward 2,3480,Apartment (1-4 stories),170,12,1,0
+Ward 2,3480,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3480,Institution/Collective Residence,0,0,0,0
+Ward 2,3480,Hotel/Motel,0,0,0,0
+Ward 2,3480,RV/Tent/Other,0,0,0,0
+Ward 2,3480,No Response,0,0,0,0
+Ward 2,3490,Single Detached House,0,0,1,0
+Ward 2,3490,Duplex/Fourplex,0,0,0,0
+Ward 2,3490,Row House,0,0,0,0
+Ward 2,3490,Apartment (5+ stories),0,0,0,0
+Ward 2,3490,Apartment (1-4 stories),0,0,0,0
+Ward 2,3490,Manufactured/Mobile Home,0,0,0,0
+Ward 2,3490,Institution/Collective Residence,0,0,0,0
+Ward 2,3490,Hotel/Motel,0,0,0,0
+Ward 2,3490,RV/Tent/Other,0,0,0,0
+Ward 2,3490,No Response,0,0,0,0
+Ward 2,4015,Single Detached House,0,0,0,0
+Ward 2,4015,Duplex/Fourplex,0,0,0,0
+Ward 2,4015,Row House,0,0,0,0
+Ward 2,4015,Apartment (5+ stories),0,0,0,0
+Ward 2,4015,Apartment (1-4 stories),0,0,0,0
+Ward 2,4015,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4015,Institution/Collective Residence,0,0,0,0
+Ward 2,4015,Hotel/Motel,0,0,0,0
+Ward 2,4015,RV/Tent/Other,0,0,0,0
+Ward 2,4015,No Response,0,0,0,0
+Ward 2,4023,Single Detached House,0,0,0,0
+Ward 2,4023,Duplex/Fourplex,0,0,0,0
+Ward 2,4023,Row House,0,0,0,0
+Ward 2,4023,Apartment (5+ stories),0,0,0,0
+Ward 2,4023,Apartment (1-4 stories),0,0,0,0
+Ward 2,4023,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4023,Institution/Collective Residence,0,0,0,0
+Ward 2,4023,Hotel/Motel,0,0,0,0
+Ward 2,4023,RV/Tent/Other,0,0,0,0
+Ward 2,4023,No Response,0,0,0,0
+Ward 2,4050,Single Detached House,0,0,0,0
+Ward 2,4050,Duplex/Fourplex,0,0,0,0
+Ward 2,4050,Row House,0,0,0,0
+Ward 2,4050,Apartment (5+ stories),0,0,0,0
+Ward 2,4050,Apartment (1-4 stories),0,0,0,0
+Ward 2,4050,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4050,Institution/Collective Residence,0,0,0,0
+Ward 2,4050,Hotel/Motel,0,0,0,0
+Ward 2,4050,RV/Tent/Other,0,0,0,0
+Ward 2,4050,No Response,0,0,0,0
+Ward 2,4150,Single Detached House,0,0,0,0
+Ward 2,4150,Duplex/Fourplex,0,0,0,0
+Ward 2,4150,Row House,0,0,0,0
+Ward 2,4150,Apartment (5+ stories),0,0,0,0
+Ward 2,4150,Apartment (1-4 stories),0,0,0,0
+Ward 2,4150,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4150,Institution/Collective Residence,0,0,0,0
+Ward 2,4150,Hotel/Motel,0,0,0,0
+Ward 2,4150,RV/Tent/Other,0,0,0,0
+Ward 2,4150,No Response,0,0,0,0
+Ward 2,4170,Single Detached House,0,0,0,0
+Ward 2,4170,Duplex/Fourplex,0,0,0,0
+Ward 2,4170,Row House,0,0,0,0
+Ward 2,4170,Apartment (5+ stories),0,0,0,0
+Ward 2,4170,Apartment (1-4 stories),0,0,0,0
+Ward 2,4170,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4170,Institution/Collective Residence,0,0,0,0
+Ward 2,4170,Hotel/Motel,0,0,0,0
+Ward 2,4170,RV/Tent/Other,0,0,0,0
+Ward 2,4170,No Response,0,0,0,0
+Ward 2,4210,Single Detached House,0,0,0,0
+Ward 2,4210,Duplex/Fourplex,0,0,0,0
+Ward 2,4210,Row House,0,0,0,0
+Ward 2,4210,Apartment (5+ stories),0,0,0,0
+Ward 2,4210,Apartment (1-4 stories),0,0,0,0
+Ward 2,4210,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4210,Institution/Collective Residence,0,0,0,0
+Ward 2,4210,Hotel/Motel,0,0,0,0
+Ward 2,4210,RV/Tent/Other,0,0,0,0
+Ward 2,4210,No Response,0,0,0,0
+Ward 2,4320,Single Detached House,0,0,0,0
+Ward 2,4320,Duplex/Fourplex,0,0,0,0
+Ward 2,4320,Row House,0,0,0,0
+Ward 2,4320,Apartment (5+ stories),0,0,0,0
+Ward 2,4320,Apartment (1-4 stories),0,0,0,0
+Ward 2,4320,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4320,Institution/Collective Residence,0,0,0,0
+Ward 2,4320,Hotel/Motel,0,0,0,0
+Ward 2,4320,RV/Tent/Other,0,0,0,0
+Ward 2,4320,No Response,0,0,0,0
+Ward 2,4330,Single Detached House,0,0,0,0
+Ward 2,4330,Duplex/Fourplex,0,0,0,0
+Ward 2,4330,Row House,0,0,0,0
+Ward 2,4330,Apartment (5+ stories),0,0,0,0
+Ward 2,4330,Apartment (1-4 stories),0,0,0,0
+Ward 2,4330,Manufactured/Mobile Home,0,0,0,0
+Ward 2,4330,Institution/Collective Residence,0,0,0,0
+Ward 2,4330,Hotel/Motel,0,0,0,0
+Ward 2,4330,RV/Tent/Other,0,0,0,0
+Ward 2,4330,No Response,0,0,0,0
+Ward 3,2050,Single Detached House,1051,9,5,0
+Ward 3,2050,Duplex/Fourplex,42,1,2,0
+Ward 3,2050,Row House,68,3,0,0
+Ward 3,2050,Apartment (5+ stories),0,0,0,0
+Ward 3,2050,Apartment (1-4 stories),0,0,0,0
+Ward 3,2050,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2050,Institution/Collective Residence,0,0,0,0
+Ward 3,2050,Hotel/Motel,0,0,0,0
+Ward 3,2050,RV/Tent/Other,2,0,0,0
+Ward 3,2050,No Response,0,0,0,0
+Ward 3,2210,Single Detached House,0,0,0,0
+Ward 3,2210,Duplex/Fourplex,0,0,0,0
+Ward 3,2210,Row House,0,0,0,0
+Ward 3,2210,Apartment (5+ stories),0,0,0,0
+Ward 3,2210,Apartment (1-4 stories),0,0,0,0
+Ward 3,2210,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2210,Institution/Collective Residence,0,0,0,0
+Ward 3,2210,Hotel/Motel,0,0,0,0
+Ward 3,2210,RV/Tent/Other,0,0,0,0
+Ward 3,2210,No Response,0,0,0,0
+Ward 3,2241,Single Detached House,579,7,31,0
+Ward 3,2241,Duplex/Fourplex,159,1,0,0
+Ward 3,2241,Row House,0,0,0,0
+Ward 3,2241,Apartment (5+ stories),0,0,0,0
+Ward 3,2241,Apartment (1-4 stories),410,8,31,0
+Ward 3,2241,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2241,Institution/Collective Residence,1,0,0,0
+Ward 3,2241,Hotel/Motel,0,0,0,0
+Ward 3,2241,RV/Tent/Other,0,0,0,0
+Ward 3,2241,No Response,0,0,0,0
+Ward 3,2260,Single Detached House,1128,6,4,0
+Ward 3,2260,Duplex/Fourplex,66,0,0,0
+Ward 3,2260,Row House,375,20,2,0
+Ward 3,2260,Apartment (5+ stories),0,0,0,0
+Ward 3,2260,Apartment (1-4 stories),535,5,9,0
+Ward 3,2260,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2260,Institution/Collective Residence,0,0,0,0
+Ward 3,2260,Hotel/Motel,0,0,0,0
+Ward 3,2260,RV/Tent/Other,0,0,1,0
+Ward 3,2260,No Response,0,0,0,0
+Ward 3,2410,Single Detached House,1261,28,4,0
+Ward 3,2410,Duplex/Fourplex,13,1,0,0
+Ward 3,2410,Row House,201,11,0,0
+Ward 3,2410,Apartment (5+ stories),0,0,0,0
+Ward 3,2410,Apartment (1-4 stories),619,10,32,0
+Ward 3,2410,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2410,Institution/Collective Residence,0,0,0,0
+Ward 3,2410,Hotel/Motel,0,0,0,0
+Ward 3,2410,RV/Tent/Other,0,0,0,0
+Ward 3,2410,No Response,0,0,0,0
+Ward 3,2440,Single Detached House,1461,36,4,0
+Ward 3,2440,Duplex/Fourplex,53,1,0,0
+Ward 3,2440,Row House,271,15,1,0
+Ward 3,2440,Apartment (5+ stories),0,0,0,0
+Ward 3,2440,Apartment (1-4 stories),0,0,0,0
+Ward 3,2440,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2440,Institution/Collective Residence,0,0,0,0
+Ward 3,2440,Hotel/Motel,0,0,0,0
+Ward 3,2440,RV/Tent/Other,0,0,0,0
+Ward 3,2440,No Response,0,0,0,0
+Ward 3,2450,Single Detached House,1241,6,5,0
+Ward 3,2450,Duplex/Fourplex,7,0,0,0
+Ward 3,2450,Row House,133,7,0,0
+Ward 3,2450,Apartment (5+ stories),0,0,0,0
+Ward 3,2450,Apartment (1-4 stories),0,0,0,0
+Ward 3,2450,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2450,Institution/Collective Residence,0,0,0,0
+Ward 3,2450,Hotel/Motel,0,0,0,0
+Ward 3,2450,RV/Tent/Other,0,0,0,0
+Ward 3,2450,No Response,0,0,0,0
+Ward 3,2461,Single Detached House,0,0,0,0
+Ward 3,2461,Duplex/Fourplex,0,0,0,0
+Ward 3,2461,Row House,0,0,0,0
+Ward 3,2461,Apartment (5+ stories),0,0,0,0
+Ward 3,2461,Apartment (1-4 stories),0,0,0,0
+Ward 3,2461,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2461,Institution/Collective Residence,0,0,0,0
+Ward 3,2461,Hotel/Motel,0,0,0,0
+Ward 3,2461,RV/Tent/Other,0,0,0,0
+Ward 3,2461,No Response,0,0,0,0
+Ward 3,2511,Single Detached House,1204,7,5,0
+Ward 3,2511,Duplex/Fourplex,69,0,0,0
+Ward 3,2511,Row House,0,0,0,0
+Ward 3,2511,Apartment (5+ stories),0,0,0,0
+Ward 3,2511,Apartment (1-4 stories),0,0,0,0
+Ward 3,2511,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2511,Institution/Collective Residence,0,0,0,0
+Ward 3,2511,Hotel/Motel,0,0,0,0
+Ward 3,2511,RV/Tent/Other,0,0,0,0
+Ward 3,2511,No Response,0,0,0,0
+Ward 3,2600,Single Detached House,1114,6,2,0
+Ward 3,2600,Duplex/Fourplex,88,1,0,0
+Ward 3,2600,Row House,62,0,1,0
+Ward 3,2600,Apartment (5+ stories),0,0,0,0
+Ward 3,2600,Apartment (1-4 stories),117,1,2,0
+Ward 3,2600,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2600,Institution/Collective Residence,0,0,0,0
+Ward 3,2600,Hotel/Motel,0,0,0,0
+Ward 3,2600,RV/Tent/Other,1,0,0,0
+Ward 3,2600,No Response,0,0,0,0
+Ward 3,2700,Single Detached House,550,37,1,0
+Ward 3,2700,Duplex/Fourplex,11,2,0,0
+Ward 3,2700,Row House,102,11,2,0
+Ward 3,2700,Apartment (5+ stories),60,64,2,0
+Ward 3,2700,Apartment (1-4 stories),100,12,1,0
+Ward 3,2700,Manufactured/Mobile Home,0,0,0,0
+Ward 3,2700,Institution/Collective Residence,0,0,0,0
+Ward 3,2700,Hotel/Motel,0,0,0,0
+Ward 3,2700,RV/Tent/Other,0,0,0,0
+Ward 3,2700,No Response,0,0,0,0
+Ward 3,3030,Single Detached House,1235,18,2,0
+Ward 3,3030,Duplex/Fourplex,139,3,1,0
+Ward 3,3030,Row House,375,4,5,0
+Ward 3,3030,Apartment (5+ stories),0,0,0,0
+Ward 3,3030,Apartment (1-4 stories),0,0,0,0
+Ward 3,3030,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3030,Institution/Collective Residence,0,0,0,0
+Ward 3,3030,Hotel/Motel,0,0,0,0
+Ward 3,3030,RV/Tent/Other,1,0,0,0
+Ward 3,3030,No Response,0,0,0,0
+Ward 3,3040,Single Detached House,842,11,6,0
+Ward 3,3040,Duplex/Fourplex,117,4,0,0
+Ward 3,3040,Row House,220,5,1,0
+Ward 3,3040,Apartment (5+ stories),0,0,0,0
+Ward 3,3040,Apartment (1-4 stories),743,32,13,0
+Ward 3,3040,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3040,Institution/Collective Residence,0,0,0,0
+Ward 3,3040,Hotel/Motel,0,0,0,0
+Ward 3,3040,RV/Tent/Other,1,0,0,0
+Ward 3,3040,No Response,0,0,0,0
+Ward 3,3080,Single Detached House,918,20,1,0
+Ward 3,3080,Duplex/Fourplex,58,1,0,0
+Ward 3,3080,Row House,45,0,0,0
+Ward 3,3080,Apartment (5+ stories),0,0,0,0
+Ward 3,3080,Apartment (1-4 stories),0,0,0,0
+Ward 3,3080,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3080,Institution/Collective Residence,0,0,0,0
+Ward 3,3080,Hotel/Motel,0,0,0,0
+Ward 3,3080,RV/Tent/Other,0,0,0,0
+Ward 3,3080,No Response,0,0,0,0
+Ward 3,3120,Single Detached House,656,31,0,0
+Ward 3,3120,Duplex/Fourplex,3,1,0,0
+Ward 3,3120,Row House,0,0,0,0
+Ward 3,3120,Apartment (5+ stories),0,0,0,0
+Ward 3,3120,Apartment (1-4 stories),0,0,0,0
+Ward 3,3120,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3120,Institution/Collective Residence,0,0,0,0
+Ward 3,3120,Hotel/Motel,0,0,0,0
+Ward 3,3120,RV/Tent/Other,0,0,0,0
+Ward 3,3120,No Response,0,0,0,0
+Ward 3,3180,Single Detached House,1177,9,1,0
+Ward 3,3180,Duplex/Fourplex,164,4,1,0
+Ward 3,3180,Row House,379,10,3,0
+Ward 3,3180,Apartment (5+ stories),0,0,0,0
+Ward 3,3180,Apartment (1-4 stories),615,26,69,0
+Ward 3,3180,Manufactured/Mobile Home,114,2,0,0
+Ward 3,3180,Institution/Collective Residence,0,0,0,0
+Ward 3,3180,Hotel/Motel,0,0,0,0
+Ward 3,3180,RV/Tent/Other,0,0,0,0
+Ward 3,3180,No Response,0,0,0,0
+Ward 3,3190,Single Detached House,588,6,5,0
+Ward 3,3190,Duplex/Fourplex,130,2,2,0
+Ward 3,3190,Row House,56,43,0,0
+Ward 3,3190,Apartment (5+ stories),0,0,0,0
+Ward 3,3190,Apartment (1-4 stories),3,0,0,0
+Ward 3,3190,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3190,Institution/Collective Residence,0,0,0,0
+Ward 3,3190,Hotel/Motel,0,0,0,0
+Ward 3,3190,RV/Tent/Other,0,0,0,0
+Ward 3,3190,No Response,0,0,0,0
+Ward 3,3280,Single Detached House,811,10,5,0
+Ward 3,3280,Duplex/Fourplex,117,3,0,0
+Ward 3,3280,Row House,351,12,9,0
+Ward 3,3280,Apartment (5+ stories),0,0,0,0
+Ward 3,3280,Apartment (1-4 stories),154,3,8,0
+Ward 3,3280,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3280,Institution/Collective Residence,0,0,0,0
+Ward 3,3280,Hotel/Motel,0,0,0,0
+Ward 3,3280,RV/Tent/Other,0,0,0,0
+Ward 3,3280,No Response,0,0,0,0
+Ward 3,3370,Single Detached House,279,19,0,0
+Ward 3,3370,Duplex/Fourplex,51,3,0,0
+Ward 3,3370,Row House,0,0,0,0
+Ward 3,3370,Apartment (5+ stories),0,0,0,0
+Ward 3,3370,Apartment (1-4 stories),0,0,0,0
+Ward 3,3370,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3370,Institution/Collective Residence,0,0,0,0
+Ward 3,3370,Hotel/Motel,0,0,0,0
+Ward 3,3370,RV/Tent/Other,0,0,0,0
+Ward 3,3370,No Response,0,0,0,0
+Ward 3,3490,Single Detached House,5,0,0,0
+Ward 3,3490,Duplex/Fourplex,0,0,0,0
+Ward 3,3490,Row House,0,0,0,0
+Ward 3,3490,Apartment (5+ stories),0,0,0,0
+Ward 3,3490,Apartment (1-4 stories),0,0,0,0
+Ward 3,3490,Manufactured/Mobile Home,0,0,0,0
+Ward 3,3490,Institution/Collective Residence,1,0,0,0
+Ward 3,3490,Hotel/Motel,0,0,0,0
+Ward 3,3490,RV/Tent/Other,0,0,0,0
+Ward 3,3490,No Response,0,0,0,0
+Ward 3,4016,Single Detached House,0,0,0,0
+Ward 3,4016,Duplex/Fourplex,0,0,0,0
+Ward 3,4016,Row House,0,0,0,0
+Ward 3,4016,Apartment (5+ stories),0,0,0,0
+Ward 3,4016,Apartment (1-4 stories),0,0,0,0
+Ward 3,4016,Manufactured/Mobile Home,0,0,0,0
+Ward 3,4016,Institution/Collective Residence,0,0,0,0
+Ward 3,4016,Hotel/Motel,0,0,0,0
+Ward 3,4016,RV/Tent/Other,0,0,0,0
+Ward 3,4016,No Response,0,0,0,0
+Ward 3,4017,Single Detached House,0,0,0,0
+Ward 3,4017,Duplex/Fourplex,0,0,0,0
+Ward 3,4017,Row House,0,0,0,0
+Ward 3,4017,Apartment (5+ stories),0,0,0,0
+Ward 3,4017,Apartment (1-4 stories),0,0,0,0
+Ward 3,4017,Manufactured/Mobile Home,0,0,0,0
+Ward 3,4017,Institution/Collective Residence,0,0,0,0
+Ward 3,4017,Hotel/Motel,0,0,0,0
+Ward 3,4017,RV/Tent/Other,0,0,0,0
+Ward 3,4017,No Response,0,0,0,0
+Ward 4,2030,Single Detached House,545,3,5,0
+Ward 4,2030,Duplex/Fourplex,0,0,0,0
+Ward 4,2030,Row House,442,6,0,0
+Ward 4,2030,Apartment (5+ stories),0,0,0,0
+Ward 4,2030,Apartment (1-4 stories),203,25,4,0
+Ward 4,2030,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2030,Institution/Collective Residence,0,0,0,0
+Ward 4,2030,Hotel/Motel,0,0,0,0
+Ward 4,2030,RV/Tent/Other,1,0,0,0
+Ward 4,2030,No Response,0,0,0,0
+Ward 4,2070,Single Detached House,773,13,3,0
+Ward 4,2070,Duplex/Fourplex,320,6,1,0
+Ward 4,2070,Row House,527,39,8,0
+Ward 4,2070,Apartment (5+ stories),0,0,0,0
+Ward 4,2070,Apartment (1-4 stories),374,6,1,0
+Ward 4,2070,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2070,Institution/Collective Residence,1,0,0,0
+Ward 4,2070,Hotel/Motel,0,0,0,0
+Ward 4,2070,RV/Tent/Other,0,0,0,0
+Ward 4,2070,No Response,0,0,0,0
+Ward 4,2080,Single Detached House,876,25,64,0
+Ward 4,2080,Duplex/Fourplex,157,6,14,0
+Ward 4,2080,Row House,112,5,0,0
+Ward 4,2080,Apartment (5+ stories),275,14,0,0
+Ward 4,2080,Apartment (1-4 stories),956,40,24,0
+Ward 4,2080,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2080,Institution/Collective Residence,55,55,1,0
+Ward 4,2080,Hotel/Motel,1,1,0,0
+Ward 4,2080,RV/Tent/Other,1,0,2,0
+Ward 4,2080,No Response,0,0,0,0
+Ward 4,2110,Single Detached House,1570,37,2,0
+Ward 4,2110,Duplex/Fourplex,29,1,0,0
+Ward 4,2110,Row House,85,38,1,0
+Ward 4,2110,Apartment (5+ stories),92,144,0,0
+Ward 4,2110,Apartment (1-4 stories),0,0,0,0
+Ward 4,2110,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2110,Institution/Collective Residence,0,0,0,0
+Ward 4,2110,Hotel/Motel,0,0,0,0
+Ward 4,2110,RV/Tent/Other,0,0,0,0
+Ward 4,2110,No Response,0,0,0,0
+Ward 4,2120,Single Detached House,167,2,0,0
+Ward 4,2120,Duplex/Fourplex,60,3,0,0
+Ward 4,2120,Row House,278,15,3,0
+Ward 4,2120,Apartment (5+ stories),0,0,0,0
+Ward 4,2120,Apartment (1-4 stories),517,31,2,0
+Ward 4,2120,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2120,Institution/Collective Residence,0,0,0,0
+Ward 4,2120,Hotel/Motel,0,0,0,0
+Ward 4,2120,RV/Tent/Other,0,0,1,0
+Ward 4,2120,No Response,0,0,0,0
+Ward 4,2130,Single Detached House,378,8,4,0
+Ward 4,2130,Duplex/Fourplex,0,0,0,0
+Ward 4,2130,Row House,678,66,9,0
+Ward 4,2130,Apartment (5+ stories),0,0,0,0
+Ward 4,2130,Apartment (1-4 stories),349,28,6,0
+Ward 4,2130,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2130,Institution/Collective Residence,0,0,0,0
+Ward 4,2130,Hotel/Motel,0,0,0,0
+Ward 4,2130,RV/Tent/Other,0,0,0,0
+Ward 4,2130,No Response,0,0,0,0
+Ward 4,2145,Single Detached House,140,2,0,0
+Ward 4,2145,Duplex/Fourplex,130,2,0,0
+Ward 4,2145,Row House,2,0,125,0
+Ward 4,2145,Apartment (5+ stories),212,13,0,0
+Ward 4,2145,Apartment (1-4 stories),980,88,12,0
+Ward 4,2145,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2145,Institution/Collective Residence,0,0,0,0
+Ward 4,2145,Hotel/Motel,0,1,0,0
+Ward 4,2145,RV/Tent/Other,0,0,0,0
+Ward 4,2145,No Response,0,0,0,0
+Ward 4,2160,Single Detached House,0,0,0,0
+Ward 4,2160,Duplex/Fourplex,0,0,0,0
+Ward 4,2160,Row House,0,0,0,0
+Ward 4,2160,Apartment (5+ stories),0,0,0,0
+Ward 4,2160,Apartment (1-4 stories),0,0,0,0
+Ward 4,2160,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2160,Institution/Collective Residence,0,0,0,0
+Ward 4,2160,Hotel/Motel,0,0,0,0
+Ward 4,2160,RV/Tent/Other,0,0,0,0
+Ward 4,2160,No Response,0,0,0,0
+Ward 4,2251,Single Detached House,0,0,0,0
+Ward 4,2251,Duplex/Fourplex,0,0,0,0
+Ward 4,2251,Row House,0,0,0,0
+Ward 4,2251,Apartment (5+ stories),0,0,0,0
+Ward 4,2251,Apartment (1-4 stories),0,0,0,0
+Ward 4,2251,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2251,Institution/Collective Residence,0,0,0,0
+Ward 4,2251,Hotel/Motel,0,0,0,0
+Ward 4,2251,RV/Tent/Other,0,0,0,0
+Ward 4,2251,No Response,0,0,0,0
+Ward 4,2270,Single Detached House,0,0,0,0
+Ward 4,2270,Duplex/Fourplex,0,0,0,0
+Ward 4,2270,Row House,0,0,0,0
+Ward 4,2270,Apartment (5+ stories),0,0,0,0
+Ward 4,2270,Apartment (1-4 stories),0,0,0,0
+Ward 4,2270,Manufactured/Mobile Home,666,27,11,0
+Ward 4,2270,Institution/Collective Residence,0,0,0,0
+Ward 4,2270,Hotel/Motel,0,0,0,0
+Ward 4,2270,RV/Tent/Other,0,0,0,0
+Ward 4,2270,No Response,0,0,0,0
+Ward 4,2280,Single Detached House,728,27,9,0
+Ward 4,2280,Duplex/Fourplex,104,2,1,0
+Ward 4,2280,Row House,104,2,1,0
+Ward 4,2280,Apartment (5+ stories),0,0,0,0
+Ward 4,2280,Apartment (1-4 stories),277,21,20,0
+Ward 4,2280,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2280,Institution/Collective Residence,5,0,0,0
+Ward 4,2280,Hotel/Motel,0,0,0,0
+Ward 4,2280,RV/Tent/Other,0,0,0,0
+Ward 4,2280,No Response,0,0,0,0
+Ward 4,2311,Single Detached House,0,0,0,0
+Ward 4,2311,Duplex/Fourplex,0,0,0,0
+Ward 4,2311,Row House,0,0,0,0
+Ward 4,2311,Apartment (5+ stories),0,0,0,0
+Ward 4,2311,Apartment (1-4 stories),0,0,0,0
+Ward 4,2311,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2311,Institution/Collective Residence,0,0,0,0
+Ward 4,2311,Hotel/Motel,0,0,0,0
+Ward 4,2311,RV/Tent/Other,0,0,0,0
+Ward 4,2311,No Response,0,0,0,0
+Ward 4,2320,Single Detached House,253,5,0,0
+Ward 4,2320,Duplex/Fourplex,34,3,0,0
+Ward 4,2320,Row House,500,23,6,0
+Ward 4,2320,Apartment (5+ stories),0,0,0,0
+Ward 4,2320,Apartment (1-4 stories),181,6,2,0
+Ward 4,2320,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2320,Institution/Collective Residence,0,0,0,0
+Ward 4,2320,Hotel/Motel,0,0,0,0
+Ward 4,2320,RV/Tent/Other,0,0,0,0
+Ward 4,2320,No Response,0,0,0,0
+Ward 4,2340,Single Detached House,1364,9,7,0
+Ward 4,2340,Duplex/Fourplex,228,2,0,0
+Ward 4,2340,Row House,48,0,0,0
+Ward 4,2340,Apartment (5+ stories),0,0,0,0
+Ward 4,2340,Apartment (1-4 stories),205,251,3,0
+Ward 4,2340,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2340,Institution/Collective Residence,2,0,0,0
+Ward 4,2340,Hotel/Motel,0,0,0,0
+Ward 4,2340,RV/Tent/Other,0,0,0,0
+Ward 4,2340,No Response,0,0,0,0
+Ward 4,2350,Single Detached House,446,9,4,0
+Ward 4,2350,Duplex/Fourplex,92,0,1,0
+Ward 4,2350,Row House,528,27,6,0
+Ward 4,2350,Apartment (5+ stories),0,0,0,0
+Ward 4,2350,Apartment (1-4 stories),238,27,1,0
+Ward 4,2350,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2350,Institution/Collective Residence,0,0,0,0
+Ward 4,2350,Hotel/Motel,0,0,0,0
+Ward 4,2350,RV/Tent/Other,2,0,0,0
+Ward 4,2350,No Response,0,0,0,0
+Ward 4,2380,Single Detached House,0,0,0,0
+Ward 4,2380,Duplex/Fourplex,0,0,0,0
+Ward 4,2380,Row House,0,0,0,0
+Ward 4,2380,Apartment (5+ stories),0,0,0,0
+Ward 4,2380,Apartment (1-4 stories),0,0,0,0
+Ward 4,2380,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2380,Institution/Collective Residence,0,0,0,0
+Ward 4,2380,Hotel/Motel,0,0,0,0
+Ward 4,2380,RV/Tent/Other,0,0,0,0
+Ward 4,2380,No Response,0,0,0,0
+Ward 4,2390,Single Detached House,707,15,5,0
+Ward 4,2390,Duplex/Fourplex,118,1,0,0
+Ward 4,2390,Row House,264,18,2,0
+Ward 4,2390,Apartment (5+ stories),0,0,0,0
+Ward 4,2390,Apartment (1-4 stories),59,3,0,0
+Ward 4,2390,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2390,Institution/Collective Residence,0,0,0,0
+Ward 4,2390,Hotel/Motel,0,0,0,0
+Ward 4,2390,RV/Tent/Other,0,0,0,0
+Ward 4,2390,No Response,0,0,0,0
+Ward 4,2430,Single Detached House,731,8,1,0
+Ward 4,2430,Duplex/Fourplex,94,6,1,0
+Ward 4,2430,Row House,156,5,0,0
+Ward 4,2430,Apartment (5+ stories),0,0,0,0
+Ward 4,2430,Apartment (1-4 stories),448,24,4,0
+Ward 4,2430,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2430,Institution/Collective Residence,0,0,0,0
+Ward 4,2430,Hotel/Motel,0,0,0,0
+Ward 4,2430,RV/Tent/Other,0,0,0,0
+Ward 4,2430,No Response,0,0,0,0
+Ward 4,2500,Single Detached House,1059,11,3,0
+Ward 4,2500,Duplex/Fourplex,95,0,0,0
+Ward 4,2500,Row House,25,1,0,0
+Ward 4,2500,Apartment (5+ stories),0,0,0,0
+Ward 4,2500,Apartment (1-4 stories),101,1,1,0
+Ward 4,2500,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2500,Institution/Collective Residence,1,0,0,0
+Ward 4,2500,Hotel/Motel,0,0,0,0
+Ward 4,2500,RV/Tent/Other,0,0,0,0
+Ward 4,2500,No Response,0,0,0,0
+Ward 4,2521,Single Detached House,696,42,0,0
+Ward 4,2521,Duplex/Fourplex,27,5,0,0
+Ward 4,2521,Row House,50,67,0,0
+Ward 4,2521,Apartment (5+ stories),235,85,10,0
+Ward 4,2521,Apartment (1-4 stories),0,0,0,0
+Ward 4,2521,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2521,Institution/Collective Residence,0,0,0,0
+Ward 4,2521,Hotel/Motel,0,0,0,0
+Ward 4,2521,RV/Tent/Other,0,0,0,0
+Ward 4,2521,No Response,0,0,0,0
+Ward 4,2530,Single Detached House,871,8,8,0
+Ward 4,2530,Duplex/Fourplex,1,1,0,0
+Ward 4,2530,Row House,0,0,0,0
+Ward 4,2530,Apartment (5+ stories),0,0,0,0
+Ward 4,2530,Apartment (1-4 stories),0,0,0,0
+Ward 4,2530,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2530,Institution/Collective Residence,0,0,0,0
+Ward 4,2530,Hotel/Motel,0,0,0,0
+Ward 4,2530,RV/Tent/Other,0,0,0,0
+Ward 4,2530,No Response,0,0,0,0
+Ward 4,2541,Single Detached House,643,9,3,0
+Ward 4,2541,Duplex/Fourplex,109,3,0,0
+Ward 4,2541,Row House,150,5,1,0
+Ward 4,2541,Apartment (5+ stories),0,0,0,0
+Ward 4,2541,Apartment (1-4 stories),215,6,19,0
+Ward 4,2541,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2541,Institution/Collective Residence,1,0,0,0
+Ward 4,2541,Hotel/Motel,0,0,0,0
+Ward 4,2541,RV/Tent/Other,0,0,0,0
+Ward 4,2541,No Response,0,0,0,0
+Ward 4,2590,Single Detached House,316,2,1,0
+Ward 4,2590,Duplex/Fourplex,44,0,0,0
+Ward 4,2590,Row House,356,6,0,0
+Ward 4,2590,Apartment (5+ stories),0,0,0,0
+Ward 4,2590,Apartment (1-4 stories),551,3,11,0
+Ward 4,2590,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2590,Institution/Collective Residence,0,0,0,0
+Ward 4,2590,Hotel/Motel,0,0,0,0
+Ward 4,2590,RV/Tent/Other,0,0,0,0
+Ward 4,2590,No Response,0,0,0,0
+Ward 4,2611,Single Detached House,0,0,0,0
+Ward 4,2611,Duplex/Fourplex,0,0,0,0
+Ward 4,2611,Row House,0,0,0,0
+Ward 4,2611,Apartment (5+ stories),0,0,0,0
+Ward 4,2611,Apartment (1-4 stories),0,0,0,0
+Ward 4,2611,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2611,Institution/Collective Residence,0,0,0,0
+Ward 4,2611,Hotel/Motel,0,0,0,0
+Ward 4,2611,RV/Tent/Other,0,0,0,0
+Ward 4,2611,No Response,0,0,0,0
+Ward 4,2630,Single Detached House,0,0,0,0
+Ward 4,2630,Duplex/Fourplex,0,0,0,0
+Ward 4,2630,Row House,0,0,0,0
+Ward 4,2630,Apartment (5+ stories),0,0,0,0
+Ward 4,2630,Apartment (1-4 stories),0,0,0,0
+Ward 4,2630,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2630,Institution/Collective Residence,0,0,0,0
+Ward 4,2630,Hotel/Motel,0,0,0,0
+Ward 4,2630,RV/Tent/Other,0,0,0,0
+Ward 4,2630,No Response,0,0,0,0
+Ward 4,2670,Single Detached House,85,2,15,0
+Ward 4,2670,Duplex/Fourplex,0,0,0,0
+Ward 4,2670,Row House,0,0,0,0
+Ward 4,2670,Apartment (5+ stories),0,0,0,0
+Ward 4,2670,Apartment (1-4 stories),0,0,0,0
+Ward 4,2670,Manufactured/Mobile Home,2,0,0,0
+Ward 4,2670,Institution/Collective Residence,0,1,0,0
+Ward 4,2670,Hotel/Motel,0,0,0,0
+Ward 4,2670,RV/Tent/Other,0,0,0,0
+Ward 4,2670,No Response,0,0,0,0
+Ward 4,2680,Single Detached House,68,3,14,0
+Ward 4,2680,Duplex/Fourplex,0,0,0,0
+Ward 4,2680,Row House,0,0,0,0
+Ward 4,2680,Apartment (5+ stories),0,0,0,0
+Ward 4,2680,Apartment (1-4 stories),0,0,0,0
+Ward 4,2680,Manufactured/Mobile Home,3,0,0,0
+Ward 4,2680,Institution/Collective Residence,1,0,0,0
+Ward 4,2680,Hotel/Motel,0,0,0,0
+Ward 4,2680,RV/Tent/Other,0,0,0,0
+Ward 4,2680,No Response,0,0,0,0
+Ward 4,2690,Single Detached House,214,4,19,0
+Ward 4,2690,Duplex/Fourplex,0,0,0,0
+Ward 4,2690,Row House,0,0,0,0
+Ward 4,2690,Apartment (5+ stories),0,0,0,0
+Ward 4,2690,Apartment (1-4 stories),0,0,0,0
+Ward 4,2690,Manufactured/Mobile Home,3,0,0,0
+Ward 4,2690,Institution/Collective Residence,0,0,0,0
+Ward 4,2690,Hotel/Motel,0,0,0,0
+Ward 4,2690,RV/Tent/Other,0,0,0,0
+Ward 4,2690,No Response,0,0,0,0
+Ward 4,2710,Single Detached House,251,8,2,0
+Ward 4,2710,Duplex/Fourplex,33,1,0,0
+Ward 4,2710,Row House,134,8,2,0
+Ward 4,2710,Apartment (5+ stories),0,0,0,0
+Ward 4,2710,Apartment (1-4 stories),468,34,20,0
+Ward 4,2710,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2710,Institution/Collective Residence,1,0,0,0
+Ward 4,2710,Hotel/Motel,0,0,0,0
+Ward 4,2710,RV/Tent/Other,0,0,0,0
+Ward 4,2710,No Response,0,0,0,0
+Ward 4,2720,Single Detached House,797,13,13,0
+Ward 4,2720,Duplex/Fourplex,100,3,0,0
+Ward 4,2720,Row House,416,8,4,0
+Ward 4,2720,Apartment (5+ stories),0,0,0,0
+Ward 4,2720,Apartment (1-4 stories),192,9,35,0
+Ward 4,2720,Manufactured/Mobile Home,0,0,0,0
+Ward 4,2720,Institution/Collective Residence,0,0,0,0
+Ward 4,2720,Hotel/Motel,0,0,0,0
+Ward 4,2720,RV/Tent/Other,0,0,0,0
+Ward 4,2720,No Response,0,0,0,0
+Ward 4,4019,Single Detached House,0,0,0,0
+Ward 4,4019,Duplex/Fourplex,0,0,0,0
+Ward 4,4019,Row House,0,0,0,0
+Ward 4,4019,Apartment (5+ stories),0,0,0,0
+Ward 4,4019,Apartment (1-4 stories),0,0,0,0
+Ward 4,4019,Manufactured/Mobile Home,0,0,0,0
+Ward 4,4019,Institution/Collective Residence,0,0,0,0
+Ward 4,4019,Hotel/Motel,0,0,0,0
+Ward 4,4019,RV/Tent/Other,0,0,0,0
+Ward 4,4019,No Response,0,0,0,0
+Ward 4,4021,Single Detached House,0,0,0,0
+Ward 4,4021,Duplex/Fourplex,0,0,0,0
+Ward 4,4021,Row House,0,0,0,0
+Ward 4,4021,Apartment (5+ stories),0,0,0,0
+Ward 4,4021,Apartment (1-4 stories),0,0,0,0
+Ward 4,4021,Manufactured/Mobile Home,0,0,0,0
+Ward 4,4021,Institution/Collective Residence,0,0,0,0
+Ward 4,4021,Hotel/Motel,0,0,0,0
+Ward 4,4021,RV/Tent/Other,0,0,0,0
+Ward 4,4021,No Response,0,0,0,0
+Ward 4,4022,Single Detached House,0,0,0,0
+Ward 4,4022,Duplex/Fourplex,0,0,0,0
+Ward 4,4022,Row House,0,0,0,0
+Ward 4,4022,Apartment (5+ stories),0,0,0,0
+Ward 4,4022,Apartment (1-4 stories),0,0,0,0
+Ward 4,4022,Manufactured/Mobile Home,0,0,0,0
+Ward 4,4022,Institution/Collective Residence,0,0,0,0
+Ward 4,4022,Hotel/Motel,0,0,0,0
+Ward 4,4022,RV/Tent/Other,0,0,0,0
+Ward 4,4022,No Response,0,0,0,0
+Ward 5,3270,Single Detached House,916,20,5,0
+Ward 5,3270,Duplex/Fourplex,0,0,0,0
+Ward 5,3270,Row House,0,0,0,0
+Ward 5,3270,Apartment (5+ stories),0,0,0,0
+Ward 5,3270,Apartment (1-4 stories),26,1,0,0
+Ward 5,3270,Manufactured/Mobile Home,0,0,0,0
+Ward 5,3270,Institution/Collective Residence,222,53,0,0
+Ward 5,3270,Hotel/Motel,0,0,0,0
+Ward 5,3270,RV/Tent/Other,0,0,0,0
+Ward 5,3270,No Response,0,0,0,0
+Ward 5,3382,Single Detached House,0,0,0,0
+Ward 5,3382,Duplex/Fourplex,0,0,0,0
+Ward 5,3382,Row House,0,0,0,0
+Ward 5,3382,Apartment (5+ stories),0,0,0,0
+Ward 5,3382,Apartment (1-4 stories),0,0,0,0
+Ward 5,3382,Manufactured/Mobile Home,0,0,0,0
+Ward 5,3382,Institution/Collective Residence,0,0,0,0
+Ward 5,3382,Hotel/Motel,0,0,0,0
+Ward 5,3382,RV/Tent/Other,0,0,0,0
+Ward 5,3382,No Response,0,0,0,0
+Ward 5,4012,Single Detached House,0,0,0,0
+Ward 5,4012,Duplex/Fourplex,0,0,0,0
+Ward 5,4012,Row House,0,0,0,0
+Ward 5,4012,Apartment (5+ stories),0,0,0,0
+Ward 5,4012,Apartment (1-4 stories),0,0,0,0
+Ward 5,4012,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4012,Institution/Collective Residence,0,0,0,0
+Ward 5,4012,Hotel/Motel,0,0,0,0
+Ward 5,4012,RV/Tent/Other,0,0,0,0
+Ward 5,4012,No Response,0,0,0,0
+Ward 5,4070,Single Detached House,117,1,2,0
+Ward 5,4070,Duplex/Fourplex,76,1,1,0
+Ward 5,4070,Row House,397,16,10,0
+Ward 5,4070,Apartment (5+ stories),141,8,0,0
+Ward 5,4070,Apartment (1-4 stories),382,22,11,0
+Ward 5,4070,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4070,Institution/Collective Residence,0,0,0,0
+Ward 5,4070,Hotel/Motel,0,0,0,0
+Ward 5,4070,RV/Tent/Other,0,0,0,0
+Ward 5,4070,No Response,0,0,0,0
+Ward 5,4080,Single Detached House,10,0,7,0
+Ward 5,4080,Duplex/Fourplex,64,2,0,0
+Ward 5,4080,Row House,468,21,28,0
+Ward 5,4080,Apartment (5+ stories),712,14,8,0
+Ward 5,4080,Apartment (1-4 stories),1638,38,19,0
+Ward 5,4080,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4080,Institution/Collective Residence,0,0,0,0
+Ward 5,4080,Hotel/Motel,0,0,0,0
+Ward 5,4080,RV/Tent/Other,0,0,0,0
+Ward 5,4080,No Response,0,0,0,0
+Ward 5,4110,Single Detached House,526,3,2,0
+Ward 5,4110,Duplex/Fourplex,66,1,0,0
+Ward 5,4110,Row House,0,0,0,0
+Ward 5,4110,Apartment (5+ stories),0,0,0,0
+Ward 5,4110,Apartment (1-4 stories),0,0,0,0
+Ward 5,4110,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4110,Institution/Collective Residence,0,0,0,0
+Ward 5,4110,Hotel/Motel,0,0,0,0
+Ward 5,4110,RV/Tent/Other,0,0,0,0
+Ward 5,4110,No Response,0,0,0,0
+Ward 5,4120,Single Detached House,364,21,1,0
+Ward 5,4120,Duplex/Fourplex,0,0,0,0
+Ward 5,4120,Row House,0,0,0,0
+Ward 5,4120,Apartment (5+ stories),0,0,0,0
+Ward 5,4120,Apartment (1-4 stories),0,0,0,0
+Ward 5,4120,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4120,Institution/Collective Residence,85,107,0,0
+Ward 5,4120,Hotel/Motel,0,0,0,0
+Ward 5,4120,RV/Tent/Other,0,0,0,0
+Ward 5,4120,No Response,0,0,0,0
+Ward 5,4140,Single Detached House,726,27,4,0
+Ward 5,4140,Duplex/Fourplex,119,6,0,0
+Ward 5,4140,Row House,0,0,0,0
+Ward 5,4140,Apartment (5+ stories),0,0,0,0
+Ward 5,4140,Apartment (1-4 stories),127,3,1,0
+Ward 5,4140,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4140,Institution/Collective Residence,26,34,1,0
+Ward 5,4140,Hotel/Motel,0,0,0,0
+Ward 5,4140,RV/Tent/Other,0,0,0,0
+Ward 5,4140,No Response,0,0,0,0
+Ward 5,4160,Single Detached House,483,7,1,0
+Ward 5,4160,Duplex/Fourplex,97,2,0,0
+Ward 5,4160,Row House,145,6,1,0
+Ward 5,4160,Apartment (5+ stories),0,0,0,0
+Ward 5,4160,Apartment (1-4 stories),0,0,0,0
+Ward 5,4160,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4160,Institution/Collective Residence,0,0,0,0
+Ward 5,4160,Hotel/Motel,0,0,0,0
+Ward 5,4160,RV/Tent/Other,0,0,0,0
+Ward 5,4160,No Response,0,0,0,0
+Ward 5,4220,Single Detached House,1235,7,10,0
+Ward 5,4220,Duplex/Fourplex,86,1,0,0
+Ward 5,4220,Row House,0,0,0,0
+Ward 5,4220,Apartment (5+ stories),0,0,0,0
+Ward 5,4220,Apartment (1-4 stories),0,0,0,0
+Ward 5,4220,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4220,Institution/Collective Residence,4,0,0,0
+Ward 5,4220,Hotel/Motel,0,0,0,0
+Ward 5,4220,RV/Tent/Other,0,0,0,0
+Ward 5,4220,No Response,0,0,0,0
+Ward 5,4270,Single Detached House,1500,15,1,0
+Ward 5,4270,Duplex/Fourplex,94,0,0,0
+Ward 5,4270,Row House,550,40,2,0
+Ward 5,4270,Apartment (5+ stories),0,0,0,0
+Ward 5,4270,Apartment (1-4 stories),0,0,1,0
+Ward 5,4270,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4270,Institution/Collective Residence,0,0,0,0
+Ward 5,4270,Hotel/Motel,0,0,0,0
+Ward 5,4270,RV/Tent/Other,1,0,0,0
+Ward 5,4270,No Response,0,0,0,0
+Ward 5,4280,Single Detached House,790,12,20,0
+Ward 5,4280,Duplex/Fourplex,0,0,0,0
+Ward 5,4280,Row House,0,0,0,0
+Ward 5,4280,Apartment (5+ stories),343,9,2,0
+Ward 5,4280,Apartment (1-4 stories),278,7,2,0
+Ward 5,4280,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4280,Institution/Collective Residence,1,0,0,0
+Ward 5,4280,Hotel/Motel,0,0,0,0
+Ward 5,4280,RV/Tent/Other,0,0,0,0
+Ward 5,4280,No Response,0,0,0,0
+Ward 5,4360,Single Detached House,975,15,22,0
+Ward 5,4360,Duplex/Fourplex,69,3,0,0
+Ward 5,4360,Row House,40,1,0,0
+Ward 5,4360,Apartment (5+ stories),0,0,0,0
+Ward 5,4360,Apartment (1-4 stories),0,0,0,0
+Ward 5,4360,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4360,Institution/Collective Residence,0,0,0,0
+Ward 5,4360,Hotel/Motel,0,0,0,0
+Ward 5,4360,RV/Tent/Other,0,0,0,0
+Ward 5,4360,No Response,0,0,0,0
+Ward 5,4380,Single Detached House,1042,6,6,0
+Ward 5,4380,Duplex/Fourplex,0,0,0,0
+Ward 5,4380,Row House,705,35,1,0
+Ward 5,4380,Apartment (5+ stories),0,0,0,0
+Ward 5,4380,Apartment (1-4 stories),149,2,0,0
+Ward 5,4380,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4380,Institution/Collective Residence,0,0,0,0
+Ward 5,4380,Hotel/Motel,1,0,0,0
+Ward 5,4380,RV/Tent/Other,0,0,0,0
+Ward 5,4380,No Response,0,0,0,0
+Ward 5,4390,Single Detached House,305,10,6,0
+Ward 5,4390,Duplex/Fourplex,0,0,0,0
+Ward 5,4390,Row House,0,0,0,0
+Ward 5,4390,Apartment (5+ stories),0,0,0,0
+Ward 5,4390,Apartment (1-4 stories),388,19,0,0
+Ward 5,4390,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4390,Institution/Collective Residence,0,0,0,0
+Ward 5,4390,Hotel/Motel,0,0,0,0
+Ward 5,4390,RV/Tent/Other,0,0,0,0
+Ward 5,4390,No Response,0,0,0,0
+Ward 5,4420,Single Detached House,120,0,3,0
+Ward 5,4420,Duplex/Fourplex,0,0,0,0
+Ward 5,4420,Row House,0,0,0,0
+Ward 5,4420,Apartment (5+ stories),0,0,0,0
+Ward 5,4420,Apartment (1-4 stories),0,0,0,0
+Ward 5,4420,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4420,Institution/Collective Residence,0,0,0,0
+Ward 5,4420,Hotel/Motel,0,0,0,0
+Ward 5,4420,RV/Tent/Other,0,0,0,0
+Ward 5,4420,No Response,0,0,0,0
+Ward 5,4430,Single Detached House,495,11,1,0
+Ward 5,4430,Duplex/Fourplex,0,0,0,0
+Ward 5,4430,Row House,0,0,0,0
+Ward 5,4430,Apartment (5+ stories),0,0,0,0
+Ward 5,4430,Apartment (1-4 stories),0,0,0,0
+Ward 5,4430,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4430,Institution/Collective Residence,0,0,0,0
+Ward 5,4430,Hotel/Motel,0,0,0,0
+Ward 5,4430,RV/Tent/Other,3,0,0,0
+Ward 5,4430,No Response,0,0,0,0
+Ward 5,4440,Single Detached House,0,0,0,0
+Ward 5,4440,Duplex/Fourplex,0,0,0,0
+Ward 5,4440,Row House,0,0,0,0
+Ward 5,4440,Apartment (5+ stories),0,0,0,0
+Ward 5,4440,Apartment (1-4 stories),0,0,0,0
+Ward 5,4440,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4440,Institution/Collective Residence,0,0,0,0
+Ward 5,4440,Hotel/Motel,0,0,0,0
+Ward 5,4440,RV/Tent/Other,0,0,0,0
+Ward 5,4440,No Response,0,0,0,0
+Ward 5,4451,Single Detached House,0,0,0,0
+Ward 5,4451,Duplex/Fourplex,0,0,0,0
+Ward 5,4451,Row House,0,0,0,0
+Ward 5,4451,Apartment (5+ stories),0,0,0,0
+Ward 5,4451,Apartment (1-4 stories),0,0,0,0
+Ward 5,4451,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4451,Institution/Collective Residence,0,0,0,0
+Ward 5,4451,Hotel/Motel,0,0,0,0
+Ward 5,4451,RV/Tent/Other,0,0,0,0
+Ward 5,4451,No Response,0,0,0,0
+Ward 5,4460,Single Detached House,165,15,16,0
+Ward 5,4460,Duplex/Fourplex,0,0,0,0
+Ward 5,4460,Row House,0,0,0,0
+Ward 5,4460,Apartment (5+ stories),0,0,0,0
+Ward 5,4460,Apartment (1-4 stories),0,0,0,0
+Ward 5,4460,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4460,Institution/Collective Residence,0,0,0,0
+Ward 5,4460,Hotel/Motel,0,0,0,0
+Ward 5,4460,RV/Tent/Other,0,0,0,0
+Ward 5,4460,No Response,0,0,0,0
+Ward 5,4461,Single Detached House,2295,88,9,0
+Ward 5,4461,Duplex/Fourplex,588,16,0,0
+Ward 5,4461,Row House,409,20,1,0
+Ward 5,4461,Apartment (5+ stories),0,0,0,0
+Ward 5,4461,Apartment (1-4 stories),394,5,9,0
+Ward 5,4461,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4461,Institution/Collective Residence,0,0,0,0
+Ward 5,4461,Hotel/Motel,0,0,0,0
+Ward 5,4461,RV/Tent/Other,0,0,0,0
+Ward 5,4461,No Response,0,0,0,0
+Ward 5,4462,Single Detached House,38,1,8,0
+Ward 5,4462,Duplex/Fourplex,0,0,0,0
+Ward 5,4462,Row House,0,0,0,0
+Ward 5,4462,Apartment (5+ stories),0,0,0,0
+Ward 5,4462,Apartment (1-4 stories),0,0,0,0
+Ward 5,4462,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4462,Institution/Collective Residence,0,0,0,0
+Ward 5,4462,Hotel/Motel,0,0,0,0
+Ward 5,4462,RV/Tent/Other,0,0,0,0
+Ward 5,4462,No Response,0,0,0,0
+Ward 5,4466,Single Detached House,463,55,0,0
+Ward 5,4466,Duplex/Fourplex,0,2,0,0
+Ward 5,4466,Row House,0,0,0,0
+Ward 5,4466,Apartment (5+ stories),0,0,0,0
+Ward 5,4466,Apartment (1-4 stories),0,0,0,0
+Ward 5,4466,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4466,Institution/Collective Residence,0,0,0,0
+Ward 5,4466,Hotel/Motel,0,0,0,0
+Ward 5,4466,RV/Tent/Other,0,0,0,0
+Ward 5,4466,No Response,0,0,0,0
+Ward 5,4467,Single Detached House,0,0,0,0
+Ward 5,4467,Duplex/Fourplex,0,0,0,0
+Ward 5,4467,Row House,0,0,0,0
+Ward 5,4467,Apartment (5+ stories),0,0,0,0
+Ward 5,4467,Apartment (1-4 stories),0,0,0,0
+Ward 5,4467,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4467,Institution/Collective Residence,0,0,0,0
+Ward 5,4467,Hotel/Motel,0,0,0,0
+Ward 5,4467,RV/Tent/Other,0,0,0,0
+Ward 5,4467,No Response,0,0,0,0
+Ward 5,4551,Single Detached House,300,36,0,0
+Ward 5,4551,Duplex/Fourplex,7,0,0,0
+Ward 5,4551,Row House,0,0,0,0
+Ward 5,4551,Apartment (5+ stories),0,0,0,0
+Ward 5,4551,Apartment (1-4 stories),0,0,0,0
+Ward 5,4551,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4551,Institution/Collective Residence,0,0,0,0
+Ward 5,4551,Hotel/Motel,0,0,0,0
+Ward 5,4551,RV/Tent/Other,0,0,0,0
+Ward 5,4551,No Response,0,0,0,0
+Ward 5,4560,Single Detached House,403,4,5,0
+Ward 5,4560,Duplex/Fourplex,131,0,1,0
+Ward 5,4560,Row House,454,6,12,0
+Ward 5,4560,Apartment (5+ stories),0,0,0,0
+Ward 5,4560,Apartment (1-4 stories),325,21,0,0
+Ward 5,4560,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4560,Institution/Collective Residence,0,0,0,0
+Ward 5,4560,Hotel/Motel,0,0,0,0
+Ward 5,4560,RV/Tent/Other,0,0,0,0
+Ward 5,4560,No Response,0,0,0,0
+Ward 5,4570,Single Detached House,512,7,3,0
+Ward 5,4570,Duplex/Fourplex,0,0,0,0
+Ward 5,4570,Row House,0,0,0,0
+Ward 5,4570,Apartment (5+ stories),0,0,0,0
+Ward 5,4570,Apartment (1-4 stories),0,0,0,0
+Ward 5,4570,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4570,Institution/Collective Residence,0,0,0,0
+Ward 5,4570,Hotel/Motel,0,0,0,0
+Ward 5,4570,RV/Tent/Other,0,0,0,0
+Ward 5,4570,No Response,0,0,0,0
+Ward 5,4610,Single Detached House,449,11,1,0
+Ward 5,4610,Duplex/Fourplex,0,0,0,0
+Ward 5,4610,Row House,34,4,0,0
+Ward 5,4610,Apartment (5+ stories),0,0,0,0
+Ward 5,4610,Apartment (1-4 stories),0,0,0,0
+Ward 5,4610,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4610,Institution/Collective Residence,0,0,0,0
+Ward 5,4610,Hotel/Motel,0,0,0,0
+Ward 5,4610,RV/Tent/Other,0,0,0,0
+Ward 5,4610,No Response,0,0,0,0
+Ward 5,4720,Single Detached House,1335,18,22,0
+Ward 5,4720,Duplex/Fourplex,326,6,1,0
+Ward 5,4720,Row House,77,2,0,0
+Ward 5,4720,Apartment (5+ stories),114,2,0,0
+Ward 5,4720,Apartment (1-4 stories),532,54,18,0
+Ward 5,4720,Manufactured/Mobile Home,0,0,0,0
+Ward 5,4720,Institution/Collective Residence,15,0,5,0
+Ward 5,4720,Hotel/Motel,0,0,0,0
+Ward 5,4720,RV/Tent/Other,0,0,6,0
+Ward 5,4720,No Response,0,0,0,0
+Ward 6,1020,Single Detached House,137,8,54,0
+Ward 6,1020,Duplex/Fourplex,71,0,16,0
+Ward 6,1020,Row House,33,4,10,0
+Ward 6,1020,Apartment (5+ stories),1652,118,33,0
+Ward 6,1020,Apartment (1-4 stories),1942,245,95,0
+Ward 6,1020,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1020,Institution/Collective Residence,148,90,20,0
+Ward 6,1020,Hotel/Motel,43,0,0,0
+Ward 6,1020,RV/Tent/Other,0,0,0,0
+Ward 6,1020,No Response,0,0,0,0
+Ward 6,1030,Single Detached House,172,6,31,0
+Ward 6,1030,Duplex/Fourplex,23,2,5,0
+Ward 6,1030,Row House,152,5,0,0
+Ward 6,1030,Apartment (5+ stories),165,3,12,0
+Ward 6,1030,Apartment (1-4 stories),2549,140,99,0
+Ward 6,1030,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1030,Institution/Collective Residence,0,1,11,0
+Ward 6,1030,Hotel/Motel,0,0,0,0
+Ward 6,1030,RV/Tent/Other,0,0,0,0
+Ward 6,1030,No Response,0,0,0,0
+Ward 6,1090,Single Detached House,35,1,25,0
+Ward 6,1090,Duplex/Fourplex,5,0,1,0
+Ward 6,1090,Row House,50,1,0,0
+Ward 6,1090,Apartment (5+ stories),7269,304,67,0
+Ward 6,1090,Apartment (1-4 stories),960,30,110,0
+Ward 6,1090,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1090,Institution/Collective Residence,327,2,0,0
+Ward 6,1090,Hotel/Motel,31,10,0,0
+Ward 6,1090,RV/Tent/Other,1,0,1,0
+Ward 6,1090,No Response,0,0,0,0
+Ward 6,1140,Single Detached House,1093,137,342,0
+Ward 6,1140,Duplex/Fourplex,144,46,104,0
+Ward 6,1140,Row House,40,4,10,0
+Ward 6,1140,Apartment (5+ stories),458,36,14,0
+Ward 6,1140,Apartment (1-4 stories),735,104,54,0
+Ward 6,1140,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1140,Institution/Collective Residence,101,50,34,0
+Ward 6,1140,Hotel/Motel,1,1,0,0
+Ward 6,1140,RV/Tent/Other,7,0,0,0
+Ward 6,1140,No Response,0,0,0,0
+Ward 6,1150,Single Detached House,126,19,98,0
+Ward 6,1150,Duplex/Fourplex,58,7,15,0
+Ward 6,1150,Row House,67,6,12,0
+Ward 6,1150,Apartment (5+ stories),8516,319,349,0
+Ward 6,1150,Apartment (1-4 stories),3970,136,126,0
+Ward 6,1150,Manufactured/Mobile Home,1,0,0,0
+Ward 6,1150,Institution/Collective Residence,54,8,19,0
+Ward 6,1150,Hotel/Motel,1,0,0,0
+Ward 6,1150,RV/Tent/Other,1,0,6,0
+Ward 6,1150,No Response,0,0,0,0
+Ward 6,1180,Single Detached House,468,14,26,0
+Ward 6,1180,Duplex/Fourplex,42,0,2,0
+Ward 6,1180,Row House,12,2,3,0
+Ward 6,1180,Apartment (5+ stories),157,38,1,0
+Ward 6,1180,Apartment (1-4 stories),3458,142,24,0
+Ward 6,1180,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1180,Institution/Collective Residence,0,0,0,0
+Ward 6,1180,Hotel/Motel,0,0,0,0
+Ward 6,1180,RV/Tent/Other,0,0,0,0
+Ward 6,1180,No Response,0,0,0,0
+Ward 6,1200,Single Detached House,0,0,0,0
+Ward 6,1200,Duplex/Fourplex,0,0,0,0
+Ward 6,1200,Row House,0,0,0,0
+Ward 6,1200,Apartment (5+ stories),0,0,0,0
+Ward 6,1200,Apartment (1-4 stories),0,0,0,0
+Ward 6,1200,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1200,Institution/Collective Residence,0,0,0,0
+Ward 6,1200,Hotel/Motel,0,0,0,0
+Ward 6,1200,RV/Tent/Other,0,0,0,0
+Ward 6,1200,No Response,0,0,0,0
+Ward 6,1210,Single Detached House,362,19,37,0
+Ward 6,1210,Duplex/Fourplex,225,1,14,0
+Ward 6,1210,Row House,70,4,0,0
+Ward 6,1210,Apartment (5+ stories),93,2,0,0
+Ward 6,1210,Apartment (1-4 stories),215,9,15,0
+Ward 6,1210,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1210,Institution/Collective Residence,1,0,0,0
+Ward 6,1210,Hotel/Motel,0,0,0,0
+Ward 6,1210,RV/Tent/Other,0,0,0,0
+Ward 6,1210,No Response,0,0,0,0
+Ward 6,1220,Single Detached House,172,6,10,0
+Ward 6,1220,Duplex/Fourplex,10,0,0,0
+Ward 6,1220,Row House,51,1,0,0
+Ward 6,1220,Apartment (5+ stories),79,3,1,0
+Ward 6,1220,Apartment (1-4 stories),163,7,1,0
+Ward 6,1220,Manufactured/Mobile Home,0,0,0,0
+Ward 6,1220,Institution/Collective Residence,0,0,0,0
+Ward 6,1220,Hotel/Motel,0,0,0,0
+Ward 6,1220,RV/Tent/Other,0,0,0,0
+Ward 6,1220,No Response,0,0,0,0
+Ward 6,3200,Single Detached House,1102,39,10,0
+Ward 6,3200,Duplex/Fourplex,9,1,0,0
+Ward 6,3200,Row House,3,2,0,0
+Ward 6,3200,Apartment (5+ stories),290,6,0,0
+Ward 6,3200,Apartment (1-4 stories),90,2,1,0
+Ward 6,3200,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3200,Institution/Collective Residence,2,1,30,0
+Ward 6,3200,Hotel/Motel,0,0,0,0
+Ward 6,3200,RV/Tent/Other,0,0,0,0
+Ward 6,3200,No Response,0,0,0,0
+Ward 6,3210,Single Detached House,873,23,23,0
+Ward 6,3210,Duplex/Fourplex,113,4,3,0
+Ward 6,3210,Row House,35,2,0,0
+Ward 6,3210,Apartment (5+ stories),0,0,0,0
+Ward 6,3210,Apartment (1-4 stories),4,0,0,0
+Ward 6,3210,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3210,Institution/Collective Residence,0,0,0,0
+Ward 6,3210,Hotel/Motel,0,0,0,0
+Ward 6,3210,RV/Tent/Other,0,0,0,0
+Ward 6,3210,No Response,0,0,0,0
+Ward 6,3300,Single Detached House,419,9,18,0
+Ward 6,3300,Duplex/Fourplex,24,2,3,0
+Ward 6,3300,Row House,0,0,0,0
+Ward 6,3300,Apartment (5+ stories),0,0,0,0
+Ward 6,3300,Apartment (1-4 stories),254,3,37,0
+Ward 6,3300,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3300,Institution/Collective Residence,121,0,24,0
+Ward 6,3300,Hotel/Motel,0,0,0,0
+Ward 6,3300,RV/Tent/Other,1,0,0,0
+Ward 6,3300,No Response,0,0,0,0
+Ward 6,3310,Single Detached House,729,17,17,0
+Ward 6,3310,Duplex/Fourplex,12,7,1,0
+Ward 6,3310,Row House,57,0,1,0
+Ward 6,3310,Apartment (5+ stories),0,0,0,0
+Ward 6,3310,Apartment (1-4 stories),34,28,0,0
+Ward 6,3310,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3310,Institution/Collective Residence,0,0,0,0
+Ward 6,3310,Hotel/Motel,0,0,0,0
+Ward 6,3310,RV/Tent/Other,1,0,0,0
+Ward 6,3310,No Response,0,0,0,0
+Ward 6,3381,Single Detached House,0,0,0,0
+Ward 6,3381,Duplex/Fourplex,0,0,0,0
+Ward 6,3381,Row House,0,0,0,0
+Ward 6,3381,Apartment (5+ stories),0,0,0,0
+Ward 6,3381,Apartment (1-4 stories),0,0,0,0
+Ward 6,3381,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3381,Institution/Collective Residence,0,0,0,0
+Ward 6,3381,Hotel/Motel,0,0,0,0
+Ward 6,3381,RV/Tent/Other,0,0,0,0
+Ward 6,3381,No Response,0,0,0,0
+Ward 6,3440,Single Detached House,1255,69,129,0
+Ward 6,3440,Duplex/Fourplex,94,6,15,0
+Ward 6,3440,Row House,60,3,1,0
+Ward 6,3440,Apartment (5+ stories),350,11,1,0
+Ward 6,3440,Apartment (1-4 stories),1482,65,48,0
+Ward 6,3440,Manufactured/Mobile Home,0,0,0,0
+Ward 6,3440,Institution/Collective Residence,3,0,12,0
+Ward 6,3440,Hotel/Motel,0,0,0,0
+Ward 6,3440,RV/Tent/Other,1,0,0,0
+Ward 6,3440,No Response,0,0,0,0
+Ward 7,1010,Single Detached House,2239,244,462,0
+Ward 7,1010,Duplex/Fourplex,126,24,76,0
+Ward 7,1010,Row House,50,9,8,0
+Ward 7,1010,Apartment (5+ stories),0,0,0,0
+Ward 7,1010,Apartment (1-4 stories),431,27,38,0
+Ward 7,1010,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1010,Institution/Collective Residence,9,6,19,0
+Ward 7,1010,Hotel/Motel,0,0,0,0
+Ward 7,1010,RV/Tent/Other,1,0,0,0
+Ward 7,1010,No Response,0,0,0,0
+Ward 7,1070,Single Detached House,153,13,64,0
+Ward 7,1070,Duplex/Fourplex,0,0,0,0
+Ward 7,1070,Row House,0,0,0,0
+Ward 7,1070,Apartment (5+ stories),191,13,5,0
+Ward 7,1070,Apartment (1-4 stories),854,40,29,0
+Ward 7,1070,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1070,Institution/Collective Residence,1,0,1,0
+Ward 7,1070,Hotel/Motel,0,0,0,0
+Ward 7,1070,RV/Tent/Other,1,0,0,0
+Ward 7,1070,No Response,0,0,0,0
+Ward 7,1080,Single Detached House,704,32,77,0
+Ward 7,1080,Duplex/Fourplex,89,5,13,0
+Ward 7,1080,Row House,8,0,3,0
+Ward 7,1080,Apartment (5+ stories),0,0,0,0
+Ward 7,1080,Apartment (1-4 stories),72,3,1,0
+Ward 7,1080,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1080,Institution/Collective Residence,4,1,5,0
+Ward 7,1080,Hotel/Motel,0,0,0,0
+Ward 7,1080,RV/Tent/Other,0,0,0,0
+Ward 7,1080,No Response,0,0,0,0
+Ward 7,1100,Single Detached House,737,61,74,0
+Ward 7,1100,Duplex/Fourplex,304,35,21,0
+Ward 7,1100,Row House,20,2,1,0
+Ward 7,1100,Apartment (5+ stories),0,0,0,0
+Ward 7,1100,Apartment (1-4 stories),953,89,23,0
+Ward 7,1100,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1100,Institution/Collective Residence,16,25,1,0
+Ward 7,1100,Hotel/Motel,1,0,0,0
+Ward 7,1100,RV/Tent/Other,0,0,2,0
+Ward 7,1100,No Response,0,0,0,0
+Ward 7,1120,Single Detached House,0,0,0,0
+Ward 7,1120,Duplex/Fourplex,0,0,0,0
+Ward 7,1120,Row House,0,0,0,0
+Ward 7,1120,Apartment (5+ stories),0,0,0,0
+Ward 7,1120,Apartment (1-4 stories),0,0,0,0
+Ward 7,1120,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1120,Institution/Collective Residence,0,0,0,0
+Ward 7,1120,Hotel/Motel,0,0,0,0
+Ward 7,1120,RV/Tent/Other,0,0,0,0
+Ward 7,1120,No Response,0,0,0,0
+Ward 7,1130,Single Detached House,307,14,22,0
+Ward 7,1130,Duplex/Fourplex,41,4,7,0
+Ward 7,1130,Row House,0,0,0,0
+Ward 7,1130,Apartment (5+ stories),0,0,0,0
+Ward 7,1130,Apartment (1-4 stories),239,12,0,0
+Ward 7,1130,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1130,Institution/Collective Residence,3,0,0,0
+Ward 7,1130,Hotel/Motel,1,0,0,0
+Ward 7,1130,RV/Tent/Other,0,0,0,0
+Ward 7,1130,No Response,0,0,0,0
+Ward 7,1160,Single Detached House,1065,111,116,0
+Ward 7,1160,Duplex/Fourplex,80,10,16,0
+Ward 7,1160,Row House,24,4,4,0
+Ward 7,1160,Apartment (5+ stories),253,15,15,0
+Ward 7,1160,Apartment (1-4 stories),221,18,12,0
+Ward 7,1160,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1160,Institution/Collective Residence,3,1,4,0
+Ward 7,1160,Hotel/Motel,0,0,0,0
+Ward 7,1160,RV/Tent/Other,3,0,2,0
+Ward 7,1160,No Response,0,0,0,0
+Ward 7,1190,Single Detached House,0,0,0,0
+Ward 7,1190,Duplex/Fourplex,0,0,0,0
+Ward 7,1190,Row House,0,0,0,0
+Ward 7,1190,Apartment (5+ stories),0,0,0,0
+Ward 7,1190,Apartment (1-4 stories),0,0,0,0
+Ward 7,1190,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1190,Institution/Collective Residence,0,0,0,0
+Ward 7,1190,Hotel/Motel,0,0,0,0
+Ward 7,1190,RV/Tent/Other,0,0,0,0
+Ward 7,1190,No Response,0,0,0,0
+Ward 7,1240,Single Detached House,180,9,11,0
+Ward 7,1240,Duplex/Fourplex,0,0,5,0
+Ward 7,1240,Row House,0,0,0,0
+Ward 7,1240,Apartment (5+ stories),0,0,0,0
+Ward 7,1240,Apartment (1-4 stories),244,8,58,0
+Ward 7,1240,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1240,Institution/Collective Residence,1,0,0,0
+Ward 7,1240,Hotel/Motel,0,0,0,0
+Ward 7,1240,RV/Tent/Other,0,0,0,0
+Ward 7,1240,No Response,0,0,0,0
+Ward 7,1270,Single Detached House,0,0,0,0
+Ward 7,1270,Duplex/Fourplex,0,0,0,0
+Ward 7,1270,Row House,0,0,0,0
+Ward 7,1270,Apartment (5+ stories),0,0,0,0
+Ward 7,1270,Apartment (1-4 stories),0,0,0,0
+Ward 7,1270,Manufactured/Mobile Home,0,0,0,0
+Ward 7,1270,Institution/Collective Residence,0,0,0,0
+Ward 7,1270,Hotel/Motel,0,0,0,0
+Ward 7,1270,RV/Tent/Other,0,0,0,0
+Ward 7,1270,No Response,0,0,0,0
+Ward 7,2010,Single Detached House,0,0,0,0
+Ward 7,2010,Duplex/Fourplex,0,0,0,0
+Ward 7,2010,Row House,457,18,8,0
+Ward 7,2010,Apartment (5+ stories),0,0,0,0
+Ward 7,2010,Apartment (1-4 stories),251,0,1,0
+Ward 7,2010,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2010,Institution/Collective Residence,0,0,0,0
+Ward 7,2010,Hotel/Motel,0,0,0,0
+Ward 7,2010,RV/Tent/Other,0,0,0,0
+Ward 7,2010,No Response,0,0,0,0
+Ward 7,2020,Single Detached House,994,54,25,0
+Ward 7,2020,Duplex/Fourplex,171,12,19,0
+Ward 7,2020,Row House,77,11,3,0
+Ward 7,2020,Apartment (5+ stories),0,0,0,0
+Ward 7,2020,Apartment (1-4 stories),298,99,7,0
+Ward 7,2020,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2020,Institution/Collective Residence,2,0,1,0
+Ward 7,2020,Hotel/Motel,0,0,0,0
+Ward 7,2020,RV/Tent/Other,0,0,0,0
+Ward 7,2020,No Response,0,0,0,0
+Ward 7,2040,Single Detached House,1032,36,20,0
+Ward 7,2040,Duplex/Fourplex,146,7,15,0
+Ward 7,2040,Row House,8,1,0,0
+Ward 7,2040,Apartment (5+ stories),0,0,0,0
+Ward 7,2040,Apartment (1-4 stories),107,6,8,0
+Ward 7,2040,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2040,Institution/Collective Residence,1,0,0,0
+Ward 7,2040,Hotel/Motel,3,0,0,0
+Ward 7,2040,RV/Tent/Other,0,0,0,0
+Ward 7,2040,No Response,0,0,0,0
+Ward 7,2060,Single Detached House,464,19,0,0
+Ward 7,2060,Duplex/Fourplex,7,0,0,0
+Ward 7,2060,Row House,3,0,0,0
+Ward 7,2060,Apartment (5+ stories),0,0,0,0
+Ward 7,2060,Apartment (1-4 stories),18,1,0,0
+Ward 7,2060,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2060,Institution/Collective Residence,0,0,0,0
+Ward 7,2060,Hotel/Motel,0,0,0,0
+Ward 7,2060,RV/Tent/Other,0,0,0,0
+Ward 7,2060,No Response,0,0,0,0
+Ward 7,2090,Single Detached House,517,13,4,0
+Ward 7,2090,Duplex/Fourplex,36,1,0,0
+Ward 7,2090,Row House,4,0,0,0
+Ward 7,2090,Apartment (5+ stories),0,0,0,0
+Ward 7,2090,Apartment (1-4 stories),16,0,0,0
+Ward 7,2090,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2090,Institution/Collective Residence,0,0,0,0
+Ward 7,2090,Hotel/Motel,0,0,0,0
+Ward 7,2090,RV/Tent/Other,0,0,0,0
+Ward 7,2090,No Response,0,0,0,0
+Ward 7,2100,Single Detached House,1157,40,22,0
+Ward 7,2100,Duplex/Fourplex,43,0,1,0
+Ward 7,2100,Row House,0,0,0,0
+Ward 7,2100,Apartment (5+ stories),0,0,0,0
+Ward 7,2100,Apartment (1-4 stories),352,13,5,0
+Ward 7,2100,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2100,Institution/Collective Residence,49,1,3,0
+Ward 7,2100,Hotel/Motel,1,0,0,0
+Ward 7,2100,RV/Tent/Other,0,0,0,0
+Ward 7,2100,No Response,0,0,0,0
+Ward 7,2230,Single Detached House,1191,32,17,0
+Ward 7,2230,Duplex/Fourplex,90,3,1,0
+Ward 7,2230,Row House,37,1,1,0
+Ward 7,2230,Apartment (5+ stories),0,0,0,0
+Ward 7,2230,Apartment (1-4 stories),36,1,0,0
+Ward 7,2230,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2230,Institution/Collective Residence,0,0,0,0
+Ward 7,2230,Hotel/Motel,0,0,0,0
+Ward 7,2230,RV/Tent/Other,0,0,0,0
+Ward 7,2230,No Response,0,0,0,0
+Ward 7,2290,Single Detached House,683,11,15,0
+Ward 7,2290,Duplex/Fourplex,88,5,7,0
+Ward 7,2290,Row House,263,15,7,0
+Ward 7,2290,Apartment (5+ stories),169,22,0,0
+Ward 7,2290,Apartment (1-4 stories),24,0,3,0
+Ward 7,2290,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2290,Institution/Collective Residence,0,0,0,0
+Ward 7,2290,Hotel/Motel,0,0,0,0
+Ward 7,2290,RV/Tent/Other,0,0,0,0
+Ward 7,2290,No Response,0,0,0,0
+Ward 7,2330,Single Detached House,1064,55,51,0
+Ward 7,2330,Duplex/Fourplex,33,3,11,0
+Ward 7,2330,Row House,0,0,0,0
+Ward 7,2330,Apartment (5+ stories),0,0,0,0
+Ward 7,2330,Apartment (1-4 stories),54,6,9,0
+Ward 7,2330,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2330,Institution/Collective Residence,66,8,1,0
+Ward 7,2330,Hotel/Motel,1,0,0,0
+Ward 7,2330,RV/Tent/Other,0,0,0,0
+Ward 7,2330,No Response,0,0,0,0
+Ward 7,2360,Single Detached House,0,0,0,0
+Ward 7,2360,Duplex/Fourplex,0,0,0,0
+Ward 7,2360,Row House,0,0,0,0
+Ward 7,2360,Apartment (5+ stories),0,0,0,0
+Ward 7,2360,Apartment (1-4 stories),0,0,0,0
+Ward 7,2360,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2360,Institution/Collective Residence,0,0,0,0
+Ward 7,2360,Hotel/Motel,0,0,0,0
+Ward 7,2360,RV/Tent/Other,0,0,0,0
+Ward 7,2360,No Response,0,0,0,0
+Ward 7,2400,Single Detached House,535,11,3,0
+Ward 7,2400,Duplex/Fourplex,34,0,0,0
+Ward 7,2400,Row House,358,14,1,0
+Ward 7,2400,Apartment (5+ stories),118,0,0,0
+Ward 7,2400,Apartment (1-4 stories),140,37,0,0
+Ward 7,2400,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2400,Institution/Collective Residence,31,0,1,0
+Ward 7,2400,Hotel/Motel,0,0,0,0
+Ward 7,2400,RV/Tent/Other,0,0,0,0
+Ward 7,2400,No Response,0,0,0,0
+Ward 7,2420,Single Detached House,691,34,52,0
+Ward 7,2420,Duplex/Fourplex,343,36,43,0
+Ward 7,2420,Row House,277,9,3,0
+Ward 7,2420,Apartment (5+ stories),0,0,0,0
+Ward 7,2420,Apartment (1-4 stories),418,20,3,0
+Ward 7,2420,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2420,Institution/Collective Residence,1,0,1,0
+Ward 7,2420,Hotel/Motel,0,0,0,0
+Ward 7,2420,RV/Tent/Other,1,0,0,0
+Ward 7,2420,No Response,0,0,0,0
+Ward 7,2550,Single Detached House,1040,87,72,0
+Ward 7,2550,Duplex/Fourplex,94,14,14,0
+Ward 7,2550,Row House,31,2,1,0
+Ward 7,2550,Apartment (5+ stories),0,0,0,0
+Ward 7,2550,Apartment (1-4 stories),229,17,6,0
+Ward 7,2550,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2550,Institution/Collective Residence,19,23,5,0
+Ward 7,2550,Hotel/Motel,1,0,0,0
+Ward 7,2550,RV/Tent/Other,0,0,0,0
+Ward 7,2550,No Response,0,0,0,0
+Ward 7,2560,Single Detached House,1071,40,46,0
+Ward 7,2560,Duplex/Fourplex,44,5,6,0
+Ward 7,2560,Row House,3,2,1,0
+Ward 7,2560,Apartment (5+ stories),0,0,0,0
+Ward 7,2560,Apartment (1-4 stories),103,12,13,0
+Ward 7,2560,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2560,Institution/Collective Residence,2,0,0,0
+Ward 7,2560,Hotel/Motel,0,0,0,0
+Ward 7,2560,RV/Tent/Other,2,0,0,0
+Ward 7,2560,No Response,0,0,0,0
+Ward 7,2580,Single Detached House,821,6,6,0
+Ward 7,2580,Duplex/Fourplex,1,0,1,0
+Ward 7,2580,Row House,247,7,1,0
+Ward 7,2580,Apartment (5+ stories),0,0,0,0
+Ward 7,2580,Apartment (1-4 stories),250,1,0,0
+Ward 7,2580,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2580,Institution/Collective Residence,1,0,0,0
+Ward 7,2580,Hotel/Motel,0,0,0,0
+Ward 7,2580,RV/Tent/Other,0,0,0,0
+Ward 7,2580,No Response,0,0,0,0
+Ward 7,2640,Single Detached House,0,0,0,0
+Ward 7,2640,Duplex/Fourplex,0,0,0,0
+Ward 7,2640,Row House,0,0,0,0
+Ward 7,2640,Apartment (5+ stories),0,0,0,0
+Ward 7,2640,Apartment (1-4 stories),0,0,0,0
+Ward 7,2640,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2640,Institution/Collective Residence,0,0,0,0
+Ward 7,2640,Hotel/Motel,0,0,0,0
+Ward 7,2640,RV/Tent/Other,0,0,0,0
+Ward 7,2640,No Response,0,0,0,0
+Ward 7,2650,Single Detached House,0,0,0,0
+Ward 7,2650,Duplex/Fourplex,0,0,0,0
+Ward 7,2650,Row House,0,0,0,0
+Ward 7,2650,Apartment (5+ stories),0,0,0,0
+Ward 7,2650,Apartment (1-4 stories),0,0,0,0
+Ward 7,2650,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2650,Institution/Collective Residence,0,0,0,0
+Ward 7,2650,Hotel/Motel,0,0,0,0
+Ward 7,2650,RV/Tent/Other,0,0,0,0
+Ward 7,2650,No Response,0,0,0,0
+Ward 7,2660,Single Detached House,579,10,1,0
+Ward 7,2660,Duplex/Fourplex,40,5,0,0
+Ward 7,2660,Row House,370,12,8,0
+Ward 7,2660,Apartment (5+ stories),0,0,0,0
+Ward 7,2660,Apartment (1-4 stories),408,3,3,0
+Ward 7,2660,Manufactured/Mobile Home,0,0,0,0
+Ward 7,2660,Institution/Collective Residence,0,0,0,0
+Ward 7,2660,Hotel/Motel,0,0,0,0
+Ward 7,2660,RV/Tent/Other,1,0,0,0
+Ward 7,2660,No Response,0,0,0,0
+Ward 8,5040,Single Detached House,732,15,46,0
+Ward 8,5040,Duplex/Fourplex,4,0,8,0
+Ward 8,5040,Row House,0,0,0,0
+Ward 8,5040,Apartment (5+ stories),0,0,0,0
+Ward 8,5040,Apartment (1-4 stories),204,2,4,0
+Ward 8,5040,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5040,Institution/Collective Residence,0,0,0,0
+Ward 8,5040,Hotel/Motel,0,0,0,0
+Ward 8,5040,RV/Tent/Other,0,0,0,0
+Ward 8,5040,No Response,0,0,0,0
+Ward 8,5151,Single Detached House,0,0,0,0
+Ward 8,5151,Duplex/Fourplex,0,0,0,0
+Ward 8,5151,Row House,0,0,0,0
+Ward 8,5151,Apartment (5+ stories),0,0,0,0
+Ward 8,5151,Apartment (1-4 stories),0,0,0,0
+Ward 8,5151,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5151,Institution/Collective Residence,0,0,0,0
+Ward 8,5151,Hotel/Motel,0,0,0,0
+Ward 8,5151,RV/Tent/Other,0,0,0,0
+Ward 8,5151,No Response,0,0,0,0
+Ward 8,5200,Single Detached House,641,95,138,0
+Ward 8,5200,Duplex/Fourplex,121,45,44,0
+Ward 8,5200,Row House,93,26,13,0
+Ward 8,5200,Apartment (5+ stories),3318,384,134,0
+Ward 8,5200,Apartment (1-4 stories),1230,136,52,0
+Ward 8,5200,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5200,Institution/Collective Residence,115,37,37,0
+Ward 8,5200,Hotel/Motel,0,1,0,0
+Ward 8,5200,RV/Tent/Other,0,0,0,0
+Ward 8,5200,No Response,0,0,0,0
+Ward 8,5290,Single Detached House,841,81,182,0
+Ward 8,5290,Duplex/Fourplex,207,25,54,0
+Ward 8,5290,Row House,18,0,1,0
+Ward 8,5290,Apartment (5+ stories),0,0,0,0
+Ward 8,5290,Apartment (1-4 stories),21,1,5,0
+Ward 8,5290,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5290,Institution/Collective Residence,0,0,3,0
+Ward 8,5290,Hotel/Motel,0,0,0,0
+Ward 8,5290,RV/Tent/Other,0,0,0,0
+Ward 8,5290,No Response,0,0,0,0
+Ward 8,5330,Single Detached House,881,71,139,0
+Ward 8,5330,Duplex/Fourplex,119,19,33,0
+Ward 8,5330,Row House,3,0,2,0
+Ward 8,5330,Apartment (5+ stories),191,30,5,0
+Ward 8,5330,Apartment (1-4 stories),1596,45,25,0
+Ward 8,5330,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5330,Institution/Collective Residence,58,0,15,0
+Ward 8,5330,Hotel/Motel,1,0,0,0
+Ward 8,5330,RV/Tent/Other,0,0,0,0
+Ward 8,5330,No Response,0,0,0,0
+Ward 8,5370,Single Detached House,0,0,0,0
+Ward 8,5370,Duplex/Fourplex,0,0,0,0
+Ward 8,5370,Row House,0,0,0,0
+Ward 8,5370,Apartment (5+ stories),0,0,0,0
+Ward 8,5370,Apartment (1-4 stories),0,0,0,0
+Ward 8,5370,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5370,Institution/Collective Residence,0,0,0,0
+Ward 8,5370,Hotel/Motel,0,0,0,0
+Ward 8,5370,RV/Tent/Other,0,0,0,0
+Ward 8,5370,No Response,0,0,0,0
+Ward 8,5390,Single Detached House,0,0,0,0
+Ward 8,5390,Duplex/Fourplex,0,0,0,0
+Ward 8,5390,Row House,0,0,0,0
+Ward 8,5390,Apartment (5+ stories),0,0,0,0
+Ward 8,5390,Apartment (1-4 stories),0,0,0,0
+Ward 8,5390,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5390,Institution/Collective Residence,0,0,0,0
+Ward 8,5390,Hotel/Motel,0,0,0,0
+Ward 8,5390,RV/Tent/Other,0,0,0,0
+Ward 8,5390,No Response,0,0,0,0
+Ward 8,5480,Single Detached House,1386,55,268,0
+Ward 8,5480,Duplex/Fourplex,266,13,100,0
+Ward 8,5480,Row House,22,0,0,0
+Ward 8,5480,Apartment (5+ stories),1302,51,73,0
+Ward 8,5480,Apartment (1-4 stories),2575,107,84,0
+Ward 8,5480,Manufactured/Mobile Home,1,0,0,0
+Ward 8,5480,Institution/Collective Residence,26,1,11,0
+Ward 8,5480,Hotel/Motel,1,2,0,0
+Ward 8,5480,RV/Tent/Other,0,0,1,0
+Ward 8,5480,No Response,0,0,0,0
+Ward 8,5520,Single Detached House,0,0,0,0
+Ward 8,5520,Duplex/Fourplex,0,0,0,0
+Ward 8,5520,Row House,0,0,0,0
+Ward 8,5520,Apartment (5+ stories),0,0,0,0
+Ward 8,5520,Apartment (1-4 stories),0,0,0,0
+Ward 8,5520,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5520,Institution/Collective Residence,0,0,0,0
+Ward 8,5520,Hotel/Motel,0,0,0,0
+Ward 8,5520,RV/Tent/Other,0,0,0,0
+Ward 8,5520,No Response,0,0,0,0
+Ward 8,5580,Single Detached House,465,24,18,0
+Ward 8,5580,Duplex/Fourplex,5,3,3,0
+Ward 8,5580,Row House,0,0,0,0
+Ward 8,5580,Apartment (5+ stories),0,0,0,0
+Ward 8,5580,Apartment (1-4 stories),0,0,0,0
+Ward 8,5580,Manufactured/Mobile Home,0,0,0,0
+Ward 8,5580,Institution/Collective Residence,0,0,0,0
+Ward 8,5580,Hotel/Motel,0,0,0,0
+Ward 8,5580,RV/Tent/Other,0,0,0,0
+Ward 8,5580,No Response,0,0,0,0
+Ward 8,6040,Single Detached House,1041,84,203,0
+Ward 8,6040,Duplex/Fourplex,363,26,56,0
+Ward 8,6040,Row House,19,3,11,0
+Ward 8,6040,Apartment (5+ stories),213,3,9,0
+Ward 8,6040,Apartment (1-4 stories),586,61,13,0
+Ward 8,6040,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6040,Institution/Collective Residence,41,1,25,0
+Ward 8,6040,Hotel/Motel,0,0,0,0
+Ward 8,6040,RV/Tent/Other,0,0,0,0
+Ward 8,6040,No Response,0,0,0,0
+Ward 8,6061,Single Detached House,1077,26,9,0
+Ward 8,6061,Duplex/Fourplex,0,0,0,0
+Ward 8,6061,Row House,0,0,0,0
+Ward 8,6061,Apartment (5+ stories),0,0,0,0
+Ward 8,6061,Apartment (1-4 stories),0,0,0,0
+Ward 8,6061,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6061,Institution/Collective Residence,0,0,0,0
+Ward 8,6061,Hotel/Motel,0,0,0,0
+Ward 8,6061,RV/Tent/Other,0,0,0,0
+Ward 8,6061,No Response,0,0,0,0
+Ward 8,6070,Single Detached House,164,14,22,0
+Ward 8,6070,Duplex/Fourplex,41,1,0,0
+Ward 8,6070,Row House,39,5,3,0
+Ward 8,6070,Apartment (5+ stories),0,0,0,0
+Ward 8,6070,Apartment (1-4 stories),189,21,9,0
+Ward 8,6070,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6070,Institution/Collective Residence,0,0,0,0
+Ward 8,6070,Hotel/Motel,0,0,0,0
+Ward 8,6070,RV/Tent/Other,0,0,0,0
+Ward 8,6070,No Response,0,0,0,0
+Ward 8,6180,Single Detached House,0,0,0,0
+Ward 8,6180,Duplex/Fourplex,0,0,0,0
+Ward 8,6180,Row House,0,0,0,0
+Ward 8,6180,Apartment (5+ stories),0,0,0,0
+Ward 8,6180,Apartment (1-4 stories),0,0,0,0
+Ward 8,6180,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6180,Institution/Collective Residence,0,0,0,0
+Ward 8,6180,Hotel/Motel,0,0,0,0
+Ward 8,6180,RV/Tent/Other,0,0,0,0
+Ward 8,6180,No Response,0,0,0,0
+Ward 8,6230,Single Detached House,1344,78,135,0
+Ward 8,6230,Duplex/Fourplex,249,21,36,0
+Ward 8,6230,Row House,50,9,109,0
+Ward 8,6230,Apartment (5+ stories),0,0,0,0
+Ward 8,6230,Apartment (1-4 stories),214,13,15,0
+Ward 8,6230,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6230,Institution/Collective Residence,91,5,2,0
+Ward 8,6230,Hotel/Motel,1,0,0,0
+Ward 8,6230,RV/Tent/Other,1,0,0,0
+Ward 8,6230,No Response,0,0,0,0
+Ward 8,6240,Single Detached House,808,15,14,0
+Ward 8,6240,Duplex/Fourplex,10,0,3,0
+Ward 8,6240,Row House,0,0,0,0
+Ward 8,6240,Apartment (5+ stories),0,0,0,0
+Ward 8,6240,Apartment (1-4 stories),139,0,0,0
+Ward 8,6240,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6240,Institution/Collective Residence,1,0,0,0
+Ward 8,6240,Hotel/Motel,0,0,0,0
+Ward 8,6240,RV/Tent/Other,0,0,0,0
+Ward 8,6240,No Response,0,0,0,0
+Ward 8,6270,Single Detached House,881,15,12,0
+Ward 8,6270,Duplex/Fourplex,5,0,0,0
+Ward 8,6270,Row House,214,0,3,0
+Ward 8,6270,Apartment (5+ stories),0,0,0,0
+Ward 8,6270,Apartment (1-4 stories),38,1,0,0
+Ward 8,6270,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6270,Institution/Collective Residence,0,0,0,0
+Ward 8,6270,Hotel/Motel,0,0,0,0
+Ward 8,6270,RV/Tent/Other,0,0,0,0
+Ward 8,6270,No Response,0,0,0,0
+Ward 8,6310,Single Detached House,1051,19,40,0
+Ward 8,6310,Duplex/Fourplex,151,9,21,0
+Ward 8,6310,Row House,95,2,28,0
+Ward 8,6310,Apartment (5+ stories),89,2,3,0
+Ward 8,6310,Apartment (1-4 stories),116,5,0,0
+Ward 8,6310,Manufactured/Mobile Home,1,0,0,0
+Ward 8,6310,Institution/Collective Residence,38,0,1,0
+Ward 8,6310,Hotel/Motel,0,0,0,0
+Ward 8,6310,RV/Tent/Other,0,0,0,0
+Ward 8,6310,No Response,0,0,0,0
+Ward 8,6320,Single Detached House,538,12,26,0
+Ward 8,6320,Duplex/Fourplex,47,3,1,0
+Ward 8,6320,Row House,0,0,0,0
+Ward 8,6320,Apartment (5+ stories),101,4,0,0
+Ward 8,6320,Apartment (1-4 stories),241,29,9,0
+Ward 8,6320,Manufactured/Mobile Home,1,0,0,0
+Ward 8,6320,Institution/Collective Residence,1,0,17,0
+Ward 8,6320,Hotel/Motel,0,0,0,0
+Ward 8,6320,RV/Tent/Other,0,0,0,0
+Ward 8,6320,No Response,0,0,0,0
+Ward 8,6350,Single Detached House,874,18,5,0
+Ward 8,6350,Duplex/Fourplex,121,10,5,0
+Ward 8,6350,Row House,5,3,5,0
+Ward 8,6350,Apartment (5+ stories),0,0,0,0
+Ward 8,6350,Apartment (1-4 stories),74,0,0,0
+Ward 8,6350,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6350,Institution/Collective Residence,0,0,0,0
+Ward 8,6350,Hotel/Motel,0,0,0,0
+Ward 8,6350,RV/Tent/Other,1,0,0,0
+Ward 8,6350,No Response,0,0,0,0
+Ward 8,6380,Single Detached House,0,0,0,0
+Ward 8,6380,Duplex/Fourplex,0,0,0,0
+Ward 8,6380,Row House,0,0,0,0
+Ward 8,6380,Apartment (5+ stories),0,0,0,0
+Ward 8,6380,Apartment (1-4 stories),0,0,0,0
+Ward 8,6380,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6380,Institution/Collective Residence,1,0,0,0
+Ward 8,6380,Hotel/Motel,0,0,0,0
+Ward 8,6380,RV/Tent/Other,2,0,0,0
+Ward 8,6380,No Response,0,0,0,0
+Ward 8,6491,Single Detached House,0,0,0,0
+Ward 8,6491,Duplex/Fourplex,0,0,0,0
+Ward 8,6491,Row House,0,0,0,0
+Ward 8,6491,Apartment (5+ stories),0,0,0,0
+Ward 8,6491,Apartment (1-4 stories),0,0,0,0
+Ward 8,6491,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6491,Institution/Collective Residence,0,0,0,0
+Ward 8,6491,Hotel/Motel,0,0,0,0
+Ward 8,6491,RV/Tent/Other,0,0,0,0
+Ward 8,6491,No Response,0,0,0,0
+Ward 8,6550,Single Detached House,2078,18,23,0
+Ward 8,6550,Duplex/Fourplex,100,3,3,0
+Ward 8,6550,Row House,11,0,3,0
+Ward 8,6550,Apartment (5+ stories),0,0,0,0
+Ward 8,6550,Apartment (1-4 stories),443,40,1,0
+Ward 8,6550,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6550,Institution/Collective Residence,2,1,3,0
+Ward 8,6550,Hotel/Motel,0,0,0,0
+Ward 8,6550,RV/Tent/Other,0,0,0,0
+Ward 8,6550,No Response,0,0,0,0
+Ward 8,6620,Single Detached House,0,0,0,0
+Ward 8,6620,Duplex/Fourplex,0,0,0,0
+Ward 8,6620,Row House,0,0,0,0
+Ward 8,6620,Apartment (5+ stories),0,0,0,0
+Ward 8,6620,Apartment (1-4 stories),0,0,0,0
+Ward 8,6620,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6620,Institution/Collective Residence,0,0,0,0
+Ward 8,6620,Hotel/Motel,0,0,0,0
+Ward 8,6620,RV/Tent/Other,0,0,0,0
+Ward 8,6620,No Response,0,0,0,0
+Ward 8,6630,Single Detached House,0,0,0,0
+Ward 8,6630,Duplex/Fourplex,0,0,0,0
+Ward 8,6630,Row House,0,0,0,0
+Ward 8,6630,Apartment (5+ stories),0,0,0,0
+Ward 8,6630,Apartment (1-4 stories),0,0,0,0
+Ward 8,6630,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6630,Institution/Collective Residence,0,0,0,0
+Ward 8,6630,Hotel/Motel,0,0,0,0
+Ward 8,6630,RV/Tent/Other,0,0,0,0
+Ward 8,6630,No Response,0,0,0,0
+Ward 8,6710,Single Detached House,622,38,64,0
+Ward 8,6710,Duplex/Fourplex,13,2,1,0
+Ward 8,6710,Row House,4,0,7,0
+Ward 8,6710,Apartment (5+ stories),292,5,92,0
+Ward 8,6710,Apartment (1-4 stories),554,15,4,0
+Ward 8,6710,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6710,Institution/Collective Residence,0,0,0,0
+Ward 8,6710,Hotel/Motel,0,0,0,0
+Ward 8,6710,RV/Tent/Other,0,0,0,0
+Ward 8,6710,No Response,0,0,0,0
+Ward 8,6730,Single Detached House,499,2,49,0
+Ward 8,6730,Duplex/Fourplex,43,0,20,0
+Ward 8,6730,Row House,2,1,11,0
+Ward 8,6730,Apartment (5+ stories),235,0,0,0
+Ward 8,6730,Apartment (1-4 stories),278,5,12,0
+Ward 8,6730,Manufactured/Mobile Home,0,0,0,0
+Ward 8,6730,Institution/Collective Residence,86,0,1,0
+Ward 8,6730,Hotel/Motel,0,0,0,0
+Ward 8,6730,RV/Tent/Other,0,0,0,0
+Ward 8,6730,No Response,0,0,0,0
+Ward 9,4013,Single Detached House,0,0,0,0
+Ward 9,4013,Duplex/Fourplex,0,0,0,0
+Ward 9,4013,Row House,0,0,0,0
+Ward 9,4013,Apartment (5+ stories),0,0,0,0
+Ward 9,4013,Apartment (1-4 stories),0,0,0,0
+Ward 9,4013,Manufactured/Mobile Home,0,0,0,0
+Ward 9,4013,Institution/Collective Residence,0,0,0,0
+Ward 9,4013,Hotel/Motel,0,0,0,0
+Ward 9,4013,RV/Tent/Other,0,0,0,0
+Ward 9,4013,No Response,0,0,0,0
+Ward 9,4014,Single Detached House,0,0,0,0
+Ward 9,4014,Duplex/Fourplex,0,0,0,0
+Ward 9,4014,Row House,0,0,0,0
+Ward 9,4014,Apartment (5+ stories),0,0,0,0
+Ward 9,4014,Apartment (1-4 stories),0,0,0,0
+Ward 9,4014,Manufactured/Mobile Home,0,0,0,0
+Ward 9,4014,Institution/Collective Residence,0,0,0,0
+Ward 9,4014,Hotel/Motel,0,0,0,0
+Ward 9,4014,RV/Tent/Other,0,0,0,0
+Ward 9,4014,No Response,0,0,0,0
+Ward 9,5080,Single Detached House,300,8,3,0
+Ward 9,5080,Duplex/Fourplex,35,0,0,0
+Ward 9,5080,Row House,326,11,1,0
+Ward 9,5080,Apartment (5+ stories),0,0,0,0
+Ward 9,5080,Apartment (1-4 stories),394,19,22,0
+Ward 9,5080,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5080,Institution/Collective Residence,0,0,0,0
+Ward 9,5080,Hotel/Motel,0,0,0,0
+Ward 9,5080,RV/Tent/Other,2,0,0,0
+Ward 9,5080,No Response,0,0,0,0
+Ward 9,5090,Single Detached House,586,2,5,0
+Ward 9,5090,Duplex/Fourplex,0,0,0,0
+Ward 9,5090,Row House,57,0,0,0
+Ward 9,5090,Apartment (5+ stories),0,0,0,0
+Ward 9,5090,Apartment (1-4 stories),74,0,0,0
+Ward 9,5090,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5090,Institution/Collective Residence,0,0,0,0
+Ward 9,5090,Hotel/Motel,0,0,0,0
+Ward 9,5090,RV/Tent/Other,0,0,0,0
+Ward 9,5090,No Response,0,0,0,0
+Ward 9,5100,Single Detached House,1068,0,2,0
+Ward 9,5100,Duplex/Fourplex,137,1,1,0
+Ward 9,5100,Row House,0,0,0,0
+Ward 9,5100,Apartment (5+ stories),0,0,0,0
+Ward 9,5100,Apartment (1-4 stories),0,0,0,0
+Ward 9,5100,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5100,Institution/Collective Residence,0,0,0,0
+Ward 9,5100,Hotel/Motel,0,0,0,0
+Ward 9,5100,RV/Tent/Other,0,0,0,0
+Ward 9,5100,No Response,0,0,0,0
+Ward 9,5130,Single Detached House,431,5,8,0
+Ward 9,5130,Duplex/Fourplex,75,0,3,0
+Ward 9,5130,Row House,99,1,2,0
+Ward 9,5130,Apartment (5+ stories),0,0,0,0
+Ward 9,5130,Apartment (1-4 stories),0,0,0,0
+Ward 9,5130,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5130,Institution/Collective Residence,0,0,0,0
+Ward 9,5130,Hotel/Motel,0,0,0,0
+Ward 9,5130,RV/Tent/Other,0,0,0,0
+Ward 9,5130,No Response,0,0,0,0
+Ward 9,5190,Single Detached House,451,12,4,0
+Ward 9,5190,Duplex/Fourplex,38,2,0,0
+Ward 9,5190,Row House,54,1,0,0
+Ward 9,5190,Apartment (5+ stories),0,0,0,0
+Ward 9,5190,Apartment (1-4 stories),191,2,7,0
+Ward 9,5190,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5190,Institution/Collective Residence,70,66,0,0
+Ward 9,5190,Hotel/Motel,0,0,0,0
+Ward 9,5190,RV/Tent/Other,1,0,0,0
+Ward 9,5190,No Response,0,0,0,0
+Ward 9,5230,Single Detached House,569,5,2,0
+Ward 9,5230,Duplex/Fourplex,47,0,0,0
+Ward 9,5230,Row House,0,0,0,0
+Ward 9,5230,Apartment (5+ stories),0,0,0,0
+Ward 9,5230,Apartment (1-4 stories),0,0,0,0
+Ward 9,5230,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5230,Institution/Collective Residence,0,0,0,0
+Ward 9,5230,Hotel/Motel,0,0,0,0
+Ward 9,5230,RV/Tent/Other,1,0,0,0
+Ward 9,5230,No Response,0,0,0,0
+Ward 9,5300,Single Detached House,294,4,0,0
+Ward 9,5300,Duplex/Fourplex,49,1,0,0
+Ward 9,5300,Row House,9,1,0,0
+Ward 9,5300,Apartment (5+ stories),0,0,0,0
+Ward 9,5300,Apartment (1-4 stories),0,0,0,0
+Ward 9,5300,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5300,Institution/Collective Residence,0,0,0,0
+Ward 9,5300,Hotel/Motel,0,0,0,0
+Ward 9,5300,RV/Tent/Other,4,0,0,0
+Ward 9,5300,No Response,0,0,0,0
+Ward 9,5340,Single Detached House,719,11,0,0
+Ward 9,5340,Duplex/Fourplex,69,0,0,0
+Ward 9,5340,Row House,106,0,0,0
+Ward 9,5340,Apartment (5+ stories),0,0,0,0
+Ward 9,5340,Apartment (1-4 stories),484,18,70,0
+Ward 9,5340,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5340,Institution/Collective Residence,0,0,0,0
+Ward 9,5340,Hotel/Motel,0,0,0,0
+Ward 9,5340,RV/Tent/Other,0,0,0,0
+Ward 9,5340,No Response,0,0,0,0
+Ward 9,5350,Single Detached House,1007,7,8,0
+Ward 9,5350,Duplex/Fourplex,114,3,0,0
+Ward 9,5350,Row House,0,0,0,0
+Ward 9,5350,Apartment (5+ stories),0,0,0,0
+Ward 9,5350,Apartment (1-4 stories),0,0,0,0
+Ward 9,5350,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5350,Institution/Collective Residence,0,0,0,0
+Ward 9,5350,Hotel/Motel,0,0,0,0
+Ward 9,5350,RV/Tent/Other,0,0,0,0
+Ward 9,5350,No Response,0,0,0,0
+Ward 9,5380,Single Detached House,0,0,0,0
+Ward 9,5380,Duplex/Fourplex,0,0,0,0
+Ward 9,5380,Row House,0,0,0,0
+Ward 9,5380,Apartment (5+ stories),0,0,0,0
+Ward 9,5380,Apartment (1-4 stories),0,0,0,0
+Ward 9,5380,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5380,Institution/Collective Residence,0,0,0,0
+Ward 9,5380,Hotel/Motel,0,0,0,0
+Ward 9,5380,RV/Tent/Other,0,0,0,0
+Ward 9,5380,No Response,0,0,0,0
+Ward 9,5401,Single Detached House,0,0,0,0
+Ward 9,5401,Duplex/Fourplex,0,0,0,0
+Ward 9,5401,Row House,0,0,0,0
+Ward 9,5401,Apartment (5+ stories),0,0,0,0
+Ward 9,5401,Apartment (1-4 stories),0,0,0,0
+Ward 9,5401,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5401,Institution/Collective Residence,0,0,0,0
+Ward 9,5401,Hotel/Motel,0,0,0,0
+Ward 9,5401,RV/Tent/Other,0,0,0,0
+Ward 9,5401,No Response,0,0,0,0
+Ward 9,5405,Single Detached House,0,0,0,0
+Ward 9,5405,Duplex/Fourplex,0,0,0,0
+Ward 9,5405,Row House,0,0,0,0
+Ward 9,5405,Apartment (5+ stories),0,0,0,0
+Ward 9,5405,Apartment (1-4 stories),0,0,0,0
+Ward 9,5405,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5405,Institution/Collective Residence,0,0,0,0
+Ward 9,5405,Hotel/Motel,0,0,0,0
+Ward 9,5405,RV/Tent/Other,0,0,0,0
+Ward 9,5405,No Response,0,0,0,0
+Ward 9,5451,Single Detached House,154,7,0,0
+Ward 9,5451,Duplex/Fourplex,34,1,0,0
+Ward 9,5451,Row House,25,5,0,0
+Ward 9,5451,Apartment (5+ stories),0,0,0,0
+Ward 9,5451,Apartment (1-4 stories),0,0,0,0
+Ward 9,5451,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5451,Institution/Collective Residence,0,0,0,0
+Ward 9,5451,Hotel/Motel,0,0,0,0
+Ward 9,5451,RV/Tent/Other,0,1,0,0
+Ward 9,5451,No Response,0,0,0,0
+Ward 9,5452,Single Detached House,1024,4,5,0
+Ward 9,5452,Duplex/Fourplex,326,4,0,0
+Ward 9,5452,Row House,0,0,0,0
+Ward 9,5452,Apartment (5+ stories),0,0,0,0
+Ward 9,5452,Apartment (1-4 stories),993,20,56,0
+Ward 9,5452,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5452,Institution/Collective Residence,0,0,0,0
+Ward 9,5452,Hotel/Motel,0,0,0,0
+Ward 9,5452,RV/Tent/Other,1,0,0,0
+Ward 9,5452,No Response,0,0,0,0
+Ward 9,5453,Single Detached House,702,4,3,0
+Ward 9,5453,Duplex/Fourplex,44,0,0,0
+Ward 9,5453,Row House,0,0,0,0
+Ward 9,5453,Apartment (5+ stories),0,0,0,0
+Ward 9,5453,Apartment (1-4 stories),215,96,5,0
+Ward 9,5453,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5453,Institution/Collective Residence,0,0,0,0
+Ward 9,5453,Hotel/Motel,0,0,0,0
+Ward 9,5453,RV/Tent/Other,0,0,0,0
+Ward 9,5453,No Response,0,0,0,0
+Ward 9,5454,Single Detached House,1916,47,7,0
+Ward 9,5454,Duplex/Fourplex,823,13,2,0
+Ward 9,5454,Row House,72,221,41,0
+Ward 9,5454,Apartment (5+ stories),0,0,0,0
+Ward 9,5454,Apartment (1-4 stories),1130,120,4,0
+Ward 9,5454,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5454,Institution/Collective Residence,1,0,0,0
+Ward 9,5454,Hotel/Motel,0,0,0,0
+Ward 9,5454,RV/Tent/Other,0,0,0,0
+Ward 9,5454,No Response,0,0,0,0
+Ward 9,5456,Single Detached House,0,0,0,0
+Ward 9,5456,Duplex/Fourplex,0,0,0,0
+Ward 9,5456,Row House,0,0,0,0
+Ward 9,5456,Apartment (5+ stories),0,0,0,0
+Ward 9,5456,Apartment (1-4 stories),0,0,0,0
+Ward 9,5456,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5456,Institution/Collective Residence,0,0,0,0
+Ward 9,5456,Hotel/Motel,0,0,0,0
+Ward 9,5456,RV/Tent/Other,0,0,0,0
+Ward 9,5456,No Response,0,0,0,0
+Ward 9,5457,Single Detached House,465,28,1,0
+Ward 9,5457,Duplex/Fourplex,185,2,0,0
+Ward 9,5457,Row House,70,10,0,0
+Ward 9,5457,Apartment (5+ stories),0,0,0,0
+Ward 9,5457,Apartment (1-4 stories),65,2,16,0
+Ward 9,5457,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5457,Institution/Collective Residence,0,0,0,0
+Ward 9,5457,Hotel/Motel,0,0,0,0
+Ward 9,5457,RV/Tent/Other,5,0,0,0
+Ward 9,5457,No Response,0,0,0,0
+Ward 9,5458,Single Detached House,485,76,0,0
+Ward 9,5458,Duplex/Fourplex,4,0,0,0
+Ward 9,5458,Row House,0,0,0,0
+Ward 9,5458,Apartment (5+ stories),0,0,0,0
+Ward 9,5458,Apartment (1-4 stories),0,0,0,0
+Ward 9,5458,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5458,Institution/Collective Residence,0,0,0,0
+Ward 9,5458,Hotel/Motel,0,0,0,0
+Ward 9,5458,RV/Tent/Other,0,0,0,0
+Ward 9,5458,No Response,0,0,0,0
+Ward 9,5461,Single Detached House,0,0,0,0
+Ward 9,5461,Duplex/Fourplex,0,0,0,0
+Ward 9,5461,Row House,0,0,0,0
+Ward 9,5461,Apartment (5+ stories),0,0,0,0
+Ward 9,5461,Apartment (1-4 stories),0,0,0,0
+Ward 9,5461,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5461,Institution/Collective Residence,0,0,0,0
+Ward 9,5461,Hotel/Motel,0,0,0,0
+Ward 9,5461,RV/Tent/Other,0,0,0,0
+Ward 9,5461,No Response,0,0,0,0
+Ward 9,5462,Single Detached House,471,228,18,0
+Ward 9,5462,Duplex/Fourplex,119,15,1,0
+Ward 9,5462,Row House,52,34,3,0
+Ward 9,5462,Apartment (5+ stories),0,0,0,0
+Ward 9,5462,Apartment (1-4 stories),0,0,0,0
+Ward 9,5462,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5462,Institution/Collective Residence,0,0,0,0
+Ward 9,5462,Hotel/Motel,0,0,0,0
+Ward 9,5462,RV/Tent/Other,0,0,0,0
+Ward 9,5462,No Response,0,0,0,0
+Ward 9,5463,Single Detached House,0,0,0,0
+Ward 9,5463,Duplex/Fourplex,0,0,0,0
+Ward 9,5463,Row House,0,0,0,0
+Ward 9,5463,Apartment (5+ stories),0,0,0,0
+Ward 9,5463,Apartment (1-4 stories),0,0,0,0
+Ward 9,5463,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5463,Institution/Collective Residence,0,0,0,0
+Ward 9,5463,Hotel/Motel,0,0,0,0
+Ward 9,5463,RV/Tent/Other,0,0,0,0
+Ward 9,5463,No Response,0,0,0,0
+Ward 9,5464,Single Detached House,0,0,0,0
+Ward 9,5464,Duplex/Fourplex,0,0,0,0
+Ward 9,5464,Row House,0,0,0,0
+Ward 9,5464,Apartment (5+ stories),0,0,0,0
+Ward 9,5464,Apartment (1-4 stories),0,0,0,0
+Ward 9,5464,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5464,Institution/Collective Residence,0,0,0,0
+Ward 9,5464,Hotel/Motel,0,0,0,0
+Ward 9,5464,RV/Tent/Other,0,0,0,0
+Ward 9,5464,No Response,0,0,0,0
+Ward 9,5465,Single Detached House,0,0,0,0
+Ward 9,5465,Duplex/Fourplex,0,0,0,0
+Ward 9,5465,Row House,0,0,0,0
+Ward 9,5465,Apartment (5+ stories),0,0,0,0
+Ward 9,5465,Apartment (1-4 stories),0,0,0,0
+Ward 9,5465,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5465,Institution/Collective Residence,0,0,0,0
+Ward 9,5465,Hotel/Motel,0,0,0,0
+Ward 9,5465,RV/Tent/Other,0,0,0,0
+Ward 9,5465,No Response,0,0,0,0
+Ward 9,5466,Single Detached House,0,0,0,0
+Ward 9,5466,Duplex/Fourplex,0,0,0,0
+Ward 9,5466,Row House,0,0,0,0
+Ward 9,5466,Apartment (5+ stories),0,0,0,0
+Ward 9,5466,Apartment (1-4 stories),0,0,0,0
+Ward 9,5466,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5466,Institution/Collective Residence,0,0,0,0
+Ward 9,5466,Hotel/Motel,0,0,0,0
+Ward 9,5466,RV/Tent/Other,0,0,0,0
+Ward 9,5466,No Response,0,0,0,0
+Ward 9,5476,Single Detached House,725,21,18,0
+Ward 9,5476,Duplex/Fourplex,126,2,3,0
+Ward 9,5476,Row House,21,4,76,0
+Ward 9,5476,Apartment (5+ stories),0,0,0,0
+Ward 9,5476,Apartment (1-4 stories),157,2,0,0
+Ward 9,5476,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5476,Institution/Collective Residence,0,0,0,0
+Ward 9,5476,Hotel/Motel,0,0,0,0
+Ward 9,5476,RV/Tent/Other,0,0,0,0
+Ward 9,5476,No Response,0,0,0,0
+Ward 9,5477,Single Detached House,494,68,1,0
+Ward 9,5477,Duplex/Fourplex,81,20,0,0
+Ward 9,5477,Row House,42,53,0,0
+Ward 9,5477,Apartment (5+ stories),0,0,0,0
+Ward 9,5477,Apartment (1-4 stories),197,15,8,0
+Ward 9,5477,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5477,Institution/Collective Residence,0,0,0,0
+Ward 9,5477,Hotel/Motel,0,0,0,0
+Ward 9,5477,RV/Tent/Other,0,0,0,0
+Ward 9,5477,No Response,0,0,0,0
+Ward 9,5505,Single Detached House,678,28,0,0
+Ward 9,5505,Duplex/Fourplex,175,45,3,0
+Ward 9,5505,Row House,94,4,0,0
+Ward 9,5505,Apartment (5+ stories),0,0,0,0
+Ward 9,5505,Apartment (1-4 stories),526,282,2,0
+Ward 9,5505,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5505,Institution/Collective Residence,0,0,0,0
+Ward 9,5505,Hotel/Motel,0,0,0,0
+Ward 9,5505,RV/Tent/Other,0,0,0,0
+Ward 9,5505,No Response,0,0,0,0
+Ward 9,5511,Single Detached House,1901,8,1,0
+Ward 9,5511,Duplex/Fourplex,236,3,3,0
+Ward 9,5511,Row House,51,0,1,0
+Ward 9,5511,Apartment (5+ stories),0,0,0,0
+Ward 9,5511,Apartment (1-4 stories),69,1,0,0
+Ward 9,5511,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5511,Institution/Collective Residence,0,0,0,0
+Ward 9,5511,Hotel/Motel,0,0,0,0
+Ward 9,5511,RV/Tent/Other,0,0,0,0
+Ward 9,5511,No Response,0,0,0,0
+Ward 9,5565,Single Detached House,0,0,0,0
+Ward 9,5565,Duplex/Fourplex,0,0,0,0
+Ward 9,5565,Row House,0,0,0,0
+Ward 9,5565,Apartment (5+ stories),0,0,0,0
+Ward 9,5565,Apartment (1-4 stories),0,0,0,0
+Ward 9,5565,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5565,Institution/Collective Residence,0,0,0,0
+Ward 9,5565,Hotel/Motel,0,0,0,0
+Ward 9,5565,RV/Tent/Other,0,0,0,0
+Ward 9,5565,No Response,0,0,0,0
+Ward 9,5570,Single Detached House,1319,151,8,0
+Ward 9,5570,Duplex/Fourplex,253,346,3,0
+Ward 9,5570,Row House,83,2,0,0
+Ward 9,5570,Apartment (5+ stories),139,75,0,0
+Ward 9,5570,Apartment (1-4 stories),154,84,0,0
+Ward 9,5570,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5570,Institution/Collective Residence,0,0,0,0
+Ward 9,5570,Hotel/Motel,0,0,0,0
+Ward 9,5570,RV/Tent/Other,0,0,1,0
+Ward 9,5570,No Response,0,0,0,0
+Ward 9,5575,Single Detached House,0,0,0,0
+Ward 9,5575,Duplex/Fourplex,0,0,0,0
+Ward 9,5575,Row House,0,0,0,0
+Ward 9,5575,Apartment (5+ stories),0,0,0,0
+Ward 9,5575,Apartment (1-4 stories),0,0,0,0
+Ward 9,5575,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5575,Institution/Collective Residence,0,0,0,0
+Ward 9,5575,Hotel/Motel,0,0,0,0
+Ward 9,5575,RV/Tent/Other,0,0,0,0
+Ward 9,5575,No Response,0,0,0,0
+Ward 9,5576,Single Detached House,0,0,0,0
+Ward 9,5576,Duplex/Fourplex,0,0,0,0
+Ward 9,5576,Row House,0,0,0,0
+Ward 9,5576,Apartment (5+ stories),0,0,0,0
+Ward 9,5576,Apartment (1-4 stories),0,0,0,0
+Ward 9,5576,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5576,Institution/Collective Residence,0,0,0,0
+Ward 9,5576,Hotel/Motel,0,0,0,0
+Ward 9,5576,RV/Tent/Other,0,0,0,0
+Ward 9,5576,No Response,0,0,0,0
+Ward 9,5577,Single Detached House,125,38,1,0
+Ward 9,5577,Duplex/Fourplex,2,38,0,0
+Ward 9,5577,Row House,0,0,0,0
+Ward 9,5577,Apartment (5+ stories),0,0,0,0
+Ward 9,5577,Apartment (1-4 stories),0,0,0,0
+Ward 9,5577,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5577,Institution/Collective Residence,0,0,0,0
+Ward 9,5577,Hotel/Motel,0,0,0,0
+Ward 9,5577,RV/Tent/Other,0,0,0,0
+Ward 9,5577,No Response,0,0,0,0
+Ward 9,5590,Single Detached House,390,2,2,0
+Ward 9,5590,Duplex/Fourplex,124,1,6,0
+Ward 9,5590,Row House,22,0,2,0
+Ward 9,5590,Apartment (5+ stories),0,0,0,0
+Ward 9,5590,Apartment (1-4 stories),46,5,19,0
+Ward 9,5590,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5590,Institution/Collective Residence,0,0,0,0
+Ward 9,5590,Hotel/Motel,0,0,0,0
+Ward 9,5590,RV/Tent/Other,0,0,0,0
+Ward 9,5590,No Response,0,0,0,0
+Ward 9,5610,Single Detached House,1062,17,3,0
+Ward 9,5610,Duplex/Fourplex,75,4,9,0
+Ward 9,5610,Row House,152,6,1,0
+Ward 9,5610,Apartment (5+ stories),134,3,16,0
+Ward 9,5610,Apartment (1-4 stories),121,2,0,0
+Ward 9,5610,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5610,Institution/Collective Residence,0,0,0,0
+Ward 9,5610,Hotel/Motel,0,0,0,0
+Ward 9,5610,RV/Tent/Other,0,0,2,0
+Ward 9,5610,No Response,0,0,0,0
+Ward 9,5620,Single Detached House,595,9,0,0
+Ward 9,5620,Duplex/Fourplex,80,4,1,0
+Ward 9,5620,Row House,0,0,9,0
+Ward 9,5620,Apartment (5+ stories),0,0,0,0
+Ward 9,5620,Apartment (1-4 stories),286,2,0,0
+Ward 9,5620,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5620,Institution/Collective Residence,0,0,0,0
+Ward 9,5620,Hotel/Motel,0,0,0,0
+Ward 9,5620,RV/Tent/Other,0,0,0,0
+Ward 9,5620,No Response,0,0,0,0
+Ward 9,5630,Single Detached House,619,4,2,0
+Ward 9,5630,Duplex/Fourplex,175,5,1,0
+Ward 9,5630,Row House,0,0,0,0
+Ward 9,5630,Apartment (5+ stories),0,0,0,0
+Ward 9,5630,Apartment (1-4 stories),0,0,0,0
+Ward 9,5630,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5630,Institution/Collective Residence,0,0,0,0
+Ward 9,5630,Hotel/Motel,0,0,0,0
+Ward 9,5630,RV/Tent/Other,0,0,0,0
+Ward 9,5630,No Response,0,0,0,0
+Ward 9,5640,Single Detached House,1474,12,13,0
+Ward 9,5640,Duplex/Fourplex,279,4,12,0
+Ward 9,5640,Row House,269,10,2,0
+Ward 9,5640,Apartment (5+ stories),0,0,0,0
+Ward 9,5640,Apartment (1-4 stories),57,2,8,0
+Ward 9,5640,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5640,Institution/Collective Residence,220,2,9,0
+Ward 9,5640,Hotel/Motel,0,0,0,0
+Ward 9,5640,RV/Tent/Other,0,0,1,0
+Ward 9,5640,No Response,0,0,0,0
+Ward 9,5642,Single Detached House,1550,14,1,0
+Ward 9,5642,Duplex/Fourplex,570,17,8,0
+Ward 9,5642,Row House,433,8,10,0
+Ward 9,5642,Apartment (5+ stories),0,0,0,0
+Ward 9,5642,Apartment (1-4 stories),985,91,88,0
+Ward 9,5642,Manufactured/Mobile Home,0,0,0,0
+Ward 9,5642,Institution/Collective Residence,0,0,0,0
+Ward 9,5642,Hotel/Motel,0,0,0,0
+Ward 9,5642,RV/Tent/Other,15,9,0,0
+Ward 9,5642,No Response,0,0,0,0
+Ward 10,5010,Single Detached House,934,81,97,0
+Ward 10,5010,Duplex/Fourplex,148,11,21,0
+Ward 10,5010,Row House,5,0,1,0
+Ward 10,5010,Apartment (5+ stories),0,0,0,0
+Ward 10,5010,Apartment (1-4 stories),213,2,8,0
+Ward 10,5010,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5010,Institution/Collective Residence,2,0,0,0
+Ward 10,5010,Hotel/Motel,0,0,0,0
+Ward 10,5010,RV/Tent/Other,2,0,0,0
+Ward 10,5010,No Response,0,0,0,0
+Ward 10,5020,Single Detached House,499,8,7,0
+Ward 10,5020,Duplex/Fourplex,0,0,0,0
+Ward 10,5020,Row House,0,0,0,0
+Ward 10,5020,Apartment (5+ stories),0,0,0,0
+Ward 10,5020,Apartment (1-4 stories),131,2,6,0
+Ward 10,5020,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5020,Institution/Collective Residence,0,0,0,0
+Ward 10,5020,Hotel/Motel,0,0,0,0
+Ward 10,5020,RV/Tent/Other,0,0,0,0
+Ward 10,5020,No Response,0,0,0,0
+Ward 10,5030,Single Detached House,569,11,0,0
+Ward 10,5030,Duplex/Fourplex,175,13,0,0
+Ward 10,5030,Row House,54,8,0,0
+Ward 10,5030,Apartment (5+ stories),0,0,0,0
+Ward 10,5030,Apartment (1-4 stories),0,2,0,0
+Ward 10,5030,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5030,Institution/Collective Residence,0,0,0,0
+Ward 10,5030,Hotel/Motel,0,0,0,0
+Ward 10,5030,RV/Tent/Other,0,0,0,0
+Ward 10,5030,No Response,0,0,0,0
+Ward 10,5050,Single Detached House,0,0,0,0
+Ward 10,5050,Duplex/Fourplex,0,0,0,0
+Ward 10,5050,Row House,0,0,0,0
+Ward 10,5050,Apartment (5+ stories),0,0,0,0
+Ward 10,5050,Apartment (1-4 stories),0,0,0,0
+Ward 10,5050,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5050,Institution/Collective Residence,0,0,0,0
+Ward 10,5050,Hotel/Motel,0,0,0,0
+Ward 10,5050,RV/Tent/Other,0,0,0,0
+Ward 10,5050,No Response,0,0,0,0
+Ward 10,5060,Single Detached House,507,4,2,0
+Ward 10,5060,Duplex/Fourplex,129,6,0,0
+Ward 10,5060,Row House,169,3,0,0
+Ward 10,5060,Apartment (5+ stories),0,0,0,0
+Ward 10,5060,Apartment (1-4 stories),1166,18,85,0
+Ward 10,5060,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5060,Institution/Collective Residence,0,0,0,0
+Ward 10,5060,Hotel/Motel,0,0,0,0
+Ward 10,5060,RV/Tent/Other,0,0,0,0
+Ward 10,5060,No Response,0,0,0,0
+Ward 10,5070,Single Detached House,241,1,0,0
+Ward 10,5070,Duplex/Fourplex,17,2,1,0
+Ward 10,5070,Row House,92,3,1,0
+Ward 10,5070,Apartment (5+ stories),0,0,0,0
+Ward 10,5070,Apartment (1-4 stories),201,2,8,0
+Ward 10,5070,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5070,Institution/Collective Residence,0,0,0,0
+Ward 10,5070,Hotel/Motel,0,0,0,0
+Ward 10,5070,RV/Tent/Other,0,0,0,0
+Ward 10,5070,No Response,0,0,0,0
+Ward 10,5110,Single Detached House,0,0,0,0
+Ward 10,5110,Duplex/Fourplex,0,0,0,0
+Ward 10,5110,Row House,0,0,0,0
+Ward 10,5110,Apartment (5+ stories),0,0,0,0
+Ward 10,5110,Apartment (1-4 stories),0,0,0,0
+Ward 10,5110,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5110,Institution/Collective Residence,0,0,0,0
+Ward 10,5110,Hotel/Motel,0,0,0,0
+Ward 10,5110,RV/Tent/Other,0,0,0,0
+Ward 10,5110,No Response,0,0,0,0
+Ward 10,5120,Single Detached House,0,0,0,0
+Ward 10,5120,Duplex/Fourplex,0,0,0,0
+Ward 10,5120,Row House,0,0,0,0
+Ward 10,5120,Apartment (5+ stories),0,0,0,0
+Ward 10,5120,Apartment (1-4 stories),0,0,0,0
+Ward 10,5120,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5120,Institution/Collective Residence,0,0,0,0
+Ward 10,5430,Hotel/Motel,0,0,0,0
+Ward 10,5120,Hotel/Motel,0,0,0,0
+Ward 10,5120,RV/Tent/Other,0,0,0,0
+Ward 10,5120,No Response,0,0,0,0
+Ward 10,5160,Single Detached House,1090,11,67,0
+Ward 10,5160,Duplex/Fourplex,2,0,0,0
+Ward 10,5160,Row House,188,5,2,0
+Ward 10,5160,Apartment (5+ stories),0,0,0,0
+Ward 10,5160,Apartment (1-4 stories),493,13,1,0
+Ward 10,5160,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5160,Institution/Collective Residence,0,0,0,0
+Ward 10,5160,Hotel/Motel,0,0,0,0
+Ward 10,5160,RV/Tent/Other,0,0,0,0
+Ward 10,5160,No Response,0,0,0,0
+Ward 10,5170,Single Detached House,69,2,0,0
+Ward 10,5170,Duplex/Fourplex,85,4,0,0
+Ward 10,5170,Row House,474,11,0,0
+Ward 10,5170,Apartment (5+ stories),805,13,4,0
+Ward 10,5170,Apartment (1-4 stories),964,34,0,0
+Ward 10,5170,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5170,Institution/Collective Residence,0,0,0,0
+Ward 10,5170,Hotel/Motel,0,0,0,0
+Ward 10,5170,RV/Tent/Other,0,0,0,0
+Ward 10,5170,No Response,0,0,0,0
+Ward 10,5180,Single Detached House,342,8,1,0
+Ward 10,5180,Duplex/Fourplex,30,1,0,0
+Ward 10,5180,Row House,435,14,2,0
+Ward 10,5180,Apartment (5+ stories),787,12,16,0
+Ward 10,5180,Apartment (1-4 stories),1061,8,23,0
+Ward 10,5180,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5180,Institution/Collective Residence,1,0,0,0
+Ward 10,5180,Hotel/Motel,0,0,0,0
+Ward 10,5180,RV/Tent/Other,1,0,0,0
+Ward 10,5180,No Response,0,0,0,0
+Ward 10,5210,Single Detached House,340,2,1,0
+Ward 10,5210,Duplex/Fourplex,0,0,0,0
+Ward 10,5210,Row House,0,0,0,0
+Ward 10,5210,Apartment (5+ stories),0,0,0,0
+Ward 10,5210,Apartment (1-4 stories),103,0,0,0
+Ward 10,5210,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5210,Institution/Collective Residence,1,0,0,0
+Ward 10,5210,Hotel/Motel,0,0,0,0
+Ward 10,5210,RV/Tent/Other,0,0,0,0
+Ward 10,5210,No Response,0,0,0,0
+Ward 10,5220,Single Detached House,1302,9,3,0
+Ward 10,5220,Duplex/Fourplex,59,3,0,0
+Ward 10,5220,Row House,0,0,0,0
+Ward 10,5220,Apartment (5+ stories),0,0,0,0
+Ward 10,5220,Apartment (1-4 stories),14,1,0,0
+Ward 10,5220,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5220,Institution/Collective Residence,1,0,0,0
+Ward 10,5220,Hotel/Motel,0,0,0,0
+Ward 10,5220,RV/Tent/Other,0,0,0,0
+Ward 10,5220,No Response,0,0,0,0
+Ward 10,5250,Single Detached House,577,11,6,0
+Ward 10,5250,Duplex/Fourplex,27,5,0,0
+Ward 10,5250,Row House,130,4,0,0
+Ward 10,5250,Apartment (5+ stories),0,0,0,0
+Ward 10,5250,Apartment (1-4 stories),430,28,0,0
+Ward 10,5250,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5250,Institution/Collective Residence,16,16,0,0
+Ward 10,5250,Hotel/Motel,0,0,0,0
+Ward 10,5250,RV/Tent/Other,0,0,0,0
+Ward 10,5250,No Response,0,0,0,0
+Ward 10,5260,Single Detached House,337,3,2,0
+Ward 10,5260,Duplex/Fourplex,0,0,0,0
+Ward 10,5260,Row House,0,0,0,0
+Ward 10,5260,Apartment (5+ stories),60,1,0,0
+Ward 10,5260,Apartment (1-4 stories),145,0,0,0
+Ward 10,5260,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5260,Institution/Collective Residence,0,0,0,0
+Ward 10,5260,Hotel/Motel,0,0,0,0
+Ward 10,5260,RV/Tent/Other,0,0,0,0
+Ward 10,5260,No Response,0,0,0,0
+Ward 10,5270,Single Detached House,602,14,1,0
+Ward 10,5270,Duplex/Fourplex,2,0,0,0
+Ward 10,5270,Row House,0,0,0,0
+Ward 10,5270,Apartment (5+ stories),0,0,0,0
+Ward 10,5270,Apartment (1-4 stories),176,8,20,0
+Ward 10,5270,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5270,Institution/Collective Residence,45,0,0,0
+Ward 10,5270,Hotel/Motel,0,0,0,0
+Ward 10,5270,RV/Tent/Other,0,0,0,0
+Ward 10,5270,No Response,0,0,0,0
+Ward 10,5280,Single Detached House,634,9,5,0
+Ward 10,5280,Duplex/Fourplex,0,0,0,0
+Ward 10,5280,Row House,341,2,0,0
+Ward 10,5280,Apartment (5+ stories),290,5,9,0
+Ward 10,5280,Apartment (1-4 stories),7,0,0,0
+Ward 10,5280,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5280,Institution/Collective Residence,0,0,0,0
+Ward 10,5280,Hotel/Motel,0,0,0,0
+Ward 10,5280,RV/Tent/Other,1,0,0,0
+Ward 10,5280,No Response,0,0,0,0
+Ward 10,5310,Single Detached House,759,45,50,0
+Ward 10,5310,Duplex/Fourplex,56,10,12,0
+Ward 10,5310,Row House,0,0,0,0
+Ward 10,5310,Apartment (5+ stories),0,0,0,0
+Ward 10,5310,Apartment (1-4 stories),216,13,6,0
+Ward 10,5310,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5310,Institution/Collective Residence,0,0,4,0
+Ward 10,5310,Hotel/Motel,0,0,0,0
+Ward 10,5310,RV/Tent/Other,0,0,0,0
+Ward 10,5310,No Response,0,0,0,0
+Ward 10,5320,Single Detached House,825,18,30,0
+Ward 10,5320,Duplex/Fourplex,127,3,10,0
+Ward 10,5320,Row House,134,3,8,0
+Ward 10,5320,Apartment (5+ stories),396,0,0,0
+Ward 10,5320,Apartment (1-4 stories),519,0,25,0
+Ward 10,5320,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5320,Institution/Collective Residence,1,1,0,0
+Ward 10,5320,Hotel/Motel,0,0,0,0
+Ward 10,5320,RV/Tent/Other,1,0,0,0
+Ward 10,5320,No Response,0,0,0,0
+Ward 10,5360,Single Detached House,272,7,5,0
+Ward 10,5360,Duplex/Fourplex,18,1,0,0
+Ward 10,5360,Row House,0,0,0,0
+Ward 10,5360,Apartment (5+ stories),0,0,0,0
+Ward 10,5360,Apartment (1-4 stories),697,14,8,0
+Ward 10,5360,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5360,Institution/Collective Residence,122,0,0,0
+Ward 10,5360,Hotel/Motel,0,0,0,0
+Ward 10,5360,RV/Tent/Other,0,0,0,0
+Ward 10,5360,No Response,0,0,0,0
+Ward 10,5400,Single Detached House,0,0,0,0
+Ward 10,5400,Duplex/Fourplex,0,0,0,0
+Ward 10,5400,Row House,0,0,0,0
+Ward 10,5400,Apartment (5+ stories),0,0,0,0
+Ward 10,5400,Apartment (1-4 stories),0,0,0,0
+Ward 10,5400,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5400,Institution/Collective Residence,0,0,0,0
+Ward 10,5400,Hotel/Motel,0,0,0,0
+Ward 10,5400,RV/Tent/Other,0,0,0,0
+Ward 10,5400,No Response,0,0,0,0
+Ward 10,5430,Single Detached House,601,12,3,0
+Ward 10,5430,Duplex/Fourplex,50,1,0,0
+Ward 10,5430,Row House,259,1,8,0
+Ward 10,5430,Apartment (5+ stories),157,1,3,0
+Ward 10,5430,Apartment (1-4 stories),358,10,17,0
+Ward 10,5430,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5430,Institution/Collective Residence,0,0,0,0
+Ward 10,5430,RV/Tent/Other,0,0,0,0
+Ward 10,5430,No Response,0,0,0,0
+Ward 10,5460,Single Detached House,240,4,2,0
+Ward 10,5460,Duplex/Fourplex,54,3,0,0
+Ward 10,5460,Row House,327,12,0,0
+Ward 10,5460,Apartment (5+ stories),0,0,0,0
+Ward 10,5460,Apartment (1-4 stories),496,11,6,0
+Ward 10,5460,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5460,Institution/Collective Residence,1,0,0,0
+Ward 10,5460,Hotel/Motel,0,0,0,0
+Ward 10,5460,RV/Tent/Other,0,0,0,0
+Ward 10,5460,No Response,0,0,0,0
+Ward 10,5470,Single Detached House,567,6,0,0
+Ward 10,5470,Duplex/Fourplex,0,0,0,0
+Ward 10,5470,Row House,210,1,1,0
+Ward 10,5470,Apartment (5+ stories),0,0,0,0
+Ward 10,5470,Apartment (1-4 stories),0,0,0,0
+Ward 10,5470,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5470,Institution/Collective Residence,0,0,0,0
+Ward 10,5470,Hotel/Motel,0,0,0,0
+Ward 10,5470,RV/Tent/Other,0,0,0,0
+Ward 10,5470,No Response,0,0,0,0
+Ward 10,5490,Single Detached House,449,3,0,0
+Ward 10,5490,Duplex/Fourplex,0,0,0,0
+Ward 10,5490,Row House,361,5,0,0
+Ward 10,5490,Apartment (5+ stories),0,0,0,0
+Ward 10,5490,Apartment (1-4 stories),269,41,0,0
+Ward 10,5490,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5490,Institution/Collective Residence,0,1,0,0
+Ward 10,5490,Hotel/Motel,0,0,0,0
+Ward 10,5490,RV/Tent/Other,3,0,0,0
+Ward 10,5490,No Response,0,0,0,0
+Ward 10,5530,Single Detached House,0,0,0,0
+Ward 10,5530,Duplex/Fourplex,0,0,0,0
+Ward 10,5530,Row House,0,0,0,0
+Ward 10,5530,Apartment (5+ stories),0,0,0,0
+Ward 10,5530,Apartment (1-4 stories),0,0,0,0
+Ward 10,5530,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5530,Institution/Collective Residence,0,0,0,0
+Ward 10,5530,Hotel/Motel,0,0,0,0
+Ward 10,5530,RV/Tent/Other,0,0,0,0
+Ward 10,5530,No Response,0,0,0,0
+Ward 10,5540,Single Detached House,280,8,0,0
+Ward 10,5540,Duplex/Fourplex,33,0,0,0
+Ward 10,5540,Row House,0,0,0,0
+Ward 10,5540,Apartment (5+ stories),0,0,0,0
+Ward 10,5540,Apartment (1-4 stories),166,4,4,0
+Ward 10,5540,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5540,Institution/Collective Residence,0,0,0,0
+Ward 10,5540,Hotel/Motel,0,0,0,0
+Ward 10,5540,RV/Tent/Other,0,0,0,0
+Ward 10,5540,No Response,0,0,0,0
+Ward 10,5550,Single Detached House,0,0,0,0
+Ward 10,5550,Duplex/Fourplex,0,0,0,0
+Ward 10,5550,Row House,0,0,0,0
+Ward 10,5550,Apartment (5+ stories),0,0,0,0
+Ward 10,5550,Apartment (1-4 stories),0,0,0,0
+Ward 10,5550,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5550,Institution/Collective Residence,0,0,0,0
+Ward 10,5550,Hotel/Motel,0,0,0,0
+Ward 10,5550,RV/Tent/Other,0,0,0,0
+Ward 10,5550,No Response,0,0,0,0
+Ward 10,5560,Single Detached House,0,0,0,0
+Ward 10,5560,Duplex/Fourplex,0,0,0,0
+Ward 10,5560,Row House,0,0,0,0
+Ward 10,5560,Apartment (5+ stories),0,0,0,0
+Ward 10,5560,Apartment (1-4 stories),0,0,0,0
+Ward 10,5560,Manufactured/Mobile Home,0,0,0,0
+Ward 10,5560,Institution/Collective Residence,0,0,0,0
+Ward 10,5560,Hotel/Motel,0,0,0,0
+Ward 10,5560,RV/Tent/Other,0,0,0,0
+Ward 10,5560,No Response,0,0,0,0
+Ward 11,6010,Single Detached House,333,8,11,0
+Ward 11,6010,Duplex/Fourplex,3,1,4,0
+Ward 11,6010,Row House,2,0,0,0
+Ward 11,6010,Apartment (5+ stories),0,0,0,0
+Ward 11,6010,Apartment (1-4 stories),0,0,0,0
+Ward 11,6010,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6010,Institution/Collective Residence,0,0,0,0
+Ward 11,6010,Hotel/Motel,0,0,0,0
+Ward 11,6010,RV/Tent/Other,0,0,0,0
+Ward 11,6010,No Response,0,0,0,0
+Ward 11,6020,Single Detached House,851,21,24,0
+Ward 11,6020,Duplex/Fourplex,24,0,5,0
+Ward 11,6020,Row House,0,0,0,0
+Ward 11,6020,Apartment (5+ stories),0,0,0,0
+Ward 11,6020,Apartment (1-4 stories),108,1,4,0
+Ward 11,6020,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6020,Institution/Collective Residence,0,0,0,0
+Ward 11,6020,Hotel/Motel,0,0,0,0
+Ward 11,6020,RV/Tent/Other,0,0,0,0
+Ward 11,6020,No Response,0,0,0,0
+Ward 11,6090,Single Detached House,0,0,0,0
+Ward 11,6090,Duplex/Fourplex,0,0,0,0
+Ward 11,6090,Row House,0,0,0,0
+Ward 11,6090,Apartment (5+ stories),0,0,0,0
+Ward 11,6090,Apartment (1-4 stories),0,0,0,0
+Ward 11,6090,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6090,Institution/Collective Residence,0,0,0,0
+Ward 11,6090,Hotel/Motel,0,0,0,0
+Ward 11,6090,RV/Tent/Other,0,0,0,0
+Ward 11,6090,No Response,0,0,0,0
+Ward 11,6100,Single Detached House,0,0,0,0
+Ward 11,6100,Duplex/Fourplex,0,0,0,0
+Ward 11,6100,Row House,0,0,0,0
+Ward 11,6100,Apartment (5+ stories),0,0,0,0
+Ward 11,6100,Apartment (1-4 stories),0,0,0,0
+Ward 11,6100,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6100,Institution/Collective Residence,0,0,0,0
+Ward 11,6100,Hotel/Motel,0,0,0,0
+Ward 11,6100,RV/Tent/Other,0,0,0,0
+Ward 11,6100,No Response,0,0,0,0
+Ward 11,6110,Single Detached House,0,0,0,0
+Ward 11,6110,Duplex/Fourplex,0,0,0,0
+Ward 11,6110,Row House,0,0,0,0
+Ward 11,6110,Apartment (5+ stories),0,0,0,0
+Ward 11,6110,Apartment (1-4 stories),0,0,0,0
+Ward 11,6110,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6110,Institution/Collective Residence,0,0,0,0
+Ward 11,6110,Hotel/Motel,0,0,0,0
+Ward 11,6110,RV/Tent/Other,0,0,0,0
+Ward 11,6110,No Response,0,0,0,0
+Ward 11,6160,Single Detached House,0,0,0,0
+Ward 11,6160,Duplex/Fourplex,0,0,0,0
+Ward 11,6160,Row House,0,0,0,0
+Ward 11,6160,Apartment (5+ stories),0,0,0,0
+Ward 11,6160,Apartment (1-4 stories),0,0,0,0
+Ward 11,6160,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6160,Institution/Collective Residence,0,0,0,0
+Ward 11,6160,Hotel/Motel,0,0,0,0
+Ward 11,6160,RV/Tent/Other,0,0,0,0
+Ward 11,6160,No Response,0,0,0,0
+Ward 11,6170,Single Detached House,0,0,0,0
+Ward 11,6170,Duplex/Fourplex,0,0,0,0
+Ward 11,6170,Row House,0,0,0,0
+Ward 11,6170,Apartment (5+ stories),0,0,0,0
+Ward 11,6170,Apartment (1-4 stories),0,0,0,0
+Ward 11,6170,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6170,Institution/Collective Residence,0,0,0,0
+Ward 11,6170,Hotel/Motel,0,0,0,0
+Ward 11,6170,RV/Tent/Other,0,0,0,0
+Ward 11,6170,No Response,0,0,0,0
+Ward 11,6190,Single Detached House,0,0,0,0
+Ward 11,6190,Duplex/Fourplex,0,0,0,0
+Ward 11,6190,Row House,0,0,0,0
+Ward 11,6190,Apartment (5+ stories),0,0,0,0
+Ward 11,6190,Apartment (1-4 stories),0,0,0,0
+Ward 11,6190,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6190,Institution/Collective Residence,0,0,0,0
+Ward 11,6190,Hotel/Motel,0,0,0,0
+Ward 11,6190,RV/Tent/Other,0,0,0,0
+Ward 11,6190,No Response,0,0,0,0
+Ward 11,6195,Single Detached House,0,0,0,0
+Ward 11,6195,Duplex/Fourplex,0,0,0,0
+Ward 11,6195,Row House,0,0,0,0
+Ward 11,6195,Apartment (5+ stories),0,0,0,0
+Ward 11,6195,Apartment (1-4 stories),0,0,0,0
+Ward 11,6195,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6195,Institution/Collective Residence,0,0,0,0
+Ward 11,6195,Hotel/Motel,0,0,0,0
+Ward 11,6195,RV/Tent/Other,0,0,0,0
+Ward 11,6195,No Response,0,0,0,0
+Ward 11,6200,Single Detached House,572,7,5,0
+Ward 11,6200,Duplex/Fourplex,52,1,0,0
+Ward 11,6200,Row House,213,4,1,0
+Ward 11,6200,Apartment (5+ stories),0,0,0,0
+Ward 11,6200,Apartment (1-4 stories),99,2,0,0
+Ward 11,6200,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6200,Institution/Collective Residence,0,0,0,0
+Ward 11,6200,Hotel/Motel,0,0,0,0
+Ward 11,6200,RV/Tent/Other,1,0,0,0
+Ward 11,6200,No Response,0,0,0,0
+Ward 11,6250,Single Detached House,0,0,0,0
+Ward 11,6250,Duplex/Fourplex,0,0,0,0
+Ward 11,6250,Row House,0,0,0,0
+Ward 11,6250,Apartment (5+ stories),0,0,0,0
+Ward 11,6250,Apartment (1-4 stories),168,13,0,0
+Ward 11,6250,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6250,Institution/Collective Residence,0,0,0,0
+Ward 11,6250,Hotel/Motel,0,0,0,0
+Ward 11,6250,RV/Tent/Other,0,0,0,0
+Ward 11,6250,No Response,0,0,0,0
+Ward 11,6260,Single Detached House,0,0,0,0
+Ward 11,6260,Duplex/Fourplex,0,0,0,0
+Ward 11,6260,Row House,0,0,0,0
+Ward 11,6260,Apartment (5+ stories),0,0,0,0
+Ward 11,6260,Apartment (1-4 stories),0,0,0,0
+Ward 11,6260,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6260,Institution/Collective Residence,0,0,0,0
+Ward 11,6260,Hotel/Motel,0,0,0,0
+Ward 11,6260,RV/Tent/Other,0,0,0,0
+Ward 11,6260,No Response,0,0,0,0
+Ward 11,6280,Single Detached House,748,3,2,0
+Ward 11,6280,Duplex/Fourplex,45,1,0,0
+Ward 11,6280,Row House,231,3,0,0
+Ward 11,6280,Apartment (5+ stories),0,0,0,0
+Ward 11,6280,Apartment (1-4 stories),51,1,3,0
+Ward 11,6280,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6280,Institution/Collective Residence,0,0,0,0
+Ward 11,6280,Hotel/Motel,0,0,0,0
+Ward 11,6280,RV/Tent/Other,0,0,0,0
+Ward 11,6280,No Response,0,0,0,0
+Ward 11,6290,Single Detached House,1041,58,112,0
+Ward 11,6290,Duplex/Fourplex,36,6,23,0
+Ward 11,6290,Row House,201,35,62,0
+Ward 11,6290,Apartment (5+ stories),0,0,0,0
+Ward 11,6290,Apartment (1-4 stories),56,0,0,0
+Ward 11,6290,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6290,Institution/Collective Residence,3,0,0,0
+Ward 11,6290,Hotel/Motel,0,0,0,0
+Ward 11,6290,RV/Tent/Other,3,1,0,0
+Ward 11,6290,No Response,0,0,0,0
+Ward 11,6300,Single Detached House,740,14,2,0
+Ward 11,6300,Duplex/Fourplex,61,0,1,0
+Ward 11,6300,Row House,320,13,9,0
+Ward 11,6300,Apartment (5+ stories),0,0,0,0
+Ward 11,6300,Apartment (1-4 stories),237,5,5,0
+Ward 11,6300,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6300,Institution/Collective Residence,1,0,0,0
+Ward 11,6300,Hotel/Motel,0,0,0,0
+Ward 11,6300,RV/Tent/Other,3,0,0,0
+Ward 11,6300,No Response,0,0,0,0
+Ward 11,6340,Single Detached House,283,1,2,0
+Ward 11,6340,Duplex/Fourplex,58,1,0,0
+Ward 11,6340,Row House,434,9,3,0
+Ward 11,6340,Apartment (5+ stories),223,5,0,0
+Ward 11,6340,Apartment (1-4 stories),80,5,0,0
+Ward 11,6340,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6340,Institution/Collective Residence,67,0,1,0
+Ward 11,6340,Hotel/Motel,0,0,0,0
+Ward 11,6340,RV/Tent/Other,0,0,0,0
+Ward 11,6340,No Response,0,0,0,0
+Ward 11,6360,Single Detached House,1336,60,141,0
+Ward 11,6360,Duplex/Fourplex,269,19,53,0
+Ward 11,6360,Row House,68,4,61,0
+Ward 11,6360,Apartment (5+ stories),0,0,0,0
+Ward 11,6360,Apartment (1-4 stories),394,18,13,0
+Ward 11,6360,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6360,Institution/Collective Residence,1,0,0,0
+Ward 11,6360,Hotel/Motel,0,0,0,0
+Ward 11,6360,RV/Tent/Other,0,0,0,0
+Ward 11,6360,No Response,0,0,0,0
+Ward 11,6400,Single Detached House,386,10,6,0
+Ward 11,6400,Duplex/Fourplex,146,4,0,0
+Ward 11,6400,Row House,304,15,3,0
+Ward 11,6400,Apartment (5+ stories),0,0,0,0
+Ward 11,6400,Apartment (1-4 stories),115,6,0,0
+Ward 11,6400,Manufactured/Mobile Home,79,3,1,0
+Ward 11,6400,Institution/Collective Residence,0,0,0,0
+Ward 11,6400,Hotel/Motel,0,0,0,0
+Ward 11,6400,RV/Tent/Other,0,0,0,0
+Ward 11,6400,No Response,0,0,0,0
+Ward 11,6410,Single Detached House,0,0,0,0
+Ward 11,6410,Duplex/Fourplex,0,0,0,0
+Ward 11,6410,Row House,2,0,4,0
+Ward 11,6410,Apartment (5+ stories),0,0,0,0
+Ward 11,6410,Apartment (1-4 stories),0,0,0,0
+Ward 11,6410,Manufactured/Mobile Home,825,35,7,0
+Ward 11,6410,Institution/Collective Residence,0,0,0,0
+Ward 11,6410,Hotel/Motel,0,0,0,0
+Ward 11,6410,RV/Tent/Other,0,0,0,0
+Ward 11,6410,No Response,0,0,0,0
+Ward 11,6420,Single Detached House,18,2,2,0
+Ward 11,6420,Duplex/Fourplex,0,0,0,0
+Ward 11,6420,Row House,0,0,0,0
+Ward 11,6420,Apartment (5+ stories),0,0,0,0
+Ward 11,6420,Apartment (1-4 stories),0,0,0,0
+Ward 11,6420,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6420,Institution/Collective Residence,0,0,0,0
+Ward 11,6420,Hotel/Motel,0,0,0,0
+Ward 11,6420,RV/Tent/Other,0,0,0,0
+Ward 11,6420,No Response,0,0,0,0
+Ward 11,6430,Single Detached House,0,0,0,0
+Ward 11,6430,Duplex/Fourplex,0,0,0,0
+Ward 11,6430,Row House,0,0,0,0
+Ward 11,6430,Apartment (5+ stories),0,0,0,0
+Ward 11,6430,Apartment (1-4 stories),0,0,0,0
+Ward 11,6430,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6430,Institution/Collective Residence,0,0,0,0
+Ward 11,6430,Hotel/Motel,0,0,0,0
+Ward 11,6430,RV/Tent/Other,0,0,0,0
+Ward 11,6430,No Response,0,0,0,0
+Ward 11,6450,Single Detached House,757,11,4,0
+Ward 11,6450,Duplex/Fourplex,12,0,0,0
+Ward 11,6450,Row House,124,9,0,0
+Ward 11,6450,Apartment (5+ stories),0,0,0,0
+Ward 11,6450,Apartment (1-4 stories),13,0,0,0
+Ward 11,6450,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6450,Institution/Collective Residence,0,0,0,0
+Ward 11,6450,Hotel/Motel,0,0,0,0
+Ward 11,6450,RV/Tent/Other,0,0,0,0
+Ward 11,6450,No Response,0,0,0,0
+Ward 11,6460,Single Detached House,638,20,1,0
+Ward 11,6460,Duplex/Fourplex,31,2,0,0
+Ward 11,6460,Row House,342,8,3,0
+Ward 11,6460,Apartment (5+ stories),0,0,0,0
+Ward 11,6460,Apartment (1-4 stories),12,0,0,0
+Ward 11,6460,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6460,Institution/Collective Residence,0,0,0,0
+Ward 11,6460,Hotel/Motel,0,0,0,0
+Ward 11,6460,RV/Tent/Other,0,0,0,0
+Ward 11,6460,No Response,0,0,0,0
+Ward 11,6470,Single Detached House,527,9,1,0
+Ward 11,6470,Duplex/Fourplex,181,8,0,0
+Ward 11,6470,Row House,391,14,5,0
+Ward 11,6470,Apartment (5+ stories),0,0,0,0
+Ward 11,6470,Apartment (1-4 stories),1,5,2,0
+Ward 11,6470,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6470,Institution/Collective Residence,0,0,0,0
+Ward 11,6470,Hotel/Motel,0,0,0,0
+Ward 11,6470,RV/Tent/Other,0,0,0,0
+Ward 11,6470,No Response,0,0,0,0
+Ward 11,6480,Single Detached House,438,14,3,0
+Ward 11,6480,Duplex/Fourplex,51,1,0,0
+Ward 11,6480,Row House,191,6,14,0
+Ward 11,6480,Apartment (5+ stories),0,0,0,0
+Ward 11,6480,Apartment (1-4 stories),132,7,1,0
+Ward 11,6480,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6480,Institution/Collective Residence,1,0,0,0
+Ward 11,6480,Hotel/Motel,0,0,0,0
+Ward 11,6480,RV/Tent/Other,0,0,0,0
+Ward 11,6480,No Response,0,0,0,0
+Ward 11,6492,Single Detached House,0,0,0,0
+Ward 11,6492,Duplex/Fourplex,0,0,0,0
+Ward 11,6492,Row House,0,0,0,0
+Ward 11,6492,Apartment (5+ stories),0,0,0,0
+Ward 11,6492,Apartment (1-4 stories),0,0,0,0
+Ward 11,6492,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6492,Institution/Collective Residence,0,0,0,0
+Ward 11,6492,Hotel/Motel,0,0,0,0
+Ward 11,6492,RV/Tent/Other,0,0,0,0
+Ward 11,6492,No Response,0,0,0,0
+Ward 11,6500,Single Detached House,0,0,0,0
+Ward 11,6500,Duplex/Fourplex,0,0,0,0
+Ward 11,6500,Row House,0,0,0,0
+Ward 11,6500,Apartment (5+ stories),0,0,0,0
+Ward 11,6500,Apartment (1-4 stories),0,0,0,0
+Ward 11,6500,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6500,Institution/Collective Residence,0,0,0,0
+Ward 11,6500,Hotel/Motel,0,0,0,0
+Ward 11,6500,RV/Tent/Other,0,0,0,0
+Ward 11,6500,No Response,0,0,0,0
+Ward 11,6510,Single Detached House,0,0,0,0
+Ward 11,6510,Duplex/Fourplex,0,0,0,0
+Ward 11,6510,Row House,0,0,0,0
+Ward 11,6510,Apartment (5+ stories),0,0,0,0
+Ward 11,6510,Apartment (1-4 stories),0,0,0,0
+Ward 11,6510,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6510,Institution/Collective Residence,0,0,0,0
+Ward 11,6510,Hotel/Motel,0,0,0,0
+Ward 11,6510,RV/Tent/Other,0,0,0,0
+Ward 11,6510,No Response,0,0,0,0
+Ward 11,6520,Single Detached House,0,0,0,0
+Ward 11,6520,Duplex/Fourplex,0,0,0,0
+Ward 11,6520,Row House,0,0,0,0
+Ward 11,6520,Apartment (5+ stories),0,0,0,0
+Ward 11,6520,Apartment (1-4 stories),647,29,132,0
+Ward 11,6520,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6520,Institution/Collective Residence,1,0,0,0
+Ward 11,6520,Hotel/Motel,0,0,0,0
+Ward 11,6520,RV/Tent/Other,0,0,4,0
+Ward 11,6520,No Response,0,0,0,0
+Ward 11,6540,Single Detached House,0,0,0,0
+Ward 11,6540,Duplex/Fourplex,0,0,0,0
+Ward 11,6540,Row House,0,0,0,0
+Ward 11,6540,Apartment (5+ stories),0,0,0,0
+Ward 11,6540,Apartment (1-4 stories),0,0,0,0
+Ward 11,6540,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6540,Institution/Collective Residence,0,0,0,0
+Ward 11,6540,Hotel/Motel,0,0,0,0
+Ward 11,6540,RV/Tent/Other,0,0,0,0
+Ward 11,6540,No Response,0,0,0,0
+Ward 11,6560,Single Detached House,0,0,0,0
+Ward 11,6560,Duplex/Fourplex,0,0,0,0
+Ward 11,6560,Row House,0,0,0,0
+Ward 11,6560,Apartment (5+ stories),0,0,0,0
+Ward 11,6560,Apartment (1-4 stories),0,0,0,0
+Ward 11,6560,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6560,Institution/Collective Residence,0,0,0,0
+Ward 11,6560,Hotel/Motel,0,0,0,0
+Ward 11,6560,RV/Tent/Other,0,0,0,0
+Ward 11,6560,No Response,0,0,0,0
+Ward 11,6570,Single Detached House,0,0,0,0
+Ward 11,6570,Duplex/Fourplex,0,0,0,0
+Ward 11,6570,Row House,0,0,0,0
+Ward 11,6570,Apartment (5+ stories),0,0,0,0
+Ward 11,6570,Apartment (1-4 stories),0,0,0,0
+Ward 11,6570,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6570,Institution/Collective Residence,0,0,0,0
+Ward 11,6570,Hotel/Motel,0,0,0,0
+Ward 11,6570,RV/Tent/Other,0,0,0,0
+Ward 11,6570,No Response,0,0,0,0
+Ward 11,6590,Single Detached House,0,0,0,0
+Ward 11,6590,Duplex/Fourplex,0,0,0,0
+Ward 11,6590,Row House,0,0,0,0
+Ward 11,6590,Apartment (5+ stories),0,0,0,0
+Ward 11,6590,Apartment (1-4 stories),0,0,0,0
+Ward 11,6590,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6590,Institution/Collective Residence,0,0,0,0
+Ward 11,6590,Hotel/Motel,0,0,0,0
+Ward 11,6590,RV/Tent/Other,0,0,0,0
+Ward 11,6590,No Response,0,0,0,0
+Ward 11,6600,Single Detached House,460,15,3,0
+Ward 11,6600,Duplex/Fourplex,87,3,0,0
+Ward 11,6600,Row House,510,15,8,0
+Ward 11,6600,Apartment (5+ stories),0,0,0,0
+Ward 11,6600,Apartment (1-4 stories),97,0,2,0
+Ward 11,6600,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6600,Institution/Collective Residence,1,0,0,0
+Ward 11,6600,Hotel/Motel,0,0,0,0
+Ward 11,6600,RV/Tent/Other,0,0,0,0
+Ward 11,6600,No Response,0,0,0,0
+Ward 11,6610,Single Detached House,1122,98,115,0
+Ward 11,6610,Duplex/Fourplex,171,13,21,0
+Ward 11,6610,Row House,37,8,26,0
+Ward 11,6610,Apartment (5+ stories),126,7,0,0
+Ward 11,6610,Apartment (1-4 stories),712,52,14,0
+Ward 11,6610,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6610,Institution/Collective Residence,2,2,34,0
+Ward 11,6610,Hotel/Motel,0,0,0,0
+Ward 11,6610,RV/Tent/Other,0,0,0,0
+Ward 11,6610,No Response,0,0,0,0
+Ward 11,6640,Single Detached House,0,0,0,0
+Ward 11,6640,Duplex/Fourplex,0,0,0,0
+Ward 11,6640,Row House,0,0,0,0
+Ward 11,6640,Apartment (5+ stories),0,0,0,0
+Ward 11,6640,Apartment (1-4 stories),0,0,0,0
+Ward 11,6640,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6640,Institution/Collective Residence,0,0,0,0
+Ward 11,6640,Hotel/Motel,0,0,0,0
+Ward 11,6640,RV/Tent/Other,0,0,0,0
+Ward 11,6640,No Response,0,0,0,0
+Ward 11,6650,Single Detached House,0,0,0,0
+Ward 11,6650,Duplex/Fourplex,0,0,0,0
+Ward 11,6650,Row House,0,0,0,0
+Ward 11,6650,Apartment (5+ stories),0,0,0,0
+Ward 11,6650,Apartment (1-4 stories),0,0,0,0
+Ward 11,6650,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6650,Institution/Collective Residence,0,0,0,0
+Ward 11,6650,Hotel/Motel,0,0,0,0
+Ward 11,6650,RV/Tent/Other,0,0,0,0
+Ward 11,6650,No Response,0,0,0,0
+Ward 11,6670,Single Detached House,946,18,4,0
+Ward 11,6670,Duplex/Fourplex,164,8,0,0
+Ward 11,6670,Row House,179,10,1,0
+Ward 11,6670,Apartment (5+ stories),0,0,0,0
+Ward 11,6670,Apartment (1-4 stories),72,5,1,0
+Ward 11,6670,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6670,Institution/Collective Residence,0,0,0,0
+Ward 11,6670,Hotel/Motel,0,0,0,0
+Ward 11,6670,RV/Tent/Other,1,0,0,0
+Ward 11,6670,No Response,0,0,0,0
+Ward 11,6680,Single Detached House,903,13,3,0
+Ward 11,6680,Duplex/Fourplex,32,3,3,0
+Ward 11,6680,Row House,287,18,1,0
+Ward 11,6680,Apartment (5+ stories),0,0,0,0
+Ward 11,6680,Apartment (1-4 stories),9,0,0,0
+Ward 11,6680,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6680,Institution/Collective Residence,0,0,0,0
+Ward 11,6680,Hotel/Motel,0,0,0,0
+Ward 11,6680,RV/Tent/Other,0,0,0,0
+Ward 11,6680,No Response,0,0,0,0
+Ward 11,6690,Single Detached House,0,0,0,0
+Ward 11,6690,Duplex/Fourplex,0,0,0,0
+Ward 11,6690,Row House,0,0,0,0
+Ward 11,6690,Apartment (5+ stories),0,0,0,0
+Ward 11,6690,Apartment (1-4 stories),0,0,0,0
+Ward 11,6690,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6690,Institution/Collective Residence,0,0,0,0
+Ward 11,6690,Hotel/Motel,0,0,0,0
+Ward 11,6690,RV/Tent/Other,0,0,0,0
+Ward 11,6690,No Response,0,0,0,0
+Ward 11,6700,Single Detached House,0,0,0,0
+Ward 11,6700,Duplex/Fourplex,0,0,0,0
+Ward 11,6700,Row House,0,0,0,0
+Ward 11,6700,Apartment (5+ stories),0,0,0,0
+Ward 11,6700,Apartment (1-4 stories),0,0,0,0
+Ward 11,6700,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6700,Institution/Collective Residence,0,0,0,0
+Ward 11,6700,Hotel/Motel,0,0,0,0
+Ward 11,6700,RV/Tent/Other,0,0,0,0
+Ward 11,6700,No Response,0,0,0,0
+Ward 11,6720,Single Detached House,8,0,0,0
+Ward 11,6720,Duplex/Fourplex,277,7,0,0
+Ward 11,6720,Row House,197,9,13,0
+Ward 11,6720,Apartment (5+ stories),215,2,2,0
+Ward 11,6720,Apartment (1-4 stories),278,54,1,0
+Ward 11,6720,Manufactured/Mobile Home,1,0,0,0
+Ward 11,6720,Institution/Collective Residence,1,0,0,0
+Ward 11,6720,Hotel/Motel,0,0,0,0
+Ward 11,6720,RV/Tent/Other,0,0,0,0
+Ward 11,6720,No Response,0,0,0,0
+Ward 11,6750,Single Detached House,438,6,7,0
+Ward 11,6750,Duplex/Fourplex,44,0,1,0
+Ward 11,6750,Row House,408,18,7,0
+Ward 11,6750,Apartment (5+ stories),0,0,0,0
+Ward 11,6750,Apartment (1-4 stories),183,1,1,0
+Ward 11,6750,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6750,Institution/Collective Residence,0,0,0,0
+Ward 11,6750,Hotel/Motel,0,0,0,0
+Ward 11,6750,RV/Tent/Other,0,0,0,0
+Ward 11,6750,No Response,0,0,0,0
+Ward 11,6760,Single Detached House,551,4,0,0
+Ward 11,6760,Duplex/Fourplex,99,5,0,0
+Ward 11,6760,Row House,154,6,1,0
+Ward 11,6760,Apartment (5+ stories),0,0,0,0
+Ward 11,6760,Apartment (1-4 stories),317,10,0,0
+Ward 11,6760,Manufactured/Mobile Home,0,0,0,0
+Ward 11,6760,Institution/Collective Residence,0,0,0,0
+Ward 11,6760,Hotel/Motel,0,0,0,0
+Ward 11,6760,RV/Tent/Other,0,0,0,0
+Ward 11,6760,No Response,0,0,0,0
+Ward 11,6780,Single Detached House,0,0,0,0
+Ward 11,6780,Duplex/Fourplex,0,0,0,0
+Ward 11,6780,Row House,0,0,0,0
+Ward 11,6780,Apartment (5+ stories),0,0,0,0
+Ward 11,6780,Apartment (1-4 stories),0,0,0,0
+Ward 11,6780,Manufactured/Mobile Home,43,25,0,0
+Ward 11,6780,Institution/Collective Residence,0,0,0,0
+Ward 11,6780,Hotel/Motel,0,1,0,0
+Ward 11,6780,RV/Tent/Other,0,0,0,0
+Ward 11,6780,No Response,0,0,0,0
+Ward 12,6030,Single Detached House,770,12,1,0
+Ward 12,6030,Duplex/Fourplex,16,1,0,0
+Ward 12,6030,Row House,237,2,1,0
+Ward 12,6030,Apartment (5+ stories),0,0,0,0
+Ward 12,6030,Apartment (1-4 stories),371,0,2,0
+Ward 12,6030,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6030,Institution/Collective Residence,2,0,0,0
+Ward 12,6030,Hotel/Motel,0,0,0,0
+Ward 12,6030,RV/Tent/Other,0,0,0,0
+Ward 12,6030,No Response,0,0,0,0
+Ward 12,6140,Single Detached House,1123,5,4,0
+Ward 12,6140,Duplex/Fourplex,64,0,0,0
+Ward 12,6140,Row House,154,0,1,0
+Ward 12,6140,Apartment (5+ stories),0,0,0,0
+Ward 12,6140,Apartment (1-4 stories),137,0,1,0
+Ward 12,6140,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6140,Institution/Collective Residence,0,0,0,0
+Ward 12,6140,Hotel/Motel,0,0,0,0
+Ward 12,6140,RV/Tent/Other,0,0,0,0
+Ward 12,6140,No Response,0,0,0,0
+Ward 12,6150,Single Detached House,812,9,0,0
+Ward 12,6150,Duplex/Fourplex,53,6,1,0
+Ward 12,6150,Row House,300,10,4,0
+Ward 12,6150,Apartment (5+ stories),0,0,0,0
+Ward 12,6150,Apartment (1-4 stories),60,2,0,0
+Ward 12,6150,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6150,Institution/Collective Residence,0,0,0,0
+Ward 12,6150,Hotel/Motel,0,0,0,0
+Ward 12,6150,RV/Tent/Other,0,0,0,0
+Ward 12,6150,No Response,0,0,0,0
+Ward 12,6211,Single Detached House,1078,0,3,0
+Ward 12,6211,Duplex/Fourplex,178,0,0,0
+Ward 12,6211,Row House,326,3,4,0
+Ward 12,6211,Apartment (5+ stories),0,0,0,0
+Ward 12,6211,Apartment (1-4 stories),480,6,6,0
+Ward 12,6211,Manufactured/Mobile Home,2,0,0,0
+Ward 12,6211,Institution/Collective Residence,0,0,0,0
+Ward 12,6211,Hotel/Motel,0,0,0,0
+Ward 12,6211,RV/Tent/Other,0,0,0,0
+Ward 12,6211,No Response,0,0,0,0
+Ward 12,6213,Single Detached House,2491,32,2,0
+Ward 12,6213,Duplex/Fourplex,405,1,1,0
+Ward 12,6213,Row House,301,52,16,0
+Ward 12,6213,Apartment (5+ stories),0,0,0,0
+Ward 12,6213,Apartment (1-4 stories),632,37,3,0
+Ward 12,6213,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6213,Institution/Collective Residence,0,0,0,0
+Ward 12,6213,Hotel/Motel,0,0,0,0
+Ward 12,6213,RV/Tent/Other,0,0,0,0
+Ward 12,6213,No Response,0,0,0,0
+Ward 12,6214,Single Detached House,0,0,0,0
+Ward 12,6214,Duplex/Fourplex,0,0,0,0
+Ward 12,6214,Row House,0,0,0,0
+Ward 12,6214,Apartment (5+ stories),0,0,0,0
+Ward 12,6214,Apartment (1-4 stories),0,0,0,0
+Ward 12,6214,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6214,Institution/Collective Residence,0,0,0,0
+Ward 12,6214,Hotel/Motel,0,0,0,0
+Ward 12,6214,RV/Tent/Other,0,0,0,0
+Ward 12,6214,No Response,0,0,0,0
+Ward 12,6216,Single Detached House,235,25,0,0
+Ward 12,6216,Duplex/Fourplex,33,7,0,0
+Ward 12,6216,Row House,22,49,2,0
+Ward 12,6216,Apartment (5+ stories),0,0,0,0
+Ward 12,6216,Apartment (1-4 stories),0,0,0,0
+Ward 12,6216,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6216,Institution/Collective Residence,0,0,0,0
+Ward 12,6216,Hotel/Motel,0,0,0,0
+Ward 12,6216,RV/Tent/Other,0,0,0,0
+Ward 12,6216,No Response,0,0,0,0
+Ward 12,6330,Single Detached House,1093,16,3,0
+Ward 12,6330,Duplex/Fourplex,70,0,0,0
+Ward 12,6330,Row House,90,2,2,0
+Ward 12,6330,Apartment (5+ stories),0,0,0,0
+Ward 12,6330,Apartment (1-4 stories),0,0,0,0
+Ward 12,6330,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6330,Institution/Collective Residence,0,0,0,0
+Ward 12,6330,Hotel/Motel,0,0,0,0
+Ward 12,6330,RV/Tent/Other,1,0,0,0
+Ward 12,6330,No Response,0,0,0,0
+Ward 12,6370,Single Detached House,2059,27,2,0
+Ward 12,6370,Duplex/Fourplex,13,1,0,0
+Ward 12,6370,Row House,25,1,1,0
+Ward 12,6370,Apartment (5+ stories),0,0,0,0
+Ward 12,6370,Apartment (1-4 stories),78,12,0,0
+Ward 12,6370,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6370,Institution/Collective Residence,2,0,0,0
+Ward 12,6370,Hotel/Motel,0,0,0,0
+Ward 12,6370,RV/Tent/Other,3,0,0,0
+Ward 12,6370,No Response,0,0,0,0
+Ward 12,6390,Single Detached House,1208,8,2,0
+Ward 12,6390,Duplex/Fourplex,199,2,0,0
+Ward 12,6390,Row House,1,7,0,0
+Ward 12,6390,Apartment (5+ stories),0,0,0,0
+Ward 12,6390,Apartment (1-4 stories),322,3,11,0
+Ward 12,6390,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6390,Institution/Collective Residence,0,0,0,0
+Ward 12,6390,Hotel/Motel,0,0,0,0
+Ward 12,6390,RV/Tent/Other,0,0,0,0
+Ward 12,6390,No Response,0,0,0,0
+Ward 12,6440,Single Detached House,0,0,0,0
+Ward 12,6440,Duplex/Fourplex,0,0,0,0
+Ward 12,6440,Row House,0,0,0,0
+Ward 12,6440,Apartment (5+ stories),0,0,0,0
+Ward 12,6440,Apartment (1-4 stories),0,0,0,0
+Ward 12,6440,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6440,Institution/Collective Residence,0,0,0,0
+Ward 12,6440,Hotel/Motel,0,0,0,0
+Ward 12,6440,RV/Tent/Other,0,0,0,0
+Ward 12,6440,No Response,0,0,0,0
+Ward 12,6441,Single Detached House,103,21,1,0
+Ward 12,6441,Duplex/Fourplex,4,3,0,0
+Ward 12,6441,Row House,1,2,6,0
+Ward 12,6441,Apartment (5+ stories),0,0,0,0
+Ward 12,6441,Apartment (1-4 stories),0,0,0,0
+Ward 12,6441,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6441,Institution/Collective Residence,0,0,0,0
+Ward 12,6441,Hotel/Motel,0,0,0,0
+Ward 12,6441,RV/Tent/Other,0,0,0,0
+Ward 12,6441,No Response,0,0,0,0
+Ward 12,6442,Single Detached House,1606,21,0,0
+Ward 12,6442,Duplex/Fourplex,398,10,0,0
+Ward 12,6442,Row House,109,1,5,0
+Ward 12,6442,Apartment (5+ stories),0,0,0,0
+Ward 12,6442,Apartment (1-4 stories),406,18,1,0
+Ward 12,6442,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6442,Institution/Collective Residence,1,0,0,0
+Ward 12,6442,Hotel/Motel,0,0,0,0
+Ward 12,6442,RV/Tent/Other,0,0,0,0
+Ward 12,6442,No Response,0,0,0,0
+Ward 12,6443,Single Detached House,752,16,9,0
+Ward 12,6443,Duplex/Fourplex,132,2,0,0
+Ward 12,6443,Row House,100,9,0,0
+Ward 12,6443,Apartment (5+ stories),0,0,0,0
+Ward 12,6443,Apartment (1-4 stories),140,2,2,0
+Ward 12,6443,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6443,Institution/Collective Residence,0,0,0,0
+Ward 12,6443,Hotel/Motel,0,0,0,0
+Ward 12,6443,RV/Tent/Other,0,0,0,0
+Ward 12,6443,No Response,0,0,0,0
+Ward 12,6444,Single Detached House,728,42,0,0
+Ward 12,6444,Duplex/Fourplex,180,11,0,0
+Ward 12,6444,Row House,23,14,0,0
+Ward 12,6444,Apartment (5+ stories),0,0,0,0
+Ward 12,6444,Apartment (1-4 stories),400,92,0,0
+Ward 12,6444,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6444,Institution/Collective Residence,1,0,0,0
+Ward 12,6444,Hotel/Motel,0,0,0,0
+Ward 12,6444,RV/Tent/Other,0,0,0,0
+Ward 12,6444,No Response,0,0,0,0
+Ward 12,6530,Single Detached House,809,17,1,0
+Ward 12,6530,Duplex/Fourplex,89,4,2,0
+Ward 12,6530,Row House,100,0,0,0
+Ward 12,6530,Apartment (5+ stories),0,0,0,0
+Ward 12,6530,Apartment (1-4 stories),112,1,1,0
+Ward 12,6530,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6530,Institution/Collective Residence,1,0,0,0
+Ward 12,6530,Hotel/Motel,0,0,0,0
+Ward 12,6530,RV/Tent/Other,0,0,0,0
+Ward 12,6530,No Response,0,0,0,0
+Ward 12,6580,Single Detached House,700,9,14,0
+Ward 12,6580,Duplex/Fourplex,122,1,5,0
+Ward 12,6580,Row House,364,10,5,0
+Ward 12,6580,Apartment (5+ stories),0,0,0,0
+Ward 12,6580,Apartment (1-4 stories),461,3,2,0
+Ward 12,6580,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6580,Institution/Collective Residence,0,0,0,0
+Ward 12,6580,Hotel/Motel,0,0,0,0
+Ward 12,6580,RV/Tent/Other,2,0,0,0
+Ward 12,6580,No Response,0,0,0,0
+Ward 12,6660,Single Detached House,92,0,3,0
+Ward 12,6660,Duplex/Fourplex,0,0,0,0
+Ward 12,6660,Row House,0,0,0,0
+Ward 12,6660,Apartment (5+ stories),0,0,0,0
+Ward 12,6660,Apartment (1-4 stories),0,0,0,0
+Ward 12,6660,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6660,Institution/Collective Residence,0,0,0,0
+Ward 12,6660,Hotel/Motel,0,0,0,0
+Ward 12,6660,RV/Tent/Other,0,0,0,0
+Ward 12,6660,No Response,0,0,0,0
+Ward 12,6661,Single Detached House,920,21,0,0
+Ward 12,6661,Duplex/Fourplex,362,4,0,0
+Ward 12,6661,Row House,52,45,3,0
+Ward 12,6661,Apartment (5+ stories),0,0,0,0
+Ward 12,6661,Apartment (1-4 stories),0,0,0,0
+Ward 12,6661,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6661,Institution/Collective Residence,0,0,0,0
+Ward 12,6661,Hotel/Motel,0,0,0,0
+Ward 12,6661,RV/Tent/Other,1,0,0,0
+Ward 12,6661,No Response,0,0,0,0
+Ward 12,6662,Single Detached House,886,49,1,0
+Ward 12,6662,Duplex/Fourplex,284,6,1,0
+Ward 12,6662,Row House,181,23,1,0
+Ward 12,6662,Apartment (5+ stories),0,0,0,0
+Ward 12,6662,Apartment (1-4 stories),153,4,3,0
+Ward 12,6662,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6662,Institution/Collective Residence,0,0,0,0
+Ward 12,6662,Hotel/Motel,0,0,0,0
+Ward 12,6662,RV/Tent/Other,0,0,0,0
+Ward 12,6662,No Response,0,0,0,0
+Ward 12,6665,Single Detached House,0,0,0,0
+Ward 12,6665,Duplex/Fourplex,0,0,0,0
+Ward 12,6665,Row House,0,0,0,0
+Ward 12,6665,Apartment (5+ stories),0,0,0,0
+Ward 12,6665,Apartment (1-4 stories),0,0,0,0
+Ward 12,6665,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6665,Institution/Collective Residence,0,0,0,0
+Ward 12,6665,Hotel/Motel,0,0,0,0
+Ward 12,6665,RV/Tent/Other,0,0,0,0
+Ward 12,6665,No Response,0,0,0,0
+Ward 12,6770,Single Detached House,838,19,3,0
+Ward 12,6770,Duplex/Fourplex,66,4,5,0
+Ward 12,6770,Row House,15,0,3,0
+Ward 12,6770,Apartment (5+ stories),0,0,0,0
+Ward 12,6770,Apartment (1-4 stories),258,4,1,0
+Ward 12,6770,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6770,Institution/Collective Residence,0,0,0,0
+Ward 12,6770,Hotel/Motel,0,0,0,0
+Ward 12,6770,RV/Tent/Other,0,0,0,0
+Ward 12,6770,No Response,0,0,0,0
+Ward 12,6790,Single Detached House,1907,33,8,0
+Ward 12,6790,Duplex/Fourplex,139,7,1,0
+Ward 12,6790,Row House,88,2,1,0
+Ward 12,6790,Apartment (5+ stories),0,0,0,0
+Ward 12,6790,Apartment (1-4 stories),282,14,1,0
+Ward 12,6790,Manufactured/Mobile Home,0,0,0,0
+Ward 12,6790,Institution/Collective Residence,0,0,0,0
+Ward 12,6790,Hotel/Motel,0,0,0,0
+Ward 12,6790,RV/Tent/Other,0,0,0,0
+Ward 12,6790,No Response,0,0,0,0
